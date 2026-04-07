@@ -41,7 +41,7 @@ Plus: Tennis, ATP, Boxing, MMA, F1, IndyCar, NASCAR, PGA, LPGA
 - One item per game (uses ESPN team IDs for uniqueness)
 - Published when game goes FINAL
 - OT games marked with `(OT)`
-- Updated automatically by GitHub Actions every 10 minutes
+- Updated automatically by GitHub Actions every 30 minutes
 
 ## Technical Notes
 
