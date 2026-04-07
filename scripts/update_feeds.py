@@ -271,11 +271,18 @@ def write_feed_from_state(path, title, link, description, league, state, leagues
     valid_dates = {today, yesterday}
 
     published = {}
-    league_games = state.get("published", {}).get(league, {})
-    for gid, title_text in league_games.items():
-        match = re.match(r"([a-z]+)-(\d+)-(\d+)-(\d{4}-\d{2}-\d{2})", gid)
-        if match and match.group(4) in valid_dates:
-            published[gid] = title_text
+    if league == "all":
+        for league_key, league_games in state.get("published", {}).items():
+            for gid, title_text in league_games.items():
+                match = re.match(r"([a-z]+)-(\d+)-(\d+)-(\d{4}-\d{2}-\d{2})", gid)
+                if match and match.group(4) in valid_dates:
+                    published[gid] = f"{league_key.upper()}: {title_text}"
+    else:
+        league_games = state.get("published", {}).get(league, {})
+        for gid, title_text in league_games.items():
+            match = re.match(r"([a-z]+)-(\d+)-(\d+)-(\d{4}-\d{2}-\d{2})", gid)
+            if match and match.group(4) in valid_dates:
+                published[gid] = title_text
 
     existing_guids = set()
     if path.exists():
@@ -289,12 +296,15 @@ def write_feed_from_state(path, title, link, description, league, state, leagues
         if gid in existing_guids:
             continue
         
-        match = re.match(r"([a-z]+)-(\d+)-(\d+)-(\d{4}-\d{2}-\d{2})", gid)
-        if match:
-            league_key = match.group(1)
-            title_with_league = f"{league_key.upper()}: {title_text}"
+        if league == "all":
+            title_with_league = title_text
         else:
-            title_with_league = gid
+            match = re.match(r"([a-z]+)-(\d+)-(\d+)-(\d{4}-\d{2}-\d{2})", gid)
+            if match:
+                league_key = match.group(1)
+                title_with_league = f"{league_key.upper()}: {title_text}"
+            else:
+                title_with_league = gid
         
         existing_guids.add(gid)
         it = SubElement(channel, "item")
