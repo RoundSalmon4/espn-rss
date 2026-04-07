@@ -145,7 +145,10 @@ def fetch_espn(league_info, date_str):
     path = league_info["path"]
     url = f"{BASE_URL}/sports/{path}/scoreboard?dates={date_str.replace('-', '')}"
     
-    if "college" in path:
+    # Only add groups=50 for specific sports that need it
+    groups_sports = ["basketball/mens-college-basketball", "basketball/womens-college-basketball", 
+                     "football/college-football", "volleyball", "softball"]
+    if any(sport in path for sport in groups_sports):
         url += "&groups=50"
     
     print(f"Fetching: {url}")
