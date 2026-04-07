@@ -177,6 +177,9 @@ def extract_games_espn(data, league):
         away = competitors[0]
         home = competitors[1]
         
+        if away.get("homeAway") == "home":
+            away, home = home, away
+        
         away_score = away.get("score", "0")
         home_score = home.get("score", "0")
         
