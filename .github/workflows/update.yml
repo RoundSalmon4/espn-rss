@@ -1,0 +1,37 @@
+name: Update espn-rss feeds
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: update-feeds
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+      - run: pip install requests
+      - run: mkdir -p data
+      - run: rm -f rss/*.xml rss/teams/*.xml
+      - run: python scripts/update_feeds.py
+        continue-on-error: true
+      - run: |
+          git config user.name "rss-bot"
+          git config user.email "rss-bot@users.noreply.github.com"
+          git add rss data/state.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update RSS feeds"
+            git push
+          fi
