@@ -1,0 +1,62 @@
+{
+  "published": {
+    "nba": {
+      "nba-1-18-2026-04-06": "ATL 105 \u2013 NY 108 (Final)",
+      "nba-19-8-2026-04-06": "ORL 123 \u2013 DET 107 (Final)",
+      "nba-29-5-2026-04-06": "MEM 126 \u2013 CLE 142 (Final)",
+      "nba-20-24-2026-04-06": "SA 115 \u2013 PHI 102 (Final)",
+      "nba-22-7-2026-04-06": "DEN 137 \u2013 POR 132 (Final)"
+    },
+    "wnba": {},
+    "mlb": {
+      "mlb-16-30-2026-04-06": "TB 6 \u2013 CHC 4 (Final)",
+      "mlb-5-7-2026-04-06": "CLE 2 \u2013 KC 4 (Final)",
+      "mlb-17-28-2026-04-06": "MIA 0 \u2013 CIN 2 (Final)",
+      "mlb-23-25-2026-04-06": "PIT 0 \u2013 SD 5 (Final)",
+      "mlb-2-8-2026-04-06": "BOS 6 \u2013 MIL 8 (Final)",
+      "mlb-20-24-2026-04-06": "WSH 9 \u2013 STL 6 (Final)",
+      "mlb-14-19-2026-04-06": "TOR 2 \u2013 LAD 14 (Final)",
+      "mlb-1-4-2026-04-06": "CHW 1 \u2013 BAL 2 (Final)",
+      "mlb-6-9-2026-04-06": "MIN 7 \u2013 DET 3 (Final)",
+      "mlb-12-13-2026-04-06": "TEX 2 \u2013 SEA 1 (Final)",
+      "mlb-18-27-2026-04-06": "COL 9 \u2013 HOU 7 (Final)",
+      "mlb-15-3-2026-04-06": "LAA 6 \u2013 ATL 2 (Final)",
+      "mlb-22-26-2026-04-06": "SF 4 \u2013 PHI 6 (Final)"
+    },
+    "nhl": {
+      "nhl-2-20-2026-04-06": "BUF 4 \u2013 TB 2 (Final)",
+      "nhl-124292-28-2026-04-06": "WPG 6 \u2013 SEA 2 (Final)",
+      "nhl-18-4-2026-04-06": "SJ 3 \u2013 CHI 2 (Final)",
+      "nhl-27-8-2026-04-06": "LA 3 \u2013 NSH 2 (Final)"
+    },
+    "nfl": {},
+    "ncaamb": {
+      "ncaamb-130-41-2026-04-06": "MICH 69 \u2013 CONN 63 (Final)"
+    },
+    "ncaawb": {},
+    "mls": {},
+    "nwsl": {},
+    "premier-league": {},
+    "champions-league": {},
+    "europa-league": {},
+    "ncaaf": {},
+    "ncaab": {
+      "ncaab-112-263-2026-04-06": "DBU 3 \u2013 OU 9 (Final)"
+    },
+    "ncaasoftball": {},
+    "lacrosse": {},
+    "wla": {},
+    "tennis": {},
+    "atp": {},
+    "ncaaw": {},
+    "ncaam": {},
+    "boxing": {},
+    "mma": {},
+    "f1": {},
+    "indycar": {},
+    "nascar": {},
+    "pga": {},
+    "lpga": {},
+    "marching-band": {}
+  }
+}
