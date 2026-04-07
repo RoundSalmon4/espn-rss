@@ -1,4 +1,4 @@
-# espn-rss – Sports RSS Feeds
+# ESPN RSS Feeds
 
 Auto-generated RSS feeds for sports scores using the ESPN API.
 
