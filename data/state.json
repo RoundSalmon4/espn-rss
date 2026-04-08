@@ -11,7 +11,8 @@
       "nba-15-17-2026-04-07": "MIL 90 \u2013 BKN 96 (Final)",
       "nba-14-28-2026-04-07": "MIA 95 \u2013 TOR 121 (Final)",
       "nba-26-3-2026-04-07": "UTAH 137 \u2013 NO 156 (Final)",
-      "nba-2-30-2026-04-07": "CHA 102 \u2013 BOS 113 (Final)"
+      "nba-2-30-2026-04-07": "CHA 102 \u2013 BOS 113 (Final)",
+      "nba-23-9-2026-04-07": "SAC 105 \u2013 GS 110 (Final)"
     },
     "wnba": {},
     "mlb": {
@@ -40,7 +41,8 @@
       "mlb-14-19-2026-04-07": "LAD 4 \u2013 TOR 1 (Final)",
       "mlb-6-9-2026-04-07": "DET 2 \u2013 MIN 4 (Final)",
       "mlb-12-13-2026-04-07": "SEA 2 \u2013 TEX 3 (Final)",
-      "mlb-18-27-2026-04-07": "HOU 1 \u2013 COL 5 (Final)"
+      "mlb-18-27-2026-04-07": "HOU 1 \u2013 COL 5 (Final)",
+      "mlb-22-26-2026-04-07": "PHI 0 \u2013 SF 6 (Final)"
     },
     "nhl": {
       "nhl-2-20-2026-04-06": "TB 2 \u2013 BUF 4 (Final)",
@@ -54,7 +56,9 @@
       "nhl-1-7-2026-04-07": "BOS 5 \u2013 CAR 6 (Final)",
       "nhl-17-19-2026-04-07": "COL 3 \u2013 STL 1 (Final)",
       "nhl-3-9-2026-04-07": "CGY 3 \u2013 DAL 4 (Final)",
-      "nhl-124292-30-2026-04-07": "SEA 2 \u2013 MIN 5 (Final)"
+      "nhl-124292-30-2026-04-07": "SEA 2 \u2013 MIN 5 (Final)",
+      "nhl-129764-6-2026-04-07": "EDM 5 \u2013 UTA 6 (Final)",
+      "nhl-22-37-2026-04-07": "VGK 2 \u2013 VAN 1 (Final)"
     },
     "nfl": {},
     "ncaamb": {
@@ -150,7 +154,12 @@
       "ncaab-124-190-2026-04-07": "HOU 5 \u2013 SHSU 4 (Final)",
       "ncaab-206-264-2026-04-07": "KSU 10 \u2013 WICH 6 (Final)",
       "ncaab-122-443-2026-04-07": "AMCC 4 \u2013 RICE 18 (Final)",
-      "ncaab-185-187-2026-04-07": "PEPP 2 \u2013 CSUN 4 (Final)"
+      "ncaab-185-187-2026-04-07": "PEPP 2 \u2013 CSUN 4 (Final)",
+      "ncaab-165-66-2026-04-07": "UCLA 7 \u2013 CSUF 3 (Final)",
+      "ncaab-360-59-2026-04-07": "ASU 12 \u2013 GCU 8 (Final)",
+      "ncaab-158-85-2026-04-07": "BCU 10 \u2013 LSU 7 (Final)",
+      "ncaab-127-455-2026-04-07": "BYU 10 \u2013 UVU 5 (Final)",
+      "ncaab-183-448-2026-04-07": "UCD 11 \u2013 NEV 9 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
