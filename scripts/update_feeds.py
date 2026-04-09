@@ -94,7 +94,7 @@ def validate_state(state):
         
         keys_to_remove = set()
         for gid, title in games.items():
-            match = re.match(r"([a-z]+)-(\d+)-(\d+)-(\d{4}-\d{2}-\d{2})", gid)
+            match = re.match(r"([a-z\-]+)-(\d+)-(\d+)-(\d{4}-\d{2}-\d{2})", gid)
             if not match:
                 keys_to_remove.add(gid)
                 continue
@@ -130,7 +130,7 @@ def load_state():
     for league, games in list(data.get("published", {}).items()):
         keys_to_remove = set()
         for gid in games.keys():
-            match = re.match(r"([a-z]+)-(\d+)-(\d+)-(\d{4}-\d{2}-\d{2})", gid)
+            match = re.match(r"([a-z\-]+)-(\d+)-(\d+)-(\d{4}-\d{2}-\d{2})", gid)
             if match and match.group(4) not in valid_dates:
                 keys_to_remove.add(gid)
         for gid in keys_to_remove:
@@ -280,13 +280,13 @@ def write_feed_from_state(path, title, link, description, league, state, leagues
     if league == "all":
         for league_key, league_games in state.get("published", {}).items():
             for gid, title_text in league_games.items():
-                match = re.match(r"([a-z]+)-(\d+)-(\d+)-(\d{4}-\d{2}-\d{2})", gid)
+                match = re.match(r"([a-z\-]+)-(\d+)-(\d+)-(\d{4}-\d{2}-\d{2})", gid)
                 if match and match.group(4) in valid_dates:
                     published[gid] = f"{league_key.upper()}: {title_text}"
     else:
         league_games = state.get("published", {}).get(league, {})
         for gid, title_text in league_games.items():
-            match = re.match(r"([a-z]+)-(\d+)-(\d+)-(\d{4}-\d{2}-\d{2})", gid)
+            match = re.match(r"([a-z\-]+)-(\d+)-(\d+)-(\d{4}-\d{2}-\d{2})", gid)
             if match and match.group(4) in valid_dates:
                 published[gid] = title_text
 
@@ -437,6 +437,8 @@ def main():
                 leagues
             )
 
+    save_state(state)
+    
     write_feed_from_state(
         RSS_DIR / "all-finals.xml",
         "espn-rss – All Finals",
@@ -446,8 +448,7 @@ def main():
         state,
         leagues
     )
-
-    save_state(state)
+    
     state = validate_state(state)
     save_state(state)
 
