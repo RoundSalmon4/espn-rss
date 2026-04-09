@@ -364,7 +364,10 @@ def main():
 
     seen_base_gids_this_run = set()
 
+    print(f"=== Processing {len(leagues)} leagues: {list(leagues.keys())} ===")
+    
     for league, league_info in leagues.items():
+        print(f"Processing league: {league}")
         state["published"].setdefault(league, {})
         league_new = []
 
@@ -400,6 +403,7 @@ def main():
                 gid = f"{unique_key}-{date_str}"
                 title = game["title"]
                 state["published"][league][gid] = title
+                print(f"SAVED: {league} -> {gid}")
                 
                 if already_published:
                     continue
