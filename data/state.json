@@ -38,8 +38,13 @@
     "mls": {},
     "nwsl": {},
     "premier-league": {},
-    "champions-league": {},
-    "europa-league": {},
+    "champions-league": {
+      "champions-league-1068-83-2026-04-08": "ATM 2 \u2013 BAR 0 (Final)",
+      "champions-league-160-364-2026-04-08": "LIV 0 \u2013 PSG 2 (Final)"
+    },
+    "europa-league": {
+      "europa-league-244-2994-2026-04-08": "BET 1 \u2013 SCB 1 (Final)"
+    },
     "ncaaf": {},
     "ncaab": {
       "ncaab-269-353-2026-04-08": "FAMU 2 \u2013 TROY 12 (Final)",
