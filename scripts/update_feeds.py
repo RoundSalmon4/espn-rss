@@ -397,12 +397,13 @@ def main():
                 
                 seen_base_gids_this_run.add(unique_key)
                 
-                if already_published:
-                    continue
-                
                 gid = f"{unique_key}-{date_str}"
                 title = game["title"]
                 state["published"][league][gid] = title
+                
+                if already_published:
+                    continue
+                
                 league_new.append((gid, title))
                 all_new.append((gid, f"{league.upper()}: {title}"))
                 
