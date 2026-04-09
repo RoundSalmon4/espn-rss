@@ -405,15 +405,15 @@ def main():
                 state["published"][league][gid] = title
                 print(f"SAVED: {league} -> {gid}")
                 
+                for team_code in [game["away_code"], game["home_code"]]:
+                    team_path = TEAM_DIR / f"{league}-{team_code.lower()}.xml"
+                    write_feed(team_path, f"{league.upper()} – {team_code} Finals", "https://espn.com", f"Final games for {team_code}", [(gid, title)], state)
+                
                 if already_published:
                     continue
                 
                 league_new.append((gid, title))
                 all_new.append((gid, f"{league.upper()}: {title}"))
-                
-                for team_code in [game["away_code"], game["home_code"]]:
-                    team_path = TEAM_DIR / f"{league}-{team_code.lower()}.xml"
-                    write_feed(team_path, f"{league.upper()} – {team_code} Finals", "https://espn.com", f"Final games for {team_code}", [(gid, title)], state)
 
         url = f"https://espn.com/{league_info['path'].replace('/', '/')}/"
         
