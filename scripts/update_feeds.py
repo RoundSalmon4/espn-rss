@@ -432,25 +432,15 @@ def main():
                 leagues
             )
 
-    if all_new:
-        write_feed(
-            RSS_DIR / "all-finals.xml",
-            "espn-rss – All Finals",
-            "https://espn.com",
-            "All leagues final scores",
-            all_new,
-            state
-        )
-    else:
-        write_feed_from_state(
-            RSS_DIR / "all-finals.xml",
-            "espn-rss – All Finals",
-            "https://espn.com",
-            "All leagues final scores",
-            "all",
-            state,
-            leagues
-        )
+    write_feed_from_state(
+        RSS_DIR / "all-finals.xml",
+        "espn-rss – All Finals",
+        "https://espn.com",
+        "All leagues final scores",
+        "all",
+        state,
+        leagues
+    )
 
     save_state(state)
     state = validate_state(state)
