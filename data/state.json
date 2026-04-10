@@ -9,7 +9,9 @@
       "nba-21-6-2026-04-08": "DAL 107 \u2013 PHX 112 (Final)",
       "nba-12-25-2026-04-08": "OKC 128 \u2013 LAC 110 (Final)",
       "nba-14-28-2026-04-09": "MIA 114 \u2013 TOR 128 (Final)",
-      "nba-27-4-2026-04-09": "CHI 119 \u2013 WSH 108 (Final)"
+      "nba-27-4-2026-04-09": "CHI 119 \u2013 WSH 108 (Final)",
+      "nba-11-17-2026-04-09": "IND 123 \u2013 BKN 94 (Final)",
+      "nba-18-2-2026-04-09": "BOS 106 \u2013 NY 112 (Final)"
     },
     "wnba": {},
     "mlb": {
@@ -30,7 +32,9 @@
       "mlb-6-9-2026-04-08": "DET 6 \u2013 MIN 8 (Final)",
       "mlb-17-28-2026-04-09": "CIN 1 \u2013 MIA 8 (Final)",
       "mlb-10-11-2026-04-09": "ATH 1 \u2013 NYY 0 (Final)",
-      "mlb-6-9-2026-04-09": "DET 1 \u2013 MIN 3 (Final)"
+      "mlb-6-9-2026-04-09": "DET 1 \u2013 MIN 3 (Final)",
+      "mlb-21-29-2026-04-09": "ARI 7 \u2013 NYM 1 (Final)",
+      "mlb-4-7-2026-04-09": "CHW 2 \u2013 KC 0 (Final)"
     },
     "nhl": {
       "nhl-13-2-2026-04-08": "BUF 5 \u2013 NYR 3 (Final)",
@@ -38,7 +42,10 @@
       "nhl-18-6-2026-04-08": "EDM 5 \u2013 SJ 2 (Final)",
       "nhl-12-21-2026-04-09": "TOR 3 \u2013 NYI 5 (Final)",
       "nhl-14-26-2026-04-09": "FLA 1 \u2013 OTT 5 (Final)",
-      "nhl-11-16-2026-04-09": "PIT 5 \u2013 NJ 2 (Final)"
+      "nhl-11-16-2026-04-09": "PIT 5 \u2013 NJ 2 (Final)",
+      "nhl-2-29-2026-04-09": "CBJ 0 \u2013 BUF 5 (Final)",
+      "nhl-10-20-2026-04-09": "TB 1 \u2013 MTL 2 (Final)",
+      "nhl-15-5-2026-04-09": "PHI 3 \u2013 DET 6 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
@@ -78,7 +85,9 @@
       "ncaab-273-416-2026-04-08": "ORE 9 \u2013 PORT 13 (Final)",
       "ncaab-103-60-2026-04-08": "NMSU 3 \u2013 ARIZ 13 (Final)",
       "ncaab-182-59-2026-04-08": "UNLV 7 \u2013 ASU 5 (Final)",
-      "ncaab-185-67-2026-04-09": "CSUN 9 \u2013 UCR 6 (Final)"
+      "ncaab-185-67-2026-04-09": "CSUN 9 \u2013 UCR 6 (Final)",
+      "ncaab-72-77-2026-04-09": "FSU 3 \u2013 GT 4 (Final)",
+      "ncaab-112-120-2026-04-09": "OU 5 \u2013 VAN 10 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
