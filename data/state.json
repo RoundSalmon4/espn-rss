@@ -46,7 +46,10 @@
       "nhl-1-20-2026-04-11": "TB 2 \u2013 BOS 1 (Final)",
       "nhl-12-14-2026-04-11": "OTT 3 \u2013 NYI 0 (Final)",
       "nhl-16-23-2026-04-11": "WSH 6 \u2013 PIT 3 (Final)",
-      "nhl-6-8-2026-04-11": "EDM 0 \u2013 LA 1 (Final)"
+      "nhl-6-8-2026-04-11": "EDM 0 \u2013 LA 1 (Final)",
+      "nhl-11-5-2026-04-11": "NJ 5 \u2013 DET 3 (Final)",
+      "nhl-19-4-2026-04-11": "STL 5 \u2013 CHI 3 (Final)",
+      "nhl-27-30-2026-04-11": "MIN 1 \u2013 NSH 2 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
@@ -191,7 +194,9 @@
       "ncaab-119-163-2026-04-11": "FAU 6 \u2013 MEM 4 (Final)",
       "ncaab-103-84-2026-04-11": "NMSU 4 \u2013 WKU 9 (Final)",
       "ncaab-129-358-2026-04-11": "JMU 0 \u2013 GAST 10 (Final)",
-      "ncaab-153-184-2026-04-11": "UNO 3 \u2013 ILL 4 (Final)"
+      "ncaab-153-184-2026-04-11": "UNO 3 \u2013 ILL 4 (Final)",
+      "ncaab-122-180-2026-04-11": "RICE 6 \u2013 CLT 2 (Final)",
+      "ncaab-185-67-2026-04-11": "CSUN 8 \u2013 UCR 9 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
