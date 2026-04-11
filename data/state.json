@@ -52,7 +52,8 @@
     "mls": {
       "mls-18267-7318-2026-04-11": "CIN 1 \u2013 TOR 1 (Final)",
       "mls-187-20906-2026-04-11": "LA 2 \u2013 ATX 1 (Final)",
-      "mls-10739-9720-2026-04-11": "PHI 2 \u2013 MTL 1 (Final)"
+      "mls-10739-9720-2026-04-11": "PHI 2 \u2013 MTL 1 (Final)",
+      "mls-18966-9723-2026-04-11": "LAFC 1 \u2013 POR 2 (Final)"
     },
     "nwsl": {},
     "premier-league": {
@@ -180,7 +181,10 @@
       "ncaab-190-263-2026-04-11": "DBU 14 \u2013 SHSU 3 (Final)",
       "ncaab-88-89-2026-04-11": "MICH 6 \u2013 MSU 4 (Final)",
       "ncaab-198-60-2026-04-11": "ARIZ 0 \u2013 TCU 5 (Final)",
-      "ncaab-271-272-2026-04-11": "ULM 14 \u2013 APP 9 (Final)"
+      "ncaab-271-272-2026-04-11": "ULM 14 \u2013 APP 9 (Final)",
+      "ncaab-1103-156-2026-04-11": "UNA 13 \u2013 APSU 12 (Final)",
+      "ncaab-206-447-2026-04-11": "WICH 5 \u2013 UAB 4 (Final)",
+      "ncaab-115-65-2026-04-11": "CAL 14 \u2013 PITT 6 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
