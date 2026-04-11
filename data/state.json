@@ -6,7 +6,8 @@
       "nba-11-17-2026-04-09": "IND 123 \u2013 BKN 94 (Final)",
       "nba-18-2-2026-04-09": "BOS 106 \u2013 NY 112 (Final)",
       "nba-10-20-2026-04-09": "PHI 102 \u2013 HOU 113 (Final)",
-      "nba-13-9-2026-04-09": "LAL 119 \u2013 GS 103 (Final)"
+      "nba-13-9-2026-04-09": "LAL 119 \u2013 GS 103 (Final)",
+      "nba-14-27-2026-04-10": "MIA 140 \u2013 WSH 117 (Final)"
     },
     "wnba": {},
     "mlb": {
@@ -17,7 +18,9 @@
       "mlb-4-7-2026-04-09": "CHW 2 \u2013 KC 0 (Final)",
       "mlb-25-27-2026-04-09": "COL 3 \u2013 SD 7 (Final)",
       "mlb-16-23-2026-04-10": "PIT 2 \u2013 CHC 0 (Final)",
-      "mlb-28-6-2026-04-10": "MIA 0 \u2013 DET 2 (Final)"
+      "mlb-28-6-2026-04-10": "MIA 0 \u2013 DET 2 (Final)",
+      "mlb-22-29-2026-04-10": "ARI 5 \u2013 PHI 4 (Final)",
+      "mlb-17-3-2026-04-10": "LAA 10 \u2013 CIN 2 (Final)"
     },
     "nhl": {
       "nhl-12-21-2026-04-09": "TOR 3 \u2013 NYI 5 (Final)",
@@ -79,7 +82,19 @@
       "ncaab-197-339-2026-04-10": "MOST 14 \u2013 DEL 1 (Final)",
       "ncaab-164-307-2026-04-10": "KENN 2 \u2013 FIU 3 (Final)",
       "ncaab-160-168-2026-04-10": "UCF 3 \u2013 KU 4 (Final)",
-      "ncaab-140-384-2026-04-10": "ODU 1 \u2013 MRSH 8 (Final)"
+      "ncaab-140-384-2026-04-10": "ODU 1 \u2013 MRSH 8 (Final)",
+      "ncaab-172-73-2026-04-10": "JXST 8 \u2013 LIB 4 (Final)",
+      "ncaab-75-78-2026-04-10": "FLA 8 \u2013 UGA 2 (Final)",
+      "ncaab-117-96-2026-04-10": "UNC 5 \u2013 CLEM 9 (Final)",
+      "ncaab-118-401-2026-04-10": "NCAT 5 \u2013 COFC 6 (Final)",
+      "ncaab-152-293-2026-04-10": "UNCW 5 \u2013 CAM 3 (Final)",
+      "ncaab-129-358-2026-04-10": "JMU 5 \u2013 GAST 10 (Final)",
+      "ncaab-271-272-2026-04-10": "ULM 5 \u2013 APP 13 (Final)",
+      "ncaab-122-180-2026-04-10": "RICE 7 \u2013 CLT 5 (Final)",
+      "ncaab-64-83-2026-04-10": "STAN 12 \u2013 LOU 2 (Final)",
+      "ncaab-93-95-2026-04-10": "DUKE 4 \u2013 NCSU 10 (Final)",
+      "ncaab-1238-74-2026-04-10": "QUC 2 \u2013 STET 0 (Final)",
+      "ncaab-138-57-2026-04-10": "USA 3 \u2013 GASO 5 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
