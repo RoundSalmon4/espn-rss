@@ -50,7 +50,8 @@
       "nhl-11-5-2026-04-11": "NJ 5 \u2013 DET 3 (Final)",
       "nhl-19-4-2026-04-11": "STL 5 \u2013 CHI 3 (Final)",
       "nhl-27-30-2026-04-11": "MIN 1 \u2013 NSH 2 (Final)",
-      "nhl-13-9-2026-04-11": "NYR 0 \u2013 DAL 2 (Final)"
+      "nhl-13-9-2026-04-11": "NYR 0 \u2013 DAL 2 (Final)",
+      "nhl-129764-7-2026-04-11": "CAR 4 \u2013 UTA 1 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
@@ -151,7 +152,7 @@
       "ncaab-147-269-2026-04-11": "TROY 15 \u2013 TXST 2 (Final)",
       "ncaab-136-201-2026-04-11": "WVU 1 \u2013 TTU 4 (Final)",
       "ncaab-178-305-2026-04-11": "TOW 5 \u2013 MONM 6 (Final)",
-      "ncaab-297-76-2026-04-11": "USF 3 \u2013 UTSA 7 (Final)",
+      "ncaab-297-76-2026-04-11": "USF 7 \u2013 UTSA 1 (Final)",
       "ncaab-196-365-2026-04-11": "STBK 5 \u2013 HOF 0 (Final)",
       "ncaab-289-303-2026-04-11": "W&M 13 \u2013 ELON 1 (Final)",
       "ncaab-326-69-2026-04-11": "CONN 3 \u2013 BUT 1 (Final)",
@@ -198,7 +199,11 @@
       "ncaab-153-184-2026-04-11": "UNO 3 \u2013 ILL 4 (Final)",
       "ncaab-122-180-2026-04-11": "RICE 6 \u2013 CLT 2 (Final)",
       "ncaab-185-67-2026-04-11": "CSUN 8 \u2013 UCR 9 (Final)",
-      "ncaab-123-126-2026-04-11": "TEX 4 \u2013 TA&M 11 (Final)"
+      "ncaab-123-126-2026-04-11": "TEX 4 \u2013 TA&M 11 (Final)",
+      "ncaab-167-68-2026-04-11": "IOWA 3 \u2013 USC 6 (Final)",
+      "ncaab-164-307-2026-04-11": "KENN 3 \u2013 FIU 4 (Final)",
+      "ncaab-139-291-2026-04-11": "JAX 4 \u2013 FGCU 1 (Final)",
+      "ncaab-85-92-2026-04-11": "LSU 2 \u2013 MISS 12 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
