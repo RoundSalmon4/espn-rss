@@ -1,6 +1,11 @@
 {
   "published": {
-    "nba": {},
+    "nba": {
+      "nba-27-5-2026-04-12": "WSH 117 \u2013 CLE 130 (Final)",
+      "nba-1-14-2026-04-12": "ATL 117 \u2013 MIA 143 (Final)",
+      "nba-18-30-2026-04-12": "CHA 110 \u2013 NY 96 (Final)",
+      "nba-15-20-2026-04-12": "MIL 106 \u2013 PHI 126 (Final)"
+    },
     "wnba": {},
     "mlb": {
       "mlb-22-29-2026-04-11": "ARI 3 \u2013 PHI 4 (Final)",
@@ -216,7 +221,8 @@
       "ncaab-128-59-2026-04-12": "UTAH 2 \u2013 ASU 5 (Final)",
       "ncaab-110-264-2026-04-12": "OKST 12 \u2013 KSU 10 (Final)",
       "ncaab-1147-290-2026-04-12": "UCSD 1 \u2013 UCSB 3 (Final)",
-      "ncaab-113-61-2026-04-12": "CP 2 \u2013 ORST 3 (Final)"
+      "ncaab-113-61-2026-04-12": "CP 2 \u2013 ORST 3 (Final)",
+      "ncaab-141-165-2026-04-12": "CSUF 6 \u2013 LBSU 2 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
