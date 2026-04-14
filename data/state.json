@@ -34,12 +34,17 @@
     "premier-league": {
       "premier-league-357-360-2026-04-13": "LEE 2 \u2013 MAN 1 (Final)"
     },
-    "champions-league": {},
+    "champions-league": {
+      "champions-league-1068-83-2026-04-14": "BAR 2 \u2013 ATM 1 (Final)",
+      "champions-league-160-364-2026-04-14": "PSG 2 \u2013 LIV 0 (Final)"
+    },
     "europa-league": {},
     "ncaaf": {},
     "ncaab": {
       "ncaab-127-170-2026-04-13": "BYU 4 \u2013 LAM 0 (Final)",
-      "ncaab-59-60-2026-04-13": "ARIZ 5 \u2013 ASU 3 (Final)"
+      "ncaab-59-60-2026-04-13": "ARIZ 5 \u2013 ASU 3 (Final)",
+      "ncaab-178-395-2026-04-14": "NJIT 17 \u2013 MONM 5 (Final)",
+      "ncaab-196-265-2026-04-14": "MAN 1 \u2013 STBK 12 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
