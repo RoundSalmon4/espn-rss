@@ -34,7 +34,10 @@
       "mlb-13-19-2026-04-12": "TEX 5 \u2013 LAD 2 (Final)",
       "mlb-4-7-2026-04-12": "CHW 6 \u2013 KC 5 (Final)",
       "mlb-15-5-2026-04-12": "CLE 1 \u2013 ATL 13 (Final)",
-      "mlb-12-18-2026-04-13": "HOU 2 \u2013 SEA 6 (Final)"
+      "mlb-12-18-2026-04-13": "HOU 2 \u2013 SEA 6 (Final)",
+      "mlb-1-29-2026-04-13": "ARI 7 \u2013 BAL 9 (Final)",
+      "mlb-16-22-2026-04-13": "CHC 7 \u2013 PHI 13 (Final)",
+      "mlb-20-23-2026-04-13": "WSH 5 \u2013 PIT 16 (Final)"
     },
     "nhl": {
       "nhl-16-23-2026-04-12": "PIT 0 \u2013 WSH 3 (Final)",
@@ -42,7 +45,8 @@
       "nhl-1-29-2026-04-12": "BOS 3 \u2013 CBJ 2 (Final)",
       "nhl-11-14-2026-04-12": "OTT 3 \u2013 NJ 4 (Final)",
       "nhl-22-25-2026-04-12": "VAN 4 \u2013 ANA 3 (Final)",
-      "nhl-129764-3-2026-04-12": "UTA 1 \u2013 CGY 4 (Final)"
+      "nhl-129764-3-2026-04-12": "UTA 1 \u2013 CGY 4 (Final)",
+      "nhl-13-26-2026-04-13": "NYR 2 \u2013 FLA 3 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
