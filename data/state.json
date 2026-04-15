@@ -6,16 +6,6 @@
     },
     "wnba": {},
     "mlb": {
-      "mlb-12-18-2026-04-13": "HOU 2 \u2013 SEA 6 (Final)",
-      "mlb-1-29-2026-04-13": "ARI 7 \u2013 BAL 9 (Final)",
-      "mlb-16-22-2026-04-13": "CHC 7 \u2013 PHI 13 (Final)",
-      "mlb-20-23-2026-04-13": "WSH 5 \u2013 PIT 16 (Final)",
-      "mlb-15-28-2026-04-13": "MIA 10 \u2013 ATL 4 (Final)",
-      "mlb-2-9-2026-04-13": "BOS 6 \u2013 MIN 13 (Final)",
-      "mlb-10-3-2026-04-13": "LAA 10 \u2013 NYY 11 (Final)",
-      "mlb-24-5-2026-04-13": "CLE 9 \u2013 STL 3 (Final)",
-      "mlb-11-13-2026-04-13": "TEX 8 \u2013 ATH 1 (Final)",
-      "mlb-19-21-2026-04-13": "NYM 0 \u2013 LAD 4 (Final)",
       "mlb-17-26-2026-04-14": "SF 1 \u2013 CIN 2 (Final)",
       "mlb-6-7-2026-04-14": "KC 1 \u2013 DET 2 (Final)",
       "mlb-1-29-2026-04-14": "ARI 4 \u2013 BAL 3 (Final)",
@@ -33,16 +23,6 @@
       "mlb-19-21-2026-04-14": "NYM 1 \u2013 LAD 2 (Final)"
     },
     "nhl": {
-      "nhl-13-26-2026-04-13": "NYR 2 \u2013 FLA 3 (Final)",
-      "nhl-20-5-2026-04-13": "DET 3 \u2013 TB 4 (Final)",
-      "nhl-15-7-2026-04-13": "CAR 2 \u2013 PHI 3 (Final)",
-      "nhl-21-9-2026-04-13": "DAL 6 \u2013 TOR 5 (Final)",
-      "nhl-18-27-2026-04-13": "SJ 3 \u2013 NSH 2 (Final)",
-      "nhl-19-30-2026-04-13": "MIN 3 \u2013 STL 6 (Final)",
-      "nhl-2-4-2026-04-13": "BUF 5 \u2013 CHI 1 (Final)",
-      "nhl-17-6-2026-04-13": "COL 2 \u2013 EDM 1 (Final)",
-      "nhl-124292-8-2026-04-13": "LA 5 \u2013 SEA 3 (Final)",
-      "nhl-28-37-2026-04-13": "WPG 2 \u2013 VGK 6 (Final)",
       "nhl-1-11-2026-04-14": "NJ 0 \u2013 BOS 4 (Final)",
       "nhl-12-7-2026-04-14": "CAR 2 \u2013 NYI 1 (Final)",
       "nhl-10-15-2026-04-14": "MTL 2 \u2013 PHI 4 (Final)",
@@ -58,9 +38,7 @@
     "ncaawb": {},
     "mls": {},
     "nwsl": {},
-    "premier-league": {
-      "premier-league-357-360-2026-04-13": "LEE 2 \u2013 MAN 1 (Final)"
-    },
+    "premier-league": {},
     "champions-league": {
       "champions-league-1068-83-2026-04-14": "BAR 2 \u2013 ATM 1 (Final)",
       "champions-league-160-364-2026-04-14": "PSG 2 \u2013 LIV 0 (Final)"
@@ -68,8 +46,6 @@
     "europa-league": {},
     "ncaaf": {},
     "ncaab": {
-      "ncaab-127-170-2026-04-13": "BYU 4 \u2013 LAM 0 (Final)",
-      "ncaab-59-60-2026-04-13": "ARIZ 5 \u2013 ASU 3 (Final)",
       "ncaab-178-395-2026-04-14": "NJIT 17 \u2013 MONM 5 (Final)",
       "ncaab-196-265-2026-04-14": "MAN 1 \u2013 STBK 12 (Final)",
       "ncaab-157-326-2026-04-14": "BALL 5 \u2013 BUT 8 (Final)",
@@ -157,7 +133,8 @@
       "ncaab-121-297-2026-04-14": "UTSA 9 \u2013 BAY 10 (Final)",
       "ncaab-1147-62-2026-04-14": "UCSD 1 \u2013 SDSU 9 (Final)",
       "ncaab-413-448-2026-04-14": "PAC 5 \u2013 UCD 6 (Final)",
-      "ncaab-137-327-2026-04-14": "CSUB 6 \u2013 FRES 10 (Final)"
+      "ncaab-137-327-2026-04-14": "CSUB 6 \u2013 FRES 10 (Final)",
+      "ncaab-290-66-2026-04-14": "UCSB 4 \u2013 UCLA 0 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
