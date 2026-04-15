@@ -15,7 +15,12 @@
       "mlb-19-21-2026-04-13": "NYM 0 \u2013 LAD 4 (Final)",
       "mlb-17-26-2026-04-14": "SF 1 \u2013 CIN 2 (Final)",
       "mlb-6-7-2026-04-14": "KC 1 \u2013 DET 2 (Final)",
-      "mlb-1-29-2026-04-14": "ARI 4 \u2013 BAL 3 (Final)"
+      "mlb-1-29-2026-04-14": "ARI 4 \u2013 BAL 3 (Final)",
+      "mlb-16-22-2026-04-14": "CHC 10 \u2013 PHI 4 (Final)",
+      "mlb-20-23-2026-04-14": "WSH 5 \u2013 PIT 4 (Final)",
+      "mlb-10-3-2026-04-14": "LAA 7 \u2013 NYY 1 (Final)",
+      "mlb-15-28-2026-04-14": "MIA 5 \u2013 ATL 6 (Final)",
+      "mlb-2-9-2026-04-14": "BOS 0 \u2013 MIN 6 (Final)"
     },
     "nhl": {
       "nhl-13-26-2026-04-13": "NYR 2 \u2013 FLA 3 (Final)",
@@ -98,7 +103,22 @@
       "ncaab-305-87-2026-04-14": "TOW 7 \u2013 MD 15 (Final)",
       "ncaab-161-312-2026-04-14": "XAV 5 \u2013 CIN 15 (Final)",
       "ncaab-94-95-2026-04-14": "NCSU 10 \u2013 ECU 3 (Final)",
-      "ncaab-117-180-2026-04-14": "CLEM 7 \u2013 CLT 3 (Final)"
+      "ncaab-117-180-2026-04-14": "CLEM 7 \u2013 CLT 3 (Final)",
+      "ncaab-357-450-2026-04-14": "GTWN 9 \u2013 UMBC 3 (Final)",
+      "ncaab-173-261-2026-04-14": "LR 3 \u2013 LT 9 (Final)",
+      "ncaab-123-124-2026-04-14": "HOU 2 \u2013 TA&M 10 (Final)",
+      "ncaab-321-58-2026-04-14": "UAPB 2 \u2013 ARK 12 (Final)",
+      "ncaab-168-206-2026-04-14": "WICH 2 \u2013 KU 5 (Final)",
+      "ncaab-158-75-2026-04-14": "BCU 13 \u2013 FLA 7 (Final)",
+      "ncaab-192-92-2026-04-14": "USM 3 \u2013 MISS 10 (Final)",
+      "ncaab-107-189-2026-04-14": "M-OH 5 \u2013 PUR 3 (Final)",
+      "ncaab-163-291-2026-04-14": "FGCU 8 \u2013 FAU 6 (Final)",
+      "ncaab-98-99-2026-04-14": "CREI 4 \u2013 NEB 5 (Final)",
+      "ncaab-147-367-2026-04-14": "HCU 3 \u2013 TXST 4 (Final)",
+      "ncaab-320-432-2026-04-14": "ARST 11 \u2013 SIU 5 (Final)",
+      "ncaab-119-388-2026-04-14": "MVSU 3 \u2013 MEM 11 (Final)",
+      "ncaab-153-429-2026-04-14": "SIUE 4 \u2013 ILL 16 (Final)",
+      "ncaab-264-396-2026-04-14": "OMA 12 \u2013 KSU 5 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
