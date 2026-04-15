@@ -14,7 +14,8 @@
       "mlb-11-13-2026-04-13": "TEX 8 \u2013 ATH 1 (Final)",
       "mlb-19-21-2026-04-13": "NYM 0 \u2013 LAD 4 (Final)",
       "mlb-17-26-2026-04-14": "SF 1 \u2013 CIN 2 (Final)",
-      "mlb-6-7-2026-04-14": "KC 1 \u2013 DET 2 (Final)"
+      "mlb-6-7-2026-04-14": "KC 1 \u2013 DET 2 (Final)",
+      "mlb-1-29-2026-04-14": "ARI 4 \u2013 BAL 3 (Final)"
     },
     "nhl": {
       "nhl-13-26-2026-04-13": "NYR 2 \u2013 FLA 3 (Final)",
@@ -26,7 +27,11 @@
       "nhl-2-4-2026-04-13": "BUF 5 \u2013 CHI 1 (Final)",
       "nhl-17-6-2026-04-13": "COL 2 \u2013 EDM 1 (Final)",
       "nhl-124292-8-2026-04-13": "LA 5 \u2013 SEA 3 (Final)",
-      "nhl-28-37-2026-04-13": "WPG 2 \u2013 VGK 6 (Final)"
+      "nhl-28-37-2026-04-13": "WPG 2 \u2013 VGK 6 (Final)",
+      "nhl-1-11-2026-04-14": "NJ 0 \u2013 BOS 4 (Final)",
+      "nhl-12-7-2026-04-14": "CAR 2 \u2013 NYI 1 (Final)",
+      "nhl-10-15-2026-04-14": "MTL 2 \u2013 PHI 4 (Final)",
+      "nhl-23-29-2026-04-14": "WSH 2 \u2013 CBJ 1 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
@@ -75,7 +80,25 @@
       "ncaab-184-269-2026-04-14": "TROY 10 \u2013 UNO 11 (Final)",
       "ncaab-146-97-2026-04-14": "CCU 5 \u2013 WAKE 10 (Final)",
       "ncaab-289-380-2026-04-14": "LONG 3 \u2013 W&M 7 (Final)",
-      "ncaab-207-303-2026-04-14": "WIN 13 \u2013 ELON 3 (Final)"
+      "ncaab-207-303-2026-04-14": "WIN 13 \u2013 ELON 3 (Final)",
+      "ncaab-177-262-2026-04-14": "MTSU 10 \u2013 BEL 8 (Final)",
+      "ncaab-138-77-2026-04-14": "GASO 9 \u2013 GT 13 (Final)",
+      "ncaab-295-307-2026-04-14": "MER 9 \u2013 KENN 12 (Final)",
+      "ncaab-181-293-2026-04-14": "CAM 11 \u2013 UNCG 8 (Final)",
+      "ncaab-102-175-2026-04-14": "MRST 10 \u2013 RUTG 3 (Final)",
+      "ncaab-83-84-2026-04-14": "WKU 3 \u2013 LOU 7 (Final)",
+      "ncaab-172-93-2026-04-14": "LIB 17 \u2013 DUKE 7 (Final)",
+      "ncaab-412-88-2026-04-14": "OAK 11 \u2013 MSU 9 (Final)",
+      "ncaab-405-86-2026-04-14": "NE 1 \u2013 BC 3 (Final)",
+      "ncaab-193-337-2026-04-14": "DAV 6 \u2013 SC 8 (Final)",
+      "ncaab-152-96-2026-04-14": "UNCW 5 \u2013 UNC 14 (Final)",
+      "ncaab-318-55-2026-04-14": "ALST 0 \u2013 AUB 13 (Final)",
+      "ncaab-150-274-2026-04-14": "MSST 11 \u2013 SAM 1 (Final)",
+      "ncaab-129-130-2026-04-14": "RICH 10 \u2013 JMU 2 (Final)",
+      "ncaab-305-87-2026-04-14": "TOW 7 \u2013 MD 15 (Final)",
+      "ncaab-161-312-2026-04-14": "XAV 5 \u2013 CIN 15 (Final)",
+      "ncaab-94-95-2026-04-14": "NCSU 10 \u2013 ECU 3 (Final)",
+      "ncaab-117-180-2026-04-14": "CLEM 7 \u2013 CLT 3 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
