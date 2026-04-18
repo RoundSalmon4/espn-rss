@@ -26,7 +26,9 @@
       "mlb-16-21-2026-04-18": "NYM 2 \u2013 CHC 4 (Final)",
       "mlb-17-9-2026-04-18": "CIN 5 \u2013 MIN 4 (Final)"
     },
-    "nhl": {},
+    "nhl": {
+      "nhl-14-7-2026-04-18": "OTT 0 \u2013 CAR 2 (Final)"
+    },
     "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
@@ -143,7 +145,8 @@
       "ncaab-164-73-2026-04-18": "FIU 1 \u2013 JXST 13 (Final)",
       "ncaab-68-99-2026-04-18": "USC 2 \u2013 NEB 12 (Final)",
       "ncaab-401-405-2026-04-18": "NE 12 \u2013 NCAT 5 (Final)",
-      "ncaab-384-57-2026-04-18": "MRSH 3 \u2013 USA 7 (Final)"
+      "ncaab-384-57-2026-04-18": "MRSH 3 \u2013 USA 7 (Final)",
+      "ncaab-108-189-2026-04-18": "OSU 7 \u2013 PUR 12 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
