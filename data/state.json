@@ -3,7 +3,8 @@
     "nba": {
       "nba-2-20-2026-04-21": "PHI 111 \u2013 BOS 97 (Final)",
       "nba-22-24-2026-04-21": "POR 106 \u2013 SA 103 (Final)",
-      "nba-10-13-2026-04-21": "HOU 94 \u2013 LAL 101 (Final)"
+      "nba-10-13-2026-04-21": "HOU 94 \u2013 LAL 101 (Final)",
+      "nba-19-8-2026-04-22": "ORL 83 \u2013 DET 98 (Final)"
     },
     "wnba": {},
     "mlb": {
@@ -30,13 +31,16 @@
       "mlb-11-12-2026-04-22": "ATH 4 \u2013 SEA 5 (Final)",
       "mlb-6-8-2026-04-22": "MIL 2 \u2013 DET 5 (Final)",
       "mlb-15-20-2026-04-22": "ATL 8 \u2013 WSH 6 (Final)",
-      "mlb-10-2-2026-04-22": "NYY 4 \u2013 BOS 1 (Final)"
+      "mlb-10-2-2026-04-22": "NYY 4 \u2013 BOS 1 (Final)",
+      "mlb-21-9-2026-04-22": "MIN 2 \u2013 NYM 3 (Final)",
+      "mlb-16-22-2026-04-22": "PHI 2 \u2013 CHC 7 (Final)"
     },
     "nhl": {
       "nhl-10-20-2026-04-21": "MTL 2 \u2013 TB 3 (Final)",
       "nhl-1-2-2026-04-21": "BOS 4 \u2013 BUF 2 (Final)",
       "nhl-129764-37-2026-04-21": "UTA 3 \u2013 VGK 2 (Final)",
-      "nhl-17-8-2026-04-21": "LA 1 \u2013 COL 2 (Final)"
+      "nhl-17-8-2026-04-21": "LA 1 \u2013 COL 2 (Final)",
+      "nhl-15-16-2026-04-22": "PIT 2 \u2013 PHI 5 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
@@ -45,7 +49,8 @@
       "mls-17606-18267-2026-04-22": "CIN 4 \u2013 NYC 4 (Final)",
       "mls-12011-21300-2026-04-22": "CLT 1 \u2013 ORL 4 (Final)",
       "mls-190-193-2026-04-22": "DC 4 \u2013 RBNY 4 (Final)",
-      "mls-10739-7318-2026-04-22": "PHI 3 \u2013 TOR 3 (Final)"
+      "mls-10739-7318-2026-04-22": "PHI 3 \u2013 TOR 3 (Final)",
+      "mls-18418-189-2026-04-22": "NE 2 \u2013 ATL 1 (Final)"
     },
     "nwsl": {},
     "premier-league": {
@@ -151,7 +156,8 @@
       "ncaab-138-202-2026-04-22": "CIT 10 \u2013 GASO 3 (Final)",
       "ncaab-357-71-2026-04-22": "GW 9 \u2013 GTWN 7 (Final)",
       "ncaab-267-65-2026-04-22": "SF 3 \u2013 CAL 4 (Final)",
-      "ncaab-163-176-2026-04-22": "MIA 5 \u2013 FAU 4 (Final)"
+      "ncaab-163-176-2026-04-22": "MIA 5 \u2013 FAU 4 (Final)",
+      "ncaab-167-80-2026-04-22": "UIC 4 \u2013 IOWA 6 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
