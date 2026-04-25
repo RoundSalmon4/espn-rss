@@ -6,7 +6,9 @@
       "nba-22-24-2026-04-24": "SA 120 \u2013 POR 108 (Final)",
       "nba-19-8-2026-04-25": "DET 105 \u2013 ORL 113 (Final)"
     },
-    "wnba": {},
+    "wnba": {
+      "wnba-5-9-2026-04-25": "IND 109 \u2013 NY 91 (Final)"
+    },
     "mlb": {
       "mlb-30-9-2026-04-24": "MIN 2 \u2013 TB 6 (Final)",
       "mlb-1-2-2026-04-24": "BOS 3 \u2013 BAL 10 (Final)",
@@ -133,7 +135,8 @@
       "ncaab-152-303-2026-04-25": "UNCW 5 \u2013 ELON 1 (Final)",
       "ncaab-77-97-2026-04-25": "WAKE 11 \u2013 GT 14 (Final)",
       "ncaab-93-96-2026-04-25": "UNC 22 \u2013 DUKE 5 (Final)",
-      "ncaab-167-294-2026-04-25": "IOWA 9 \u2013 IU 2 (Final)"
+      "ncaab-167-294-2026-04-25": "IOWA 9 \u2013 IU 2 (Final)",
+      "ncaab-78-92-2026-04-25": "UGA 8 \u2013 MISS 10 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
