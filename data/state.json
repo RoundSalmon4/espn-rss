@@ -2,7 +2,8 @@
   "published": {
     "nba": {
       "nba-19-8-2026-04-27": "DET 88 \u2013 ORL 94 (Final)",
-      "nba-21-25-2026-04-27": "OKC 131 \u2013 PHX 122 (Final)"
+      "nba-21-25-2026-04-27": "OKC 131 \u2013 PHX 122 (Final)",
+      "nba-16-7-2026-04-27": "MIN 113 \u2013 DEN 125 (Final)"
     },
     "wnba": {
       "wnba-17476-8-2026-04-27": "NIGERIA 79 \u2013 MIN 88 (Final)"
@@ -14,10 +15,12 @@
       "mlb-12-9-2026-04-27": "SEA 4 \u2013 MIN 11 (Final)",
       "mlb-10-13-2026-04-27": "NYY 4 \u2013 TEX 2 (Final)",
       "mlb-16-25-2026-04-27": "CHC 7 \u2013 SD 9 (Final)",
-      "mlb-19-28-2026-04-27": "MIA 4 \u2013 LAD 5 (Final)"
+      "mlb-19-28-2026-04-27": "MIA 4 \u2013 LAD 5 (Final)",
+      "mlb-3-4-2026-04-27": "LAA 7 \u2013 CHW 8 (Final)"
     },
     "nhl": {
-      "nhl-15-16-2026-04-27": "PHI 2 \u2013 PIT 3 (Final)"
+      "nhl-15-16-2026-04-27": "PHI 2 \u2013 PIT 3 (Final)",
+      "nhl-129764-37-2026-04-27": "VGK 5 \u2013 UTA 4 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
