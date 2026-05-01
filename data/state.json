@@ -1,34 +1,14 @@
 {
   "published": {
     "nba": {
-      "nba-19-8-2026-04-29": "ORL 109 \u2013 DET 116 (Final)",
-      "nba-28-5-2026-04-29": "TOR 120 \u2013 CLE 125 (Final)",
-      "nba-10-13-2026-04-29": "HOU 99 \u2013 LAL 93 (Final)",
       "nba-1-18-2026-04-30": "NY 140 \u2013 ATL 89 (Final)",
       "nba-2-20-2026-04-30": "BOS 93 \u2013 PHI 106 (Final)",
       "nba-16-7-2026-04-30": "DEN 98 \u2013 MIN 110 (Final)"
     },
     "wnba": {
-      "wnba-131935-18-2026-04-29": "CON 83 \u2013 TOR 78 (Final)",
-      "wnba-19-20-2026-04-29": "ATL 87 \u2013 CHI 78 (Final)",
-      "wnba-11-17475-2026-04-29": "JPN 60 \u2013 PHX 86 (Final)",
-      "wnba-132052-14-2026-04-29": "POR 81 \u2013 SEA 91 (Final)",
       "wnba-3-5-2026-04-30": "DAL 95 \u2013 IND 80 (Final)"
     },
     "mlb": {
-      "mlb-3-4-2026-04-29": "LAA 2 \u2013 CHW 3 (Final)",
-      "mlb-30-5-2026-04-29": "TB 1 \u2013 CLE 3 (Final)",
-      "mlb-12-9-2026-04-29": "SEA 5 \u2013 MIN 3 (Final)",
-      "mlb-10-13-2026-04-29": "NYY 0 \u2013 TEX 3 (Final)",
-      "mlb-14-2-2026-04-29": "BOS 1 \u2013 TOR 8 (Final)",
-      "mlb-19-28-2026-04-29": "MIA 3 \u2013 LAD 2 (Final)",
-      "mlb-16-25-2026-04-29": "CHC 5 \u2013 SD 4 (Final)",
-      "mlb-17-27-2026-04-29": "COL 13 \u2013 CIN 2 (Final)",
-      "mlb-15-6-2026-04-29": "DET 3 \u2013 ATL 4 (Final)",
-      "mlb-23-24-2026-04-29": "STL 5 \u2013 PIT 4 (Final)",
-      "mlb-20-21-2026-04-29": "WSH 14 \u2013 NYM 2 (Final)",
-      "mlb-29-8-2026-04-29": "ARI 6 \u2013 MIL 2 (Final)",
-      "mlb-11-7-2026-04-29": "KC 2 \u2013 ATH 5 (Final)",
       "mlb-15-6-2026-04-30": "DET 5 \u2013 ATL 2 (Final)",
       "mlb-1-18-2026-04-30": "HOU 3 \u2013 BAL 10 (Final)",
       "mlb-22-26-2026-04-30": "SF 2 \u2013 PHI 3 (Final)",
@@ -40,49 +20,22 @@
       "mlb-14-9-2026-04-30": "TOR 1 \u2013 MIN 7 (Final)"
     },
     "nhl": {
-      "nhl-10-20-2026-04-29": "MTL 3 \u2013 TB 2 (Final)",
-      "nhl-15-16-2026-04-29": "PIT 0 \u2013 PHI 1 (Final)",
-      "nhl-129764-37-2026-04-29": "UTA 4 \u2013 VGK 5 (Final)",
-      "nhl-30-9-2026-04-30": "DAL 2 \u2013 MIN 5 (Final)"
+      "nhl-30-9-2026-04-30": "DAL 2 \u2013 MIN 5 (Final)",
+      "nhl-25-6-2026-04-30": "EDM 2 \u2013 ANA 5 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
     "mls": {},
-    "nwsl": {
-      "nwsl-131562-15366-2026-04-29": "NC 2 \u2013 BOS 2 (Final)",
-      "nwsl-15365-20905-2026-04-29": "LOU 0 \u2013 WAS 1 (Final)",
-      "nwsl-15360-15364-2026-04-29": "GFC 2 \u2013 CHI 0 (Final)",
-      "nwsl-15362-21423-2026-04-29": "SD 0 \u2013 POR 2 (Final)"
-    },
+    "nwsl": {},
     "premier-league": {},
-    "champions-league": {
-      "champions-league-1068-359-2026-04-29": "ARS 1 \u2013 ATM 1 (Final)"
-    },
+    "champions-league": {},
     "europa-league": {
       "europa-league-126-2994-2026-04-30": "SCF 1 \u2013 SCB 2 (Final)",
       "europa-league-362-393-2026-04-30": "AVL 0 \u2013 NFO 1 (Final)"
     },
     "ncaaf": {},
     "ncaab": {
-      "ncaab-196-423-2026-04-29": "STBK 5 \u2013 RID 11 (Final)",
-      "ncaab-72-76-2026-04-29": "USF 1 \u2013 FSU 9 (Final)",
-      "ncaab-186-58-2026-04-29": "NWST 2 \u2013 ARK 5 (Final)",
-      "ncaab-268-377-2026-04-29": "LEH 5 \u2013 HALL 10 (Final)",
-      "ncaab-109-384-2026-04-29": "MRSH 5 \u2013 OHIO 2 (Final)",
-      "ncaab-135-81-2026-04-29": "MILW 2 \u2013 ND 16 (Final)",
-      "ncaab-125-198-2026-04-29": "UTA 1 \u2013 TCU 12 (Final)",
-      "ncaab-259-405-2026-04-29": "NE 5 \u2013 ME 1 (Final)",
-      "ncaab-138-295-2026-04-29": "GASO 9 \u2013 MER 10 (Final)",
-      "ncaab-1246-189-2026-04-29": "USI 1 \u2013 PUR 5 (Final)",
-      "ncaab-144-399-2026-04-29": "NICH 1 \u2013 UL 7 (Final)",
-      "ncaab-115-169-2026-04-29": "KENT 13 \u2013 PITT 5 (Final)",
-      "ncaab-160-74-2026-04-29": "STET 5 \u2013 UCF 6 (Final)",
-      "ncaab-184-57-2026-04-29": "USA 4 \u2013 UNO 2 (Final)",
-      "ncaab-124-387-2026-04-29": "MCN 2 \u2013 HOU 4 (Final)",
-      "ncaab-137-185-2026-04-29": "FRES 4 \u2013 CSUN 7 (Final)",
-      "ncaab-448-65-2026-04-29": "UCD 6 \u2013 CAL 1 (Final)",
-      "ncaab-113-932-2026-04-29": "RGV 9 \u2013 ORST 7 (Final)",
       "ncaab-79-847-2026-04-30": "HILO 3 \u2013 HAW 11 (Final)",
       "ncaab-120-148-2026-04-30": "VAN 4 \u2013 ALA 5 (Final)",
       "ncaab-83-97-2026-04-30": "LOU 8 \u2013 WAKE 9 (Final)",
