@@ -28,7 +28,9 @@
     "ncaawb": {},
     "mls": {},
     "nwsl": {},
-    "premier-league": {},
+    "premier-league": {
+      "premier-league-357-379-2026-05-01": "BUR 1 \u2013 LEE 3 (Final)"
+    },
     "champions-league": {},
     "europa-league": {
       "europa-league-126-2994-2026-04-30": "SCF 1 \u2013 SCB 2 (Final)",
@@ -43,7 +45,8 @@
       "ncaab-143-416-2026-04-30": "USD 6 \u2013 PORT 9 (Final)",
       "ncaab-138-146-2026-05-01": "CCU 8 \u2013 GASO 7 (Final)",
       "ncaab-120-148-2026-05-01": "VAN 0 \u2013 ALA 5 (Final)",
-      "ncaab-305-365-2026-05-01": "TOW 1 \u2013 HOF 12 (Final)"
+      "ncaab-305-365-2026-05-01": "TOW 1 \u2013 HOF 12 (Final)",
+      "ncaab-140-320-2026-05-01": "ARST 0 \u2013 ODU 8 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
