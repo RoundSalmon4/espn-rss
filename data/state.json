@@ -47,7 +47,8 @@
       "mls-4771-9723-2026-05-02": "POR 0 \u2013 RSL 2 (Final)"
     },
     "nwsl": {
-      "nwsl-15363-17346-2026-05-01": "SEA 0 \u2013 HOU 0 (Final)"
+      "nwsl-15363-17346-2026-05-01": "SEA 0 \u2013 HOU 0 (Final)",
+      "nwsl-15365-18206-2026-05-02": "WAS 4 \u2013 ORL 2 (Final)"
     },
     "premier-league": {
       "premier-league-357-379-2026-05-01": "BUR 1 \u2013 LEE 3 (Final)",
@@ -170,7 +171,10 @@
       "ncaab-129-384-2026-05-02": "MRSH 9 \u2013 JMU 0 (Final)",
       "ncaab-103-172-2026-05-02": "LIB 15 \u2013 NMSU 4 (Final)",
       "ncaab-126-150-2026-05-02": "MSST 7 \u2013 TEX 4 (Final)",
-      "ncaab-142-61-2026-05-02": "CP 11 \u2013 UCI 2 (Final)"
+      "ncaab-142-61-2026-05-02": "CP 11 \u2013 UCI 2 (Final)",
+      "ncaab-102-68-2026-05-02": "RUTG 1 \u2013 USC 11 (Final)",
+      "ncaab-156-306-2026-05-02": "CARK 1 \u2013 APSU 2 (Final)",
+      "ncaab-1103-1143-2026-05-02": "BELL 15 \u2013 UNA 8 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
