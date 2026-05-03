@@ -36,12 +36,14 @@
       "mlb-18-2-2026-05-02": "HOU 6 \u2013 BOS 3 (Final)",
       "mlb-26-30-2026-05-02": "SF 1 \u2013 TB 5 (Final)",
       "mlb-13-6-2026-05-02": "TEX 1 \u2013 DET 5 (Final)",
-      "mlb-19-24-2026-05-02": "LAD 2 \u2013 STL 3 (Final)"
+      "mlb-19-24-2026-05-02": "LAD 2 \u2013 STL 3 (Final)",
+      "mlb-15-27-2026-05-02": "ATL 9 \u2013 COL 1 (Final)"
     },
     "nhl": {
       "nhl-10-20-2026-05-01": "TB 1 \u2013 MTL 0 (Final)",
       "nhl-1-2-2026-05-01": "BUF 4 \u2013 BOS 1 (Final)",
-      "nhl-129764-37-2026-05-01": "VGK 5 \u2013 UTA 1 (Final)"
+      "nhl-129764-37-2026-05-01": "VGK 5 \u2013 UTA 1 (Final)",
+      "nhl-15-7-2026-05-02": "PHI 0 \u2013 CAR 3 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
@@ -55,12 +57,15 @@
       "mls-185-190-2026-05-02": "DAL 2 \u2013 RBNY 0 (Final)",
       "mls-18418-9720-2026-05-02": "MTL 1 \u2013 ATL 3 (Final)",
       "mls-17362-183-2026-05-02": "MIN 3 \u2013 CLB 2 (Final)",
-      "mls-189-21300-2026-05-02": "CLT 0 \u2013 NE 1 (Final)"
+      "mls-189-21300-2026-05-02": "CLT 0 \u2013 NE 1 (Final)",
+      "mls-182-18267-2026-05-02": "CIN 3 \u2013 CHI 2 (Final)",
+      "mls-184-6077-2026-05-02": "COL 0 \u2013 HOU 1 (Final)"
     },
     "nwsl": {
       "nwsl-15363-17346-2026-05-01": "SEA 0 \u2013 HOU 0 (Final)",
       "nwsl-15365-18206-2026-05-02": "WAS 4 \u2013 ORL 2 (Final)",
-      "nwsl-15366-20907-2026-05-02": "KC 2 \u2013 NC 1 (Final)"
+      "nwsl-15366-20907-2026-05-02": "KC 2 \u2013 NC 1 (Final)",
+      "nwsl-19141-21422-2026-05-02": "UTA 1 \u2013 LA 0 (Final)"
     },
     "premier-league": {
       "premier-league-357-379-2026-05-01": "BUR 1 \u2013 LEE 3 (Final)",
@@ -161,7 +166,7 @@
       "ncaab-87-89-2026-05-02": "MICH 17 \u2013 MD 5 (Final)",
       "ncaab-64-81-2026-05-02": "STAN 7 \u2013 ND 10 (Final)",
       "ncaab-268-326-2026-05-02": "HALL 6 \u2013 BUT 15 (Final)",
-      "ncaab-121-201-2026-05-02": "TTU 9 \u2013 BAY 10 (Final)",
+      "ncaab-121-201-2026-05-02": "TTU 1 \u2013 BAY 8 (Final)",
       "ncaab-1238-129699-2026-05-02": "QUC 7 \u2013 WES 2 (Final)",
       "ncaab-153-167-2026-05-02": "ILL 5 \u2013 IOWA 6 (Final)",
       "ncaab-312-77-2026-05-02": "XAV 5 \u2013 GT 7 (Final)",
@@ -197,7 +202,12 @@
       "ncaab-291-74-2026-05-02": "FGCU 6 \u2013 STET 2 (Final)",
       "ncaab-174-413-2026-05-02": "LMU 9 \u2013 PAC 15 (Final)",
       "ncaab-113-185-2026-05-02": "CSUN 5 \u2013 ORST 6 (Final)",
-      "ncaab-108-99-2026-05-02": "NEB 3 \u2013 OSU 7 (Final)"
+      "ncaab-108-99-2026-05-02": "NEB 3 \u2013 OSU 7 (Final)",
+      "ncaab-112-75-2026-05-02": "FLA 10 \u2013 OU 5 (Final)",
+      "ncaab-176-95-2026-05-02": "MIA 7 \u2013 NCSU 12 (Final)",
+      "ncaab-426-428-2026-05-02": "SEA 8 \u2013 SMC 7 (Final)",
+      "ncaab-110-198-2026-05-02": "TCU 2 \u2013 OKST 9 (Final)",
+      "ncaab-118-152-2026-05-02": "COFC 5 \u2013 UNCW 7 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
