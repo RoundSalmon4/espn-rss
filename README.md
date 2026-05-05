@@ -4,48 +4,70 @@ Auto-generated RSS feeds for sports scores using the ESPN API.
 
 ## Features
 
-- **Auto-discovery** - Automatically finds all sports available from ESPN
 - **Real-time updates** - Games appear within minutes of going final
 - **Team-specific feeds** - Separate feeds for each team
 - **No duplicates** - Uses team IDs to prevent duplicate entries
+- **All 29 leagues supported** - From major pro sports to college and international
 
-## Feeds Generated
+## Feeds Available
 
-### League feeds
+### League Feeds
 - `/rss/<league>.xml` (e.g., `/rss/nba.xml`, `/rss/mlb.xml`)
 
-### Team feeds
-- `/rss/teams/<league>-<team>.xml`
+### Team Feeds
+- `/rss/teams/<league>/<team>.xml`
+- **Pre-created:** Most leagues have all team feeds ready immediately (empty feeds won't trigger notifications)
+- **On-demand:** Some leagues create team feeds as games are played - more teams appear over time
 
-### Combined feed
-- `/rss/all-finals.xml`
+### Combined Feed
+- `/rss/all-finals.xml` - All leagues in one feed
 
-## Supported Sports
+## Supported Leagues (29 total)
 
-29 sports/leagues including:
+**Major Pro Sports:**
 - NBA, WNBA, MLB, NHL, NFL
-- NCAA Men's/Women's Basketball
-- NCAA Baseball, NCAA Softball
-- NCAA Football
-- NCAA Lacrosse
+
+**College Sports:**
+- NCAA Men's Basketball, NCAA Women's Basketball
+- NCAA Football, NCAA Baseball, NCAA Softball
+- NCAA Lacrosse, Women's Lacrosse
+- NCAA Men's Volleyball, NCAA Women's Volleyball
+
+**Soccer:**
 - MLS, NWSL
-- Premier League
-- UEFA Champions League
-- UEFA Europa League
+- Premier League, UEFA Champions League, UEFA Europa League
 
-Plus: Tennis, ATP, Boxing, MMA, F1, IndyCar, NASCAR, PGA, LPGA
+**Individual & Racing:**
+- Tennis (WTA), ATP Tennis
+- Boxing, MMA
+- Formula 1, IndyCar, NASCAR
+- PGA Tour, LPGA Tour
 
-## Behavior
+**Other:**
+- College Marching Band
 
-- Only shows today's and yesterday's games
-- One item per game (uses ESPN team IDs for uniqueness)
-- Published when game goes FINAL
-- OT games marked with `(OT)`
-- Updated automatically by GitHub Actions every 30 minutes
+## How Team Feeds Work
 
-## Technical Notes
+### Leagues with pre-created team feeds:
+NBA, WNBA, MLB, NHL, NFL, NCAA Basketball (M+W), NCAA Football, NCAA Baseball, MLS, NWSL, Premier League, Champions League, Europa League, Formula 1
 
-- Uses ESPN's undocumented JSON API (`site.api.espn.com`)
-- Runs on GitHub Actions (Ubuntu)
-- State persisted in `data/state.json` to prevent duplicates
-- Parallel fetching with ThreadPoolExecutor
+These leagues have all team feeds created immediately - subscribe to any team right away. Empty feeds have no `pubDate` so they won't trigger notifications until a game is posted.
+
+### Leagues with on-demand team feeds:
+NCAA Softball, Lacrosse, Women's Lacrosse, Tennis, ATP, NCAA Volleyball (M+W), Boxing, MMA, IndyCar, NASCAR, PGA, LPGA, Marching Band
+
+These leagues don't have a team directory API. Team feeds are created automatically when a game is played - subscribe to the feed URL and it will appear after that team's first game. Over time, all active teams will have feeds.
+
+## Feed Behavior
+
+- **Shows recent games** - Today's and yesterday's completed games
+- **One item per game** - Uses ESPN team IDs for uniqueness
+- **OT marker** - Overtime games marked with `(OT)`
+- **Updated automatically** - GitHub Actions runs every 30 minutes
+- **Empty feeds are safe** - No `pubDate` until games exist, so no spurious notifications
+
+## Example Feed URLs
+
+- All NBA games: `https://roundsalmon4.github.io/espn-rss/rss/nba.xml`
+- Lakers games: `https://roundsalmon4.github.io/espn-rss/rss/teams/nba/lal.xml`
+- All finals: `https://roundsalmon4.github.io/espn-rss/rss/all-finals.xml`
