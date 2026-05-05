@@ -71,5 +71,3 @@ These leagues don't have a team directory API. Team feeds are created automatica
 - All NBA games: `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/nba.xml`
 - Lakers games: `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/nba-lal.xml`
 - All finals: `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/all-finals.xml`
-- Oregon State Baseball: `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/ncaab-orst.xml`
-- Ohio State Basketball: `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/ncaamb-osu.xml`
