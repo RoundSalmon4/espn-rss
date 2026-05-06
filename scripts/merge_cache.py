@@ -14,7 +14,8 @@ def main():
     # Artifacts download to data/team_cache_NAME/team_cache_NAME.json
     patterns = [
         "team_cache_*.json",
-        "team_cache_*/*.json"
+        "team_cache_*/*.json",
+        "*/team_cache_*.json"
     ]
     
     cache_files = set()
@@ -35,7 +36,7 @@ def main():
         except Exception as e:
             print(f"  Error: {e}")
     
-    # Write merged cache
+    # Write merged cache.
     output = DATA_DIR / "team_cache.json"
     output.write_text(json.dumps(merged, indent=2))
     print(f"\nMerged cache written to {output}")
