@@ -15,7 +15,7 @@ Auto-generated RSS feeds for sports scores using the ESPN API.
 - `/rss/<league>.xml` (e.g., `/rss/nba.xml`, `/rss/mlb.xml`)
 
 ### Team Feeds
-- `/rss/teams/<league>/<team>.xml`
+- `/rss/teams/<league>-<team>.xml`
 - **Pre-created:** Most leagues have all team feeds ready immediately (empty feeds won't trigger notifications)
 - **On-demand:** Some leagues create team feeds as games are played - more teams appear over time
 
@@ -68,6 +68,8 @@ These leagues don't have a team directory API. Team feeds are created automatica
 
 ## Example Feed URLs
 
-- All NBA games: `https://roundsalmon4.github.io/espn-rss/rss/nba.xml`
-- Lakers games: `https://roundsalmon4.github.io/espn-rss/rss/teams/nba/lal.xml`
-- All finals: `https://roundsalmon4.github.io/espn-rss/rss/all-finals.xml`
+- All NBA games: `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/nba.xml`
+- Lakers games: `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/nba-lal.xml`
+- All finals: `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/all-finals.xml`
+- Oregon State Baseball: `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/ncaab-orst.xml`
+- Ohio State Basketball: `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/ncaamb-osu.xml`
