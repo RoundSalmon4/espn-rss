@@ -42,6 +42,7 @@ Team feeds are available in two URL formats. **The subdirectory format works for
 - NCAA Football, NCAA Baseball, NCAA Softball
 - NCAA Lacrosse, Women's Lacrosse
 - NCAA Men's Volleyball, NCAA Women's Volleyball
+- College Marching Band
 
 **Soccer:**
 - MLS, NWSL
@@ -52,9 +53,6 @@ Team feeds are available in two URL formats. **The subdirectory format works for
 - Boxing, MMA
 - Formula 1, IndyCar, NASCAR
 - PGA Tour, LPGA Tour
-
-**Other:**
-- College Marching Band
 
 ## How Team Feeds Work
 
@@ -86,19 +84,9 @@ These leagues don't have a team directory API. Team feeds are created automatica
 ### Team Feeds (Subdirectory Format)
 - Lakers (NBA): `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/nba/lal.xml`
 - Chiefs (NFL): `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/nfl/kc.xml`
-- Dodgers (MLB): `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/mlb/lad.xml`
-- Oilers (NHL): `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/nhl/edm.xml`
-- Aces (WNBA): `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/wnba/lv.xml`
-- Ohio State (NCAA MBK): `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/ncaamb/osu.xml`
-- Oregon State (NCAA Baseball): `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/ncaab/orst.xml`
-- Oregon State (NCAA Football): `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/ncaaf/orst.xml`
-- Liverpool (Premier League): `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/premier-league/liv.xml`
 
 ### Team Feeds (Hyphen Format - Legacy)
 Note: Only works for NBA, WNBA, MLB, NHL, NFL, ncaamb, ncaawb, ncaab, Premier League, NWSL, MLS. Does NOT work for ncaaf, f1, Champions League, or Europa League.
 - Lakers (NBA): `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/nba-lal.xml`
 - Chiefs (NFL): `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/nfl-kc.xml`
-- Dodgers (MLB): `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/mlb-lad.xml`
-- Oilers (NHL): `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/nhl-edm.xml`
-- Aces (WNBA): `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/wnba-lv.xml`
-- Liverpool (Premier League): `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/premier-league-liv.xml`
+
