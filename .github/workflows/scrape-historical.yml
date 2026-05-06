@@ -1,0 +1,40 @@
+name: Scrape Historical Team Feeds
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+    description: "Scrape ESPN API historical data to discover teams for leagues without /teams endpoint"
+
+jobs:
+  scrape-historical:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+      
+      - run: pip install requests
+      
+      - run: mkdir -p data rss/teams
+      
+      - name: Scrape historical teams from ESPN API calendar
+        run: python scripts/scrape_historical_teams.py
+      
+      - name: Create team feeds from cache
+        run: python scripts/create_team_feeds.py
+      
+      - name: Commit and push
+        run: |
+          git config user.name "rss-bot"
+          git config user.email "rss-bot@users.noreply.github.com"
+          git add data/team_cache.json rss/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Scrape historical data: cache teams from ESPN API calendar [skip ci]"
+            git push
+          fi
