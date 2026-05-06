@@ -58,7 +58,7 @@ jobs:
       - run: mkdir -p data rss/teams
       
       - name: Download all cache artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           path: data/
           pattern: team_cache_*
