@@ -16,13 +16,15 @@ Auto-generated RSS feeds for sports scores using the ESPN API.
 
 ### Team Feeds
 
-Team feeds are available in two URL formats - both work:
+Team feeds are available in two URL formats. **The subdirectory format works for all leagues with team feeds.** The hyphen format only works for some leagues (legacy feeds).
 
-**Subdirectory format (preferred):**
+**Subdirectory format (works for all leagues with teams):**
 - `/rss/teams/<league>/<team>.xml` (e.g., `/rss/teams/nba/lal.xml`)
 
-**Hyphen format (legacy, still supported):**
+**Hyphen format (legacy, works for some leagues only):**
 - `/rss/teams/<league>-<team>.xml` (e.g., `/rss/teams/nba-lal.xml`)
+- **Works for:** NBA, WNBA, MLB, NHL, NFL, NCAA Men's Basketball (ncaamb), NCAA Women's Basketball (ncaawb), NCAA Baseball (ncaab), Premier League, NWSL, MLS
+- **Does NOT work for:** NCAA Football (ncaaf), Formula 1 (f1), Champions League, Europa League — these only support subdirectory format
 
 - **Pre-created:** Most leagues have all team feeds ready immediately (empty feeds won't trigger notifications)
 - **On-demand:** Some leagues create team feeds as games are played - more teams appear over time
@@ -59,7 +61,7 @@ Team feeds are available in two URL formats - both work:
 ### Leagues with pre-created team feeds:
 NBA, WNBA, MLB, NHL, NFL, NCAA Basketball (M+W), NCAA Football, NCAA Baseball, MLS, NWSL, Premier League, Champions League, Europa League, Formula 1.
 
-These leagues have all team feeds created immediately - subscribe to any team right away. Empty feeds have no `pubDate` so they won't trigger notifications until a game is posted. Team feeds exist in both subdirectory (`/rss/teams/nba/lal.xml`) and hyphen (`/rss/teams/nba-lal.xml`) formats.
+These leagues have all team feeds created immediately - subscribe to any team right away. Empty feeds have no `pubDate` so they won't trigger notifications until a game is posted. Note: NCAA Football (ncaaf) and Formula 1 (f1) only support the subdirectory format (`/rss/teams/ncaaf/orst.xml`). All other leagues in this list also support the legacy hyphen format (`/rss/teams/nba-lal.xml`).
 
 ### Leagues with on-demand team feeds:
 NCAA Softball, Lacrosse, Women's Lacrosse, Tennis, ATP, NCAA Volleyball (M+W), Boxing, MMA, IndyCar, NASCAR, PGA, LPGA, Marching Band.
@@ -93,6 +95,7 @@ These leagues don't have a team directory API. Team feeds are created automatica
 - Liverpool (Premier League): `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/premier-league/liv.xml`
 
 ### Team Feeds (Hyphen Format - Legacy)
+Note: Only works for NBA, WNBA, MLB, NHL, NFL, ncaamb, ncaawb, ncaab, Premier League, NWSL, MLS. Does NOT work for ncaaf, f1, Champions League, or Europa League.
 - Lakers (NBA): `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/nba-lal.xml`
 - Chiefs (NFL): `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/nfl-kc.xml`
 - Dodgers (MLB): `https://raw.githubusercontent.com/RoundSalmon4/espn-rss/main/rss/teams/mlb-lad.xml`
