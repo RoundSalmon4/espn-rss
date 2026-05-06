@@ -1,0 +1,82 @@
+name: Setup All Team Feeds
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fetch-teams:
+    strategy:
+      matrix:
+        include:
+          - name: major
+            leagues: "nba wnba mlb nhl nfl"
+          - name: ncaa
+            leagues: "ncaamb ncaawb ncaaf ncaab ncaasoftball ncaaw ncaam lacrosse wla"
+          - name: soccer
+            leagues: "mls nwsl premier-league champions-league europa-league"
+          - name: other
+            leagues: "tennis atp pga lpga f1 indycar nascar boxing mma marching-band"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+      
+      - run: pip install requests
+      
+      - run: mkdir -p data
+      
+      - name: Fetch teams for ${{ matrix.name }}
+        run: python scripts/fetch_teams.py ${{ matrix.leagues }}
+        env:
+          CACHE_SUFFIX: ${{ matrix.name }}
+      
+      - name: Upload cache artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: team_cache_${{ matrix.name }}
+          path: data/team_cache_${{ matrix.name }}.json
+          if-no-files-found: ignore
+  
+  merge-and-create-feeds:
+    needs: fetch-teams
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+      
+      - run: pip install requests
+      
+      - run: mkdir -p data rss/teams
+      
+      - name: Download all cache artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: data/
+          pattern: team_cache_*
+      
+      - name: Merge cache files
+        run: python scripts/merge_cache.py
+      
+      - name: Create team XML feeds
+        run: python scripts/create_team_feeds.py
+      
+      - name: Commit and push
+        run: |
+          git config user.name "rss-bot"
+          git config user.email "rss-bot@users.noreply.github.com"
+          git add data/team_cache.json rss/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Initial setup: Create all team feeds [skip ci]"
+            git push
+          fi
