@@ -22,7 +22,9 @@
       "mlb-21-27-2026-05-06": "NYM 10 - COL 5 (Final)",
       "mlb-23-29-2026-05-06": "PIT 1 - ARI 0 (Final)",
       "mlb-10-13-2026-05-07": "TEX 2 - NYY 9 (Final)",
-      "mlb-20-9-2026-05-07": "MIN 5 - WSH 7 (Final)"
+      "mlb-20-9-2026-05-07": "MIN 5 - WSH 7 (Final)",
+      "mlb-5-7-2026-05-07": "CLE 8 - KC 5 (Final)",
+      "mlb-16-17-2026-05-07": "CIN 3 - CHC 8 (Final)"
     },
     "nhl": {
       "nhl-10-2-2026-05-06": "MTL 2 - BUF 4 (Final)",
@@ -39,7 +41,10 @@
     "champions-league": {
       "champions-league-132-160-2026-05-06": "PSG 1 - MUN 1 (Final)"
     },
-    "europa-league": {},
+    "europa-league": {
+      "europa-league-362-393-2026-05-07": "NFO 0 - AVL 4 (Final)",
+      "europa-league-126-2994-2026-05-07": "SCB 1 - SCF 3 (Final)"
+    },
     "ncaaf": {},
     "ncaab": {
       "ncaab-326-445-2026-05-06": "BUT 1 - TOL 12 (Final)",
