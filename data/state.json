@@ -34,7 +34,8 @@
     },
     "nhl": {
       "nhl-10-2-2026-05-06": "MTL 2 - BUF 4 (Final)",
-      "nhl-25-37-2026-05-06": "ANA 3 - VGK 1 (Final)"
+      "nhl-25-37-2026-05-06": "ANA 3 - VGK 1 (Final)",
+      "nhl-15-7-2026-05-07": "CAR 4 - PHI 1 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
@@ -64,7 +65,10 @@
       "ncaab-153-324-2026-05-06": "BRAD 2 - ILL 10 (Final)",
       "ncaab-103-60-2026-05-06": "NMSU 6 - ARIZ 8 (Final)",
       "ncaab-267-64-2026-05-06": "SF 5 - STAN 12 (Final)",
-      "ncaab-1143-378-2026-05-07": "BELL 4 - LIP 5 (Final)"
+      "ncaab-1143-378-2026-05-07": "BELL 4 - LIP 5 (Final)",
+      "ncaab-150-55-2026-05-07": "AUB 3 - MSST 10 (Final)",
+      "ncaab-176-83-2026-05-07": "LOU 8 - MIA 13 (Final)",
+      "ncaab-127-201-2026-05-07": "BYU 1 - TTU 2 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
