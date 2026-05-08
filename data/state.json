@@ -2,7 +2,8 @@
   "published": {
     "nba": {
       "nba-18-20-2026-05-06": "PHI 102 - NY 108 (Final)",
-      "nba-16-24-2026-05-06": "MIN 95 - SA 133 (Final)"
+      "nba-16-24-2026-05-06": "MIN 95 - SA 133 (Final)",
+      "nba-5-8-2026-05-07": "CLE 97 - DET 107 (Final)"
     },
     "wnba": {},
     "mlb": {
@@ -27,7 +28,9 @@
       "mlb-16-17-2026-05-07": "CIN 3 - CHC 8 (Final)",
       "mlb-21-27-2026-05-07": "NYM 2 - COL 6 (Final)",
       "mlb-23-29-2026-05-07": "PIT 4 - ARI 2 (Final)",
-      "mlb-11-22-2026-05-07": "ATH 12 - PHI 1 (Final)"
+      "mlb-11-22-2026-05-07": "ATH 12 - PHI 1 (Final)",
+      "mlb-1-28-2026-05-07": "BAL 3 - MIA 4 (Final)",
+      "mlb-2-30-2026-05-07": "TB 8 - BOS 4 (Final)"
     },
     "nhl": {
       "nhl-10-2-2026-05-06": "MTL 2 - BUF 4 (Final)",
@@ -60,7 +63,8 @@
       "ncaab-156-191-2026-05-06": "APSU 5 - SEMO 7 (Final)",
       "ncaab-153-324-2026-05-06": "BRAD 2 - ILL 10 (Final)",
       "ncaab-103-60-2026-05-06": "NMSU 6 - ARIZ 8 (Final)",
-      "ncaab-267-64-2026-05-06": "SF 5 - STAN 12 (Final)"
+      "ncaab-267-64-2026-05-06": "SF 5 - STAN 12 (Final)",
+      "ncaab-1143-378-2026-05-07": "BELL 4 - LIP 5 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
