@@ -1,25 +1,15 @@
 {
   "published": {
     "nba": {
-      "nba-5-8-2026-05-07": "CLE 97 - DET 107 (Final)",
-      "nba-13-25-2026-05-07": "LAL 107 - OKC 125 (Final)",
-      "nba-18-20-2026-05-08": "NY 108 - PHI 94 (Final)"
+      "nba-18-20-2026-05-08": "NY 108 - PHI 94 (Final)",
+      "nba-16-24-2026-05-08": "SA 115 - MIN 108 (Final)"
     },
     "wnba": {
       "wnba-18-9-2026-05-08": "CON 75 - NY 106 (Final)",
-      "wnba-131935-16-2026-05-08": "WSH 68 - TOR 65 (Final)"
+      "wnba-131935-16-2026-05-08": "WSH 68 - TOR 65 (Final)",
+      "wnba-129689-14-2026-05-08": "GS 91 - SEA 80 (Final)"
     },
     "mlb": {
-      "mlb-10-13-2026-05-07": "TEX 2 - NYY 9 (Final)",
-      "mlb-20-9-2026-05-07": "MIN 5 - WSH 7 (Final)",
-      "mlb-5-7-2026-05-07": "CLE 8 - KC 5 (Final)",
-      "mlb-16-17-2026-05-07": "CIN 3 - CHC 8 (Final)",
-      "mlb-21-27-2026-05-07": "NYM 2 - COL 6 (Final)",
-      "mlb-23-29-2026-05-07": "PIT 4 - ARI 2 (Final)",
-      "mlb-11-22-2026-05-07": "ATH 12 - PHI 1 (Final)",
-      "mlb-1-28-2026-05-07": "BAL 3 - MIA 4 (Final)",
-      "mlb-2-30-2026-05-07": "TB 8 - BOS 4 (Final)",
-      "mlb-24-25-2026-05-07": "STL 2 - SD 1 (Final)",
       "mlb-17-18-2026-05-08": "HOU 10 - CIN 0 (Final)",
       "mlb-22-27-2026-05-08": "COL 9 - PHI 7 (Final)",
       "mlb-1-11-2026-05-08": "ATH 4 - BAL 3 (Final)",
@@ -30,11 +20,15 @@
       "mlb-10-8-2026-05-08": "NYY 0 - MIL 6 (Final)",
       "mlb-6-7-2026-05-08": "DET 3 - KC 4 (Final)",
       "mlb-12-4-2026-05-08": "SEA 12 - CHW 8 (Final)",
-      "mlb-13-16-2026-05-08": "CHC 7 - TEX 1 (Final)"
+      "mlb-13-16-2026-05-08": "CHC 7 - TEX 1 (Final)",
+      "mlb-21-29-2026-05-08": "NYM 3 - ARI 1 (Final)",
+      "mlb-24-25-2026-05-08": "STL 6 - SD 0 (Final)",
+      "mlb-15-19-2026-05-08": "ATL 1 - LAD 3 (Final)",
+      "mlb-23-26-2026-05-08": "PIT 2 - SF 5 (Final)"
     },
     "nhl": {
-      "nhl-15-7-2026-05-07": "CAR 4 - PHI 1 (Final)",
-      "nhl-10-2-2026-05-08": "MTL 5 - BUF 1 (Final)"
+      "nhl-10-2-2026-05-08": "MTL 5 - BUF 1 (Final)",
+      "nhl-25-37-2026-05-08": "VGK 6 - ANA 2 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
@@ -46,17 +40,9 @@
     },
     "premier-league": {},
     "champions-league": {},
-    "europa-league": {
-      "europa-league-362-393-2026-05-07": "NFO 0 - AVL 4 (Final)",
-      "europa-league-126-2994-2026-05-07": "SCB 1 - SCF 3 (Final)"
-    },
+    "europa-league": {},
     "ncaaf": {},
     "ncaab": {
-      "ncaab-1143-378-2026-05-07": "BELL 4 - LIP 5 (Final)",
-      "ncaab-150-55-2026-05-07": "AUB 3 - MSST 10 (Final)",
-      "ncaab-176-83-2026-05-07": "LOU 8 - MIA 13 (Final)",
-      "ncaab-127-201-2026-05-07": "BYU 1 - TTU 2 (Final)",
-      "ncaab-183-68-2026-05-07": "NEV 0 - USC 8 (Final)",
       "ncaab-178-365-2026-05-08": "MONM 3 - HOF 7 (Final)",
       "ncaab-138-358-2026-05-08": "GAST 5 - GASO 1 (Final)",
       "ncaab-103-197-2026-05-08": "NMSU 8 - MOST 14 (Final)",
@@ -117,7 +103,20 @@
       "ncaab-203-76-2026-05-08": "USF 16 - TULN 6 (Final)",
       "ncaab-127-201-2026-05-08": "BYU 12 - TTU 3 (Final)",
       "ncaab-121-160-2026-05-08": "UCF 8 - BAY 0 (Final)",
-      "ncaab-185-290-2026-05-08": "UCSB 8 - CSUN 4 (Final)"
+      "ncaab-185-290-2026-05-08": "UCSB 8 - CSUN 4 (Final)",
+      "ncaab-183-68-2026-05-08": "NEV 3 - USC 11 (Final)",
+      "ncaab-273-66-2026-05-08": "ORE 1 - UCLA 11 (Final)",
+      "ncaab-150-55-2026-05-08": "AUB 5 - MSST 4 (Final)",
+      "ncaab-113-141-2026-05-08": "ORST 7 - LBSU 2 (Final)",
+      "ncaab-110-59-2026-05-08": "OKST 9 - ASU 6 (Final)",
+      "ncaab-75-82-2026-05-08": "UK 6 - FLA 7 (Final)",
+      "ncaab-143-413-2026-05-08": "USD 4 - PAC 6 (Final)",
+      "ncaab-174-426-2026-05-08": "SMC 17 - LMU 4 (Final)",
+      "ncaab-448-79-2026-05-08": "HAW 4 - UCD 1 (Final)",
+      "ncaab-124-60-2026-05-08": "HOU 7 - ARIZ 4 (Final)",
+      "ncaab-64-95-2026-05-08": "NCSU 5 - STAN 6 (Final)",
+      "ncaab-165-61-2026-05-08": "CP 3 - CSUF 4 (Final)",
+      "ncaab-269-57-2026-05-08": "USA 12 - TROY 1 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
