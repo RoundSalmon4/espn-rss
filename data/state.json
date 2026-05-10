@@ -26,7 +26,10 @@
       "mlb-5-9-2026-05-09": "MIN 2 - CLE 1 (Final)",
       "mlb-23-26-2026-05-09": "PIT 13 - SF 3 (Final)",
       "mlb-15-19-2026-05-09": "ATL 7 - LAD 2 (Final)",
-      "mlb-20-28-2026-05-10": "WSH 2 - MIA 5 (Final)"
+      "mlb-20-28-2026-05-10": "WSH 2 - MIA 5 (Final)",
+      "mlb-22-27-2026-05-10": "COL 0 - PHI 6 (Final)",
+      "mlb-14-3-2026-05-10": "LAA 6 - TOR 1 (Final)",
+      "mlb-17-18-2026-05-10": "HOU 0 - CIN 5 (Final)"
     },
     "nhl": {
       "nhl-15-7-2026-05-09": "CAR 3 - PHI 2 (Final)",
@@ -170,7 +173,18 @@
       "ncaab-172-173-2026-05-10": "LT 2 - LIB 3 (Final)",
       "ncaab-152-401-2026-05-10": "UNCW 2 - NCAT 7 (Final)",
       "ncaab-205-97-2026-05-10": "WCU 5 - WAKE 9 (Final)",
-      "ncaab-77-93-2026-05-10": "DUKE 1 - GT 14 (Final)"
+      "ncaab-77-93-2026-05-10": "DUKE 1 - GT 14 (Final)",
+      "ncaab-178-365-2026-05-10": "MONM 18 - HOF 10 (Final)",
+      "ncaab-115-96-2026-05-10": "PITT 3 - UNC 7 (Final)",
+      "ncaab-140-146-2026-05-10": "ODU 9 - CCU 2 (Final)",
+      "ncaab-196-405-2026-05-10": "STBK 4 - NE 7 (Final)",
+      "ncaab-195-458-2026-05-10": "SJU 2 - VILL 8 (Final)",
+      "ncaab-108-88-2026-05-10": "MSU 2 - OSU 3 (Final)",
+      "ncaab-190-339-2026-05-10": "DEL 1 - SHSU 8 (Final)",
+      "ncaab-272-384-2026-05-10": "ULM 7 - MRSH 5 (Final)",
+      "ncaab-122-94-2026-05-10": "RICE 0 - ECU 3 (Final)",
+      "ncaab-189-294-2026-05-10": "IU 8 - PUR 11 (Final)",
+      "ncaab-412-81-2026-05-10": "OAK 3 - ND 9 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
