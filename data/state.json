@@ -31,11 +31,14 @@
       "mlb-14-3-2026-05-09": "LAA 1 - TOR 14 (Final)",
       "mlb-17-18-2026-05-09": "HOU 1 - CIN 3 (Final)",
       "mlb-1-11-2026-05-09": "ATH 6 - BAL 2 (Final)",
-      "mlb-20-28-2026-05-09": "WSH 7 - MIA 8 (Final)"
+      "mlb-20-28-2026-05-09": "WSH 7 - MIA 8 (Final)",
+      "mlb-22-27-2026-05-09": "COL 3 - PHI 9 (Final)",
+      "mlb-6-7-2026-05-09": "DET 1 - KC 5 (Final)"
     },
     "nhl": {
       "nhl-10-2-2026-05-08": "MTL 5 - BUF 1 (Final)",
-      "nhl-25-37-2026-05-08": "VGK 6 - ANA 2 (Final)"
+      "nhl-25-37-2026-05-08": "VGK 6 - ANA 2 (Final)",
+      "nhl-15-7-2026-05-09": "CAR 3 - PHI 2 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
@@ -47,7 +50,8 @@
     },
     "nwsl": {
       "nwsl-15362-20905-2026-05-08": "POR 1 - LOU 3 (Final)",
-      "nwsl-15366-18206-2026-05-08": "NC 0 - ORL 1 (Final)"
+      "nwsl-15366-18206-2026-05-08": "NC 0 - ORL 1 (Final)",
+      "nwsl-131562-15364-2026-05-09": "BOS 1 - GFC 1 (Final)"
     },
     "premier-league": {
       "premier-league-363-364-2026-05-09": "CHE 1 - LIV 1 (Final)",
@@ -191,7 +195,14 @@
       "ncaab-185-290-2026-05-09": "UCSB 5 - CSUN 4 (Final)",
       "ncaab-129699-291-2026-05-09": "WES 5 - FGCU 10 (Final)",
       "ncaab-161-264-2026-05-09": "CIN 5 - KSU 3 (Final)",
-      "ncaab-205-97-2026-05-09": "WCU 2 - WAKE 14 (Final)"
+      "ncaab-205-97-2026-05-09": "WCU 2 - WAKE 14 (Final)",
+      "ncaab-126-199-2026-05-09": "TEX 9 - TENN 14 (Final)",
+      "ncaab-117-72-2026-05-09": "FSU 3 - CLEM 4 (Final)",
+      "ncaab-64-95-2026-05-09": "NCSU 12 - STAN 7 (Final)",
+      "ncaab-143-413-2026-05-09": "USD 6 - PAC 18 (Final)",
+      "ncaab-1238-296-2026-05-09": "UNF 3 - QUC 4 (Final)",
+      "ncaab-152-401-2026-05-09": "UNCW 10 - NCAT 7 (Final)",
+      "ncaab-153-411-2026-05-09": "NU 3 - ILL 4 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
