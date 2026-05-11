@@ -17,7 +17,7 @@ def main():
     with open(cache_file) as f:
         cache = json.load(f)
     
-    # Build a map from league_path to league_key (e.g., "basketball/nba" -> "nba")
+    # Build a map from league_path to league key (e.g., "basketball/nba" -> "nba")
     path_to_key = {info["path"]: key for key, info in KNOWN_LEAGUE_PATHS.items()}
     
     # Count total teams
@@ -35,15 +35,16 @@ def main():
         
         # Convert league_path to league key
         league_key = path_to_key.get(league_path, league_path.split("/")[-1])
+        league_name = KNOWN_LEAGUE_PATHS.get(league_key, {}).get("name", league_key.upper())
         teams = entry["teams"]
         
         for abbrev, name in teams.items():
             try:
                 # Build the path: rss/teams/{league}/{abbrev}.xml
                 path = TEAM_DIR / league_key / f"{abbrev}.xml"
-                title = f"ESPN RSS - {name}"
+                title = f"{league_name} - {name}"
                 link = f"https://www.espn.com/{league_path}/team/_/name/{abbrev}"
-                description = f"ESPN RSS Feed for {name} ({league_key.upper()})"
+                description = f"RSS Feed for {name} ({league_name})"
                 init_team_feed(path, title, link, description)
                 created += 1
             except Exception as e:
