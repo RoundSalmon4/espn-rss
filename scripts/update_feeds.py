@@ -30,21 +30,18 @@ KNOWN_LEAGUE_PATHS = {
     "europa-league": {"path": "soccer/uefa.europa", "name": "UEFA Europa League", "has_teams": True},
     "ncaaf": {"path": "football/college-football", "name": "NCAA Football", "has_teams": True},
     "ncaab": {"path": "baseball/college-baseball", "name": "NCAA Baseball", "has_teams": True},
-    "ncaasoftball": {"path": "softball/college-softball", "name": "NCAA Softball", "has_teams": False},
-    "lacrosse": {"path": "lacrosse/ncaa", "name": "NCAA Lacrosse", "has_teams": False},
-    "wla": {"path": "lacrosse/wnrl", "name": "Women's Lacrosse", "has_teams": False},
+    "ncaasoftball": {"path": "baseball/college-softball", "name": "NCAA Softball", "has_teams": False},
+    "lacrosse": {"path": "lacrosse/mens-college-lacrosse", "name": "NCAA Men's Lacrosse", "has_teams": False},
+    "wla": {"path": "lacrosse/womens-college-lacrosse", "name": "NCAA Women's Lacrosse", "has_teams": False},
     "tennis": {"path": "tennis/wta", "name": "WTA Tennis", "has_teams": False},
     "atp": {"path": "tennis/atp", "name": "ATP Tennis", "has_teams": False},
     "ncaaw": {"path": "volleyball/women-college-volleyball", "name": "NCAA Women's Volleyball", "has_teams": False},
     "ncaam": {"path": "volleyball/men-college-volleyball", "name": "NCAA Men's Volleyball", "has_teams": False},
-    "boxing": {"path": "boxing", "name": "Boxing", "has_teams": False},
-    "mma": {"path": "mma", "name": "MMA", "has_teams": False},
     "f1": {"path": "racing/f1", "name": "Formula 1", "has_teams": True},
-    "indycar": {"path": "racing/indycar", "name": "IndyCar", "has_teams": False},
-    "nascar": {"path": "racing/nascar", "name": "NASCAR", "has_teams": False},
+    "indycar": {"path": "racing/irl", "name": "IndyCar Series", "has_teams": False},
+    "nascar": {"path": "racing/nascar-premier", "name": "NASCAR Cup Series", "has_teams": False},
     "pga": {"path": "golf/pga", "name": "PGA Tour", "has_teams": False},
     "lpga": {"path": "golf/lpga", "name": "LPGA Tour", "has_teams": False},
-    "marching-band": {"path": "marching-band", "name": "College Marching Band", "has_teams": False},
 }
 
 SPORTS = [info["path"] for info in KNOWN_LEAGUE_PATHS.values()]
@@ -182,7 +179,7 @@ def fetch_espn(league_info, date_str):
     path = league_info["path"]
     url = f"{BASE_URL}/sports/{path}/scoreboard?dates={date_str.replace('-', '')}"
     groups_sports = ["basketball/mens-college-basketball", "basketball/womens-college-basketball", 
-                     "football/college-football", "volleyball", "softball"]
+                     "football/college-football", "volleyball", "softball", "lacrosse"]
     if any(sport in path for sport in groups_sports):
         url += "&groups=50"
     print(f"Fetching: {url}")
