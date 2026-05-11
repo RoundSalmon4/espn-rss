@@ -116,8 +116,14 @@ def discover_teams(league_path):
         except Exception as e:
             print(f"Team discovery failed for {league_path}: {e}")
             break
-    cache[league_path] = {"time": now, "teams": teams}
-    TEAM_CACHE_FILE.write_text(json.dumps(cache, indent=2))
+    if teams:
+        cache[league_path] = {"time": now, "teams": teams}
+        TEAM_CACHE_FILE.write_text(json.dumps(cache, indent=2))
+    else:
+        # API failed; keep existing cached data if available
+        if cache_entry.get("teams"):
+            print(f"  API returned no teams for {league_path}, keeping {len(cache_entry['teams'])} cached teams")
+            return cache_entry["teams"]
     return teams
 
 def validate_state(state):
@@ -380,9 +386,9 @@ def main():
             for team_abbrev, team_name in teams.items():
                 team_path = TEAM_DIR / league / f"{team_abbrev}.xml"
                 if not team_path.exists():
-                    title = f"ESPN RSS - {team_name}"
+                    title = f"{league_info['name']} - {team_name}"
                     link = f"https://www.espn.com/{league_info['path']}/team/_/name/{team_abbrev}"
-                    description = f"ESPN RSS Feed for {team_name} ({league.upper()})"
+                    description = f"RSS Feed for {team_name} ({league_info['name']})"
                     init_team_feed(team_path, title, link, description)
         else:
             print(f"Skipping team discovery for {league} (no /teams endpoint)")
@@ -442,11 +448,11 @@ def main():
                     cache_team(league_path, team_code, team_name)
                     team_path = TEAM_DIR / league / f"{team_code.lower()}.xml"
                     if not team_path.exists():
-                        title_text = f"ESPN RSS - {team_name}"
+                        title_text = f"{league_info['name']} - {team_name}"
                         link = f"https://www.espn.com/{league_path}/team/_/name/{team_code}"
-                        description = f"ESPN RSS Feed for {team_name} ({league.upper()})"
+                        description = f"RSS Feed for {team_name} ({league_info['name']})"
                         init_team_feed(team_path, title_text, link, description)
-                    write_feed(team_path, f"{league.upper()} - {team_code} Finals", "https://espn.com", f"Final games for {team_code}", [(gid, title)], state)
+                    write_feed(team_path, f"{league_info['name']} - {team_code} Finals", "https://espn.com", f"Final games for {team_code}", [(gid, title)], state)
                 if already_published:
                     continue
                 league_new.append((gid, title))
@@ -455,7 +461,7 @@ def main():
         if league_new:
             write_feed(
                 RSS_DIR / f"{league}.xml",
-                f"espn-rss - {league_info['name']} Finals",
+                f"{league_info['name']} - Finals",
                 url,
                 f"{league_info['name']} final scores",
                 league_new,
@@ -464,7 +470,7 @@ def main():
         else:
             write_feed_from_state(
                 RSS_DIR / f"{league}.xml",
-                f"espn-rss - {league_info['name']} Finals",
+                f"{league_info['name']} - Finals",
                 url,
                 f"{league_info['name']} final scores",
                 league,
@@ -474,7 +480,7 @@ def main():
     save_state(state)
     write_feed_from_state(
         RSS_DIR / "all-finals.xml",
-        "espn-rss - All Finals",
+        "All Leagues - Finals",
         "https://espn.com",
         "All leagues final scores",
         "all",
