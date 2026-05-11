@@ -11,7 +11,8 @@
       "wnba-20-8-2026-05-09": "ATL 91 - MIN 90 (Final)",
       "wnba-132052-19-2026-05-09": "CHI 98 - POR 83 (Final)",
       "wnba-14-18-2026-05-10": "SEA 89 - CON 82 (Final)",
-      "wnba-16-9-2026-05-10": "NY 98 - WSH 93 (Final)"
+      "wnba-16-9-2026-05-10": "NY 98 - WSH 93 (Final)",
+      "wnba-17-6-2026-05-10": "LV 105 - LA 78 (Final)"
     },
     "mlb": {
       "mlb-14-3-2026-05-09": "LAA 1 - TOR 14 (Final)",
@@ -40,7 +41,8 @@
       "mlb-13-16-2026-05-10": "CHC 0 - TEX 3 (Final)",
       "mlb-15-19-2026-05-10": "ATL 7 - LAD 2 (Final)",
       "mlb-21-29-2026-05-10": "NYM 1 - ARI 5 (Final)",
-      "mlb-24-25-2026-05-10": "STL 2 - SD 3 (Final)"
+      "mlb-24-25-2026-05-10": "STL 2 - SD 3 (Final)",
+      "mlb-23-26-2026-05-10": "PIT 6 - SF 7 (Final)"
     },
     "nhl": {
       "nhl-15-7-2026-05-09": "CAR 3 - PHI 2 (Final)",
@@ -235,7 +237,8 @@
       "ncaab-267-287-2026-05-10": "GONZ 12 - SF 5 (Final)",
       "ncaab-185-290-2026-05-10": "UCSB 4 - CSUN 2 (Final)",
       "ncaab-1147-327-2026-05-10": "UCSD 15 - CSUB 2 (Final)",
-      "ncaab-64-95-2026-05-10": "NCSU 5 - STAN 9 (Final)"
+      "ncaab-64-95-2026-05-10": "NCSU 5 - STAN 9 (Final)",
+      "ncaab-143-413-2026-05-10": "USD 11 - PAC 11 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
