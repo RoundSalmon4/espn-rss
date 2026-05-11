@@ -4,8 +4,6 @@ permissions:
   contents: write
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 concurrency:
