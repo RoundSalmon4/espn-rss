@@ -7,8 +7,13 @@ on:
   repository_dispatch:
     types: [ping]
 
+concurrency:
+  group: trigger-chain
+  cancel-in-progress: false
+
 permissions:
   contents: write
+  actions: write
 
 jobs:
   update:
@@ -31,3 +36,9 @@ jobs:
             git commit -m "Quick update feeds [skip ci]"
             git push
           fi
+      - name: Re-trigger self after ~5 minutes (chained ping)
+        run: |
+          sleep 270
+          gh workflow run trigger.yml --ref main
+        env:
+          GH_TOKEN: ${{ github.token }}
