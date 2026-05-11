@@ -58,11 +58,11 @@ def get_calendar_dates(league_path):
                         dates.add(current.strftime("%Y%m%d"))
                         current += timedelta(days=1)
         elif calendar_type == "day":
-            # Calendar entries can be strings (dates) or dicts
+            # Calendar entries can be ISO strings ("2026-01-01T08:00Z") or dicts
             for entry in calendar:
                 if isinstance(entry, str):
-                    # Just a date string like "2026-05-06"
-                    dates.add(entry.replace("-", ""))
+                    s = datetime.fromisoformat(entry.replace("Z", "+00:00"))
+                    dates.add(s.strftime("%Y%m%d"))
                 elif isinstance(entry, dict):
                     start = entry.get("startDate", "")
                     if start:
@@ -98,7 +98,7 @@ def extract_teams_from_date(league_path, date_str):
                         display = athlete.get("displayName", "")
                         short = athlete.get("shortName", "")
                         abbrev = short if short else display
-                        if display:
+                        if display and "tbd" not in display.lower():
                             teams.append((abbrev, display))
             # Tennis-style groupings
             for grouping in event.get("groupings", []):
@@ -109,8 +109,19 @@ def extract_teams_from_date(league_path, date_str):
                             display = athlete.get("displayName", "")
                             short = athlete.get("shortName", "")
                             abbrev = short if short else display
-                            if display:
+                            if display and "tbd" not in display.lower():
                                 teams.append((abbrev, display))
+                        elif c.get("type") == "team":
+                            # Doubles matches: extract athletes from roster
+                            for entry in c.get("roster", []):
+                                athlete = entry.get("athlete", {}) if isinstance(entry, dict) else entry
+                                if not isinstance(athlete, dict):
+                                    continue
+                                display = athlete.get("displayName", "")
+                                short = athlete.get("shortName", "")
+                                abbrev = short if short else display
+                                if display and "tbd" not in display.lower():
+                                    teams.append((abbrev, display))
         return teams, 200
     except Exception:
         return teams, 0
