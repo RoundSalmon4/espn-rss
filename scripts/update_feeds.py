@@ -15,6 +15,13 @@ BASE_URL = "https://site.api.espn.com/apis/site/v2"
 TIMEZONE = timezone(timedelta(hours=-5))
 HEADERS = {"User-Agent": "espn-rss/2.0"}
 
+NTFS_SAFE_REMAP = {
+    "con": "conn",
+}
+
+def safe_abbrev(abbrev):
+    return NTFS_SAFE_REMAP.get(abbrev.lower(), abbrev.lower())
+
 KNOWN_LEAGUE_PATHS = {
     "nba": {"path": "basketball/nba", "name": "NBA", "has_teams": True},
     "wnba": {"path": "basketball/wnba", "name": "WNBA", "has_teams": True},
@@ -105,7 +112,7 @@ def discover_teams(league_path):
                             elif "cadillac" in name:
                                 abbrev = "cad"
                         if abbrev:
-                            teams[abbrev.lower()] = team.get("displayName", "")
+                            teams[safe_abbrev(abbrev)] = team.get("displayName", "")
                             found_teams = True
             if not found_teams:
                 break
@@ -290,7 +297,7 @@ def cache_team(league_path, abbrev, name):
         teams = cache[league_path].get("teams", {})
         if not isinstance(teams, dict):
             teams = {}
-        key = abbrev.lower()
+        key = safe_abbrev(abbrev)
         if key not in teams:
             teams[key] = name
             cache[league_path]["teams"] = teams
@@ -381,7 +388,7 @@ def main():
             teams = discover_teams(league_info["path"])
             print(f"Discovered {len(teams)} teams for {league}")
             for team_abbrev, team_name in teams.items():
-                team_path = TEAM_DIR / league / f"{team_abbrev}.xml"
+                team_path = TEAM_DIR / league / f"{safe_abbrev(team_abbrev)}.xml"
                 if not team_path.exists():
                     title = f"{league_info['name']} - {team_name}"
                     link = f"https://www.espn.com/{league_info['path']}/team/_/name/{team_abbrev}"
@@ -442,8 +449,8 @@ def main():
                 print(f"SAVED: {league} -> {gid}")
                 for team_code, team_name in [(game["away_code"], game["away_name"]), (game["home_code"], game["home_name"])]:
                     league_path = leagues[league]["path"]
-                    cache_team(league_path, team_code, team_name)
-                    team_path = TEAM_DIR / league / f"{team_code.lower()}.xml"
+                    cache_team(league_path, safe_abbrev(team_code), team_name)
+                    team_path = TEAM_DIR / league / f"{safe_abbrev(team_code)}.xml"
                     if not team_path.exists():
                         title_text = f"{league_info['name']} - {team_name}"
                         link = f"https://www.espn.com/{league_path}/team/_/name/{team_code}"
