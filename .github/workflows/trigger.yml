@@ -33,3 +33,10 @@ jobs:
             git commit -m "Quick update feeds [skip ci]"
             git push
           fi
+      - name: Trigger hoopshype-rss update
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          gh api -X POST /repos/RoundSalmon4/hoopshype-rss/dispatches \
+            -f event_type=ping
+        continue-on-error: true
