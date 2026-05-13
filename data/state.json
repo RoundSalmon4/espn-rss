@@ -21,7 +21,9 @@
     "ncaamb": {},
     "ncaawb": {},
     "mls": {},
-    "nwsl": {},
+    "nwsl": {
+      "nwsl-131562-18206-2026-05-12": "ORL 1 - BOS 2 (Final)"
+    },
     "premier-league": {
       "premier-league-357-367-2026-05-11": "LEE 1 - TOT 1 (Final)"
     },
@@ -46,7 +48,8 @@
       "ncaab-117-453-2026-05-12": "CLEM 3 - UPST 6 (Final)",
       "ncaab-103-104-2026-05-12": "NMSU 6 - UNM 12 (Final)",
       "ncaab-405-69-2026-05-12": "NE 10 - CONN 6 (Final)",
-      "ncaab-172-97-2026-05-12": "WAKE 7 - LIB 5 (Final)"
+      "ncaab-172-97-2026-05-12": "WAKE 7 - LIB 5 (Final)",
+      "ncaab-295-77-2026-05-12": "MER 12 - GT 9 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
