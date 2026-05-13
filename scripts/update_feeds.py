@@ -1,7 +1,10 @@
 import requests, json, re
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
-from xml.etree.ElementTree import Element, SubElement, ElementTree
+import xml.etree.ElementTree as ET
+Element = ET.Element
+SubElement = ET.SubElement
+ElementTree = ET.ElementTree
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 ROOT = Path(__file__).parent.parent
@@ -20,7 +23,8 @@ NTFS_SAFE_REMAP = {
 }
 
 def safe_abbrev(abbrev):
-    return NTFS_SAFE_REMAP.get(abbrev.lower(), abbrev.lower())
+    abbrev = NTFS_SAFE_REMAP.get(abbrev.lower(), abbrev.lower())
+    return re.sub(r'[^a-z0-9_]', '', abbrev)
 
 KNOWN_LEAGUE_PATHS = {
     "nba": {"path": "basketball/nba", "name": "NBA", "has_teams": True},
@@ -65,7 +69,7 @@ def discover_leagues():
                     league_slug = league_info.get("slug", "")
                     league_name = league_info.get("name", "")
                     if league_slug:
-                        key = league_slug.replace("-", "_").replace(" ", "_").lower()[:20]
+                        key = re.sub(r'[^a-z0-9_]', '', league_slug.replace("-", "_").replace(" ", "_").lower())[:20]
                         if key and league_name:
                             path = f"{sport.get('slug', '')}/{league_slug}"
                             discovered[key] = {"path": path, "name": league_name}
@@ -249,7 +253,9 @@ def extract_games_espn(data, league):
 def load_existing_items(path):
     if not path.exists():
         return []
-    root = ElementTree(file=path).getroot()
+    parser = ET.XMLParser()
+    parser = ET.XMLParser()
+    root = ET.parse(str(path), parser=parser).getroot()
     channel = root.find("channel")
     if channel is None:
         return []
