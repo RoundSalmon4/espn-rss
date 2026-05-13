@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Fetch teams for specified leagues and update cache."""
+import re
 from pathlib import Path
 import json
 import sys
@@ -19,7 +20,7 @@ def main():
         sys.exit(1)
     
     # Determine cache file (use suffix from env if present)
-    cache_suffix = os.environ.get("CACHE_SUFFIX", "")
+    cache_suffix = re.sub(r'[^a-zA-Z0-9_-]', '', os.environ.get("CACHE_SUFFIX", ""))
     if cache_suffix:
         cache_file = ROOT / "data" / f"team_cache_{cache_suffix}.json"
     else:
