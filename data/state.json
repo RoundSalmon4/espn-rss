@@ -1,8 +1,6 @@
 {
   "published": {
     "nba": {
-      "nba-5-8-2026-05-11": "DET 103 - CLE 112 (Final)",
-      "nba-13-25-2026-05-11": "OKC 115 - LAL 110 (Final)",
       "nba-16-24-2026-05-12": "MIN 97 - SA 126 (Final)"
     },
     "wnba": {
@@ -11,12 +9,6 @@
       "wnba-11-8-2026-05-12": "MIN 88 - PHX 84 (Final)"
     },
     "mlb": {
-      "mlb-1-10-2026-05-11": "NYY 2 - BAL 3 (Final)",
-      "mlb-3-5-2026-05-11": "LAA 2 - CLE 7 (Final)",
-      "mlb-14-30-2026-05-11": "TB 8 - TOR 5 (Final)",
-      "mlb-13-29-2026-05-11": "ARI 1 - TEX 0 (Final)",
-      "mlb-12-18-2026-05-11": "SEA 3 - HOU 1 (Final)",
-      "mlb-19-26-2026-05-11": "SF 9 - LAD 3 (Final)",
       "mlb-3-5-2026-05-12": "LAA 2 - CLE 3 (Final)",
       "mlb-23-27-2026-05-12": "COL 1 - PIT 3 (Final)",
       "mlb-2-22-2026-05-12": "PHI 2 - BOS 1 (Final)",
@@ -34,7 +26,6 @@
       "mlb-19-26-2026-05-12": "SF 6 - LAD 2 (Final)"
     },
     "nhl": {
-      "nhl-17-30-2026-05-11": "COL 5 - MIN 2 (Final)",
       "nhl-10-2-2026-05-12": "BUF 3 - MTL 2 (Final)",
       "nhl-25-37-2026-05-12": "ANA 2 - VGK 3 (Final)"
     },
@@ -45,15 +36,11 @@
     "nwsl": {
       "nwsl-131562-18206-2026-05-12": "ORL 1 - BOS 2 (Final)"
     },
-    "premier-league": {
-      "premier-league-357-367-2026-05-11": "LEE 1 - TOT 1 (Final)"
-    },
+    "premier-league": {},
     "champions-league": {},
     "europa-league": {},
     "ncaaf": {},
     "ncaab": {
-      "ncaab-179-313-2026-05-11": "NAVY 4 - BUCK 6 (Final)",
-      "ncaab-1105-290-2026-05-11": "CBU 8 - UCSB 3 (Final)",
       "ncaab-349-88-2026-05-12": "EMU 2 - MSU 5 (Final)",
       "ncaab-130-131-2026-05-12": "RICH 6 - UVA 18 (Final)",
       "ncaab-305-450-2026-05-12": "UMBC 8 - TOW 9 (Final)",
