@@ -1,7 +1,10 @@
 import requests, json, re
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
-from xml.etree.ElementTree import Element, SubElement, ElementTree
+import xml.etree.ElementTree as ET
+Element = ET.Element
+SubElement = ET.SubElement
+ElementTree = ET.ElementTree
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 ROOT = Path(__file__).parent.parent
@@ -239,7 +242,8 @@ def extract_games_espn(data, league):
 def load_existing_items(path):
     if not path.exists():
         return []
-    root = ElementTree(file=path).getroot()
+    parser = ET.XMLParser()
+    root = ET.parse(str(path), parser=parser).getroot()
     channel = root.find("channel")
     if channel is None:
         return []

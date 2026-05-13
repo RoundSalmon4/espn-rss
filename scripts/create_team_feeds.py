@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Create team feeds from cache."""
+import re
 from pathlib import Path
 import json
 import sys
@@ -40,8 +41,8 @@ def main():
         
         for abbrev, name in teams.items():
             try:
-                # Build the path: rss/teams/{league}/{abbrev}.xml
-                path = TEAM_DIR / league_key / f"{abbrev}.xml"
+                safe_abbrev_val = re.sub(r'[^a-z0-9_]', '', abbrev.lower())
+                path = TEAM_DIR / league_key / f"{safe_abbrev_val}.xml"
                 title = f"{league_name} - {name}"
                 link = f"https://www.espn.com/{league_path}/team/_/name/{abbrev}"
                 description = f"RSS Feed for {name} ({league_name})"
