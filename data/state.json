@@ -34,7 +34,9 @@
     "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
-    "mls": {},
+    "mls": {
+      "mls-182-9720-2026-05-16": "CHI 2 - MTL 0 (Final)"
+    },
     "nwsl": {
       "nwsl-17346-20907-2026-05-15": "HOU 0 - KC 3 (Final)",
       "nwsl-131562-22187-2026-05-15": "BOS 1 - BAY 1 (Final)",
@@ -187,7 +189,8 @@
       "ncaab-55-78-2026-05-16": "UGA 4 - AUB 14 (Final)",
       "ncaab-187-427-2026-05-16": "PEPP 2 - SCU 3 (Final)",
       "ncaab-58-82-2026-05-16": "ARK 16 - UK 12 (Final)",
-      "ncaab-263-73-2026-05-16": "JXST 13 - DBU 4 (Final)"
+      "ncaab-263-73-2026-05-16": "JXST 13 - DBU 4 (Final)",
+      "ncaab-1103-156-2026-05-16": "APSU 4 - UNA 8 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
