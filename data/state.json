@@ -1,13 +1,15 @@
 {
   "published": {
     "nba": {
-      "nba-5-8-2026-05-15": "DET 115 - CLE 94 (Final)"
+      "nba-5-8-2026-05-15": "DET 115 - CLE 94 (Final)",
+      "nba-16-24-2026-05-15": "SA 139 - MIN 109 (Final)"
     },
     "wnba": {
       "wnba-3-8-2026-05-14": "MIN 90 - DAL 86 (Final)",
       "wnba-132052-9-2026-05-14": "NY 100 - POR 82 (Final)",
       "wnba-17-18-2026-05-15": "LV 101 - CON 94 (Final)",
-      "wnba-16-5-2026-05-15": "WSH 104 - IND 102 (Final)"
+      "wnba-16-5-2026-05-15": "WSH 104 - IND 102 (Final)",
+      "wnba-131935-6-2026-05-15": "TOR 95 - LA 99 (Final)"
     },
     "mlb": {
       "mlb-17-20-2026-05-14": "WSH 1 - CIN 15 (Final)",
