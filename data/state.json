@@ -6,7 +6,7 @@
     "wnba": {
       "wnba-3-8-2026-05-14": "MIN 90 - DAL 86 (Final)",
       "wnba-132052-9-2026-05-14": "NY 100 - POR 82 (Final)",
-      "wnba-17-18-2026-05-15": "LV 101 - CON 94 (Final)"
+      "wnba-17-18-2026-05-15": "LV 101 - CON 59 (Final)"
     },
     "mlb": {
       "mlb-17-20-2026-05-14": "WSH 1 - CIN 15 (Final)",
@@ -33,7 +33,9 @@
     "ncaamb": {},
     "ncaawb": {},
     "mls": {},
-    "nwsl": {},
+    "nwsl": {
+      "nwsl-17346-20907-2026-05-15": "HOU 0 - KC 3 (Final)"
+    },
     "premier-league": {
       "premier-league-362-364-2026-05-15": "LIV 2 - AVL 4 (Final)"
     },
@@ -172,7 +174,9 @@
       "ncaab-95-96-2026-05-15": "UNC 17 - NCSU 7 (Final)",
       "ncaab-138-192-2026-05-15": "GASO 1 - USM 10 (Final)",
       "ncaab-309-387-2026-05-15": "SELA 9 - MCN 15 (Final)",
-      "ncaab-75-85-2026-05-15": "FLA 11 - LSU 1 (Final)"
+      "ncaab-75-85-2026-05-15": "FLA 11 - LSU 1 (Final)",
+      "ncaab-144-146-2026-05-15": "CCU 6 - UL 0 (Final)",
+      "ncaab-186-438-2026-05-15": "SFA 6 - NWST 4 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
