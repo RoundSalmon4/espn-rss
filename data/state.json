@@ -1,29 +1,12 @@
 {
   "published": {
     "nba": {
-      "nba-24-25-2026-05-18": "SA 122 - OKC 115 (Final)",
       "nba-18-5-2026-05-19": "CLE 104 - NY 115 (Final)"
     },
     "wnba": {
-      "wnba-16-3-2026-05-18": "WSH 69 - DAL 92 (Final)",
-      "wnba-132052-18-2026-05-18": "CON 82 - POR 83 (Final)",
       "wnba-11-131935-2026-05-19": "TOR 98 - PHX 90 (Final)"
     },
     "mlb": {
-      "mlb-17-22-2026-05-18": "CIN 4 - PHI 5 (Final)",
-      "mlb-15-28-2026-05-18": "ATL 0 - MIA 12 (Final)",
-      "mlb-1-30-2026-05-18": "BAL 6 - TB 16 (Final)",
-      "mlb-2-7-2026-05-18": "BOS 3 - KC 1 (Final)",
-      "mlb-5-6-2026-05-18": "CLE 8 - DET 2 (Final)",
-      "mlb-16-8-2026-05-18": "MIL 9 - CHC 3 (Final)",
-      "mlb-10-14-2026-05-18": "TOR 6 - NYY 7 (Final)",
-      "mlb-20-21-2026-05-18": "NYM 16 - WSH 7 (Final)",
-      "mlb-13-27-2026-05-18": "TEX 6 - COL 7 (Final)",
-      "mlb-19-25-2026-05-18": "LAD 0 - SD 1 (Final)",
-      "mlb-11-3-2026-05-18": "ATH 1 - LAA 2 (Final)",
-      "mlb-26-29-2026-05-18": "SF 2 - ARI 12 (Final)",
-      "mlb-18-9-2026-05-18": "HOU 3 - MIN 6 (Final)",
-      "mlb-12-4-2026-05-18": "CHW 1 - SEA 6 (Final)",
       "mlb-15-28-2026-05-19": "ATL 8 - MIA 4 (Final)",
       "mlb-5-6-2026-05-19": "CLE 4 - DET 3 (Final)",
       "mlb-17-22-2026-05-19": "CIN 4 - PHI 1 (Final)",
@@ -40,16 +23,13 @@
       "mlb-12-4-2026-05-19": "CHW 2 - SEA 1 (Final)",
       "mlb-11-3-2026-05-19": "ATH 14 - LAA 6 (Final)"
     },
-    "nhl": {
-      "nhl-10-2-2026-05-18": "MTL 3 - BUF 2 (Final)"
-    },
+    "nhl": {},
     "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
     "mls": {},
     "nwsl": {},
     "premier-league": {
-      "premier-league-359-379-2026-05-18": "BUR 0 - ARS 1 (Final)",
       "premier-league-349-382-2026-05-19": "MNC 1 - BOU 1 (Final)",
       "premier-league-363-367-2026-05-19": "TOT 1 - CHE 2 (Final)"
     },
@@ -57,7 +37,6 @@
     "europa-league": {},
     "ncaaf": {},
     "ncaab": {
-      "ncaab-313-366-2026-05-18": "HC 11 - BUCK 2 (Final)",
       "ncaab-189-88-2026-05-19": "MSU 8 - PUR 4 (Final)",
       "ncaab-93-95-2026-05-19": "DUKE 21 - NCSU 12 (Final)",
       "ncaab-91-92-2026-05-19": "MIZ 10 - MISS 8 (Final)",
