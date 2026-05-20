@@ -37,7 +37,9 @@
       "premier-league-363-367-2026-05-19": "TOT 1 - CHE 2 (Final)"
     },
     "champions-league": {},
-    "europa-league": {},
+    "europa-league": {
+      "europa-league-126-362-2026-05-20": "AVL 3 - SCF 0 (Final)"
+    },
     "ncaaf": {},
     "ncaab": {
       "ncaab-189-88-2026-05-19": "MSU 8 - PUR 4 (Final)",
@@ -80,7 +82,9 @@
       "ncaab-318-359-2026-05-20": "GRAM 0 - ALST 10 (Final)",
       "ncaab-102-108-2026-05-20": "RUTG 2 - OSU 3 (Final)",
       "ncaab-181-304-2026-05-20": "UNCG 6 - ETSU 5 (Final)",
-      "ncaab-1146-125-2026-05-20": "UTA 0 - UTU 4 (Final)"
+      "ncaab-1146-125-2026-05-20": "UTA 0 - UTU 4 (Final)",
+      "ncaab-299-449-2026-05-20": "UML 7 - BRY 5 (Final)",
+      "ncaab-120-75-2026-05-20": "VAN 3 - FLA 8 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
