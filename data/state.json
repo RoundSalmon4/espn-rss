@@ -33,9 +33,12 @@
       "mlb-15-28-2026-05-20": "ATL 9 - MIA 1 (Final)",
       "mlb-5-6-2026-05-20": "CLE 3 - DET 2 (Final)",
       "mlb-16-8-2026-05-20": "MIL 5 - CHC 0 (Final)",
-      "mlb-2-7-2026-05-20": "BOS 4 - KC 3 (Final)"
+      "mlb-2-7-2026-05-20": "BOS 4 - KC 3 (Final)",
+      "mlb-23-24-2026-05-20": "PIT 7 - STL 0 (Final)"
     },
-    "nhl": {},
+    "nhl": {
+      "nhl-17-37-2026-05-20": "VGK 4 - COL 2 (Final)"
+    },
     "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
