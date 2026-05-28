@@ -3,7 +3,9 @@
     "nba": {
       "nba-24-25-2026-05-26": "SA 114 - OKC 127 (Final)"
     },
-    "wnba": {},
+    "wnba": {
+      "wnba-11-9-2026-05-27": "PHX 74 - NY 84 (Final)"
+    },
     "mlb": {
       "mlb-20-5-2026-05-26": "WSH 6 - CLE 3 (Final)",
       "mlb-1-30-2026-05-26": "TB 1 - BAL 6 (Final)",
@@ -26,7 +28,8 @@
       "mlb-11-12-2026-05-27": "SEA 9 - ATH 1 (Final)",
       "mlb-26-29-2026-05-27": "ARI 3 - SF 2 (Final)",
       "mlb-22-25-2026-05-27": "PHI 3 - SD 0 (Final)",
-      "mlb-3-6-2026-05-27": "LAA 0 - DET 4 (Final)"
+      "mlb-3-6-2026-05-27": "LAA 0 - DET 4 (Final)",
+      "mlb-15-2-2026-05-27": "ATL 0 - BOS 8 (Final)"
     },
     "nhl": {
       "nhl-17-37-2026-05-26": "COL 1 - VGK 2 (Final)"
