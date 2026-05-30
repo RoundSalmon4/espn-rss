@@ -37,7 +37,9 @@
       "nwsl-18206-22187-2026-05-29": "BAY 1 - ORL 3 (Final)"
     },
     "premier-league": {},
-    "champions-league": {},
+    "champions-league": {
+      "champions-league-160-359-2026-05-30": "ARS 1 - PSG 1 (Final)"
+    },
     "europa-league": {},
     "ncaaf": {},
     "ncaab": {
@@ -75,7 +77,8 @@
       "ncaab-160-95-2026-05-30": "NCSU 3 - UCF 9 (Final)",
       "ncaab-112-202-2026-05-30": "CIT 3 - OU 8 (Final)",
       "ncaab-379-86-2026-05-30": "BC 8 - LIU 4 (Final)",
-      "ncaab-292-97-2026-05-30": "WAKE 12 - BING 3 (Final)"
+      "ncaab-292-97-2026-05-30": "WAKE 12 - BING 3 (Final)",
+      "ncaab-199-204-2026-05-30": "TENN 4 - VCU 5 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
