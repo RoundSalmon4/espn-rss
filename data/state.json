@@ -22,14 +22,17 @@
       "mlb-1-14-2026-05-29": "TOR 6 - BAL 5 (Final)",
       "mlb-23-9-2026-05-29": "MIN 5 - PIT 6 (Final)",
       "mlb-3-30-2026-05-29": "LAA 5 - TB 8 (Final)",
-      "mlb-16-24-2026-05-29": "CHC 5 - STL 6 (Final)"
+      "mlb-16-24-2026-05-29": "CHC 5 - STL 6 (Final)",
+      "mlb-20-25-2026-05-29": "SD 7 - WSH 5 (Final)"
     },
     "nhl": {},
     "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
     "mls": {},
-    "nwsl": {},
+    "nwsl": {
+      "nwsl-131563-20905-2026-05-29": "DEN 1 - LOU 0 (Final)"
+    },
     "premier-league": {},
     "champions-league": {},
     "europa-league": {},
