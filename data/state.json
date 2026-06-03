@@ -2,23 +2,12 @@
   "published": {
     "nba": {},
     "wnba": {
-      "wnba-14-3-2026-06-01": "SEA 56 - DAL 79 (Final)",
-      "wnba-11-8-2026-06-01": "MIN 111 - PHX 77 (Final)",
       "wnba-18-20-2026-06-02": "CON 75 - ATL 91 (Final)",
       "wnba-16-19-2026-06-02": "CHI 72 - WSH 90 (Final)",
       "wnba-129689-132052-2026-06-02": "POR 77 - GS 95 (Final)",
       "wnba-17-6-2026-06-02": "LV 79 - LA 69 (Final)"
     },
     "mlb": {
-      "mlb-20-28-2026-06-01": "MIA 7 - WSH 3 (Final)",
-      "mlb-30-6-2026-06-01": "DET 10 - TB 9 (Final)",
-      "mlb-17-7-2026-06-01": "KC 9 - CIN 2 (Final)",
-      "mlb-4-9-2026-06-01": "CHW 6 - MIN 9 (Final)",
-      "mlb-13-24-2026-06-01": "TEX 2 - STL 1 (Final)",
-      "mlb-26-8-2026-06-01": "SF 2 - MIL 16 (Final)",
-      "mlb-19-29-2026-06-01": "LAD 1 - ARI 4 (Final)",
-      "mlb-12-21-2026-06-01": "NYM 2 - SEA 3 (Final)",
-      "mlb-27-3-2026-06-01": "COL 9 - LAA 8 (Final)",
       "mlb-30-6-2026-06-02": "DET 8 - TB 0 (Final)",
       "mlb-22-25-2026-06-02": "SD 2 - PHI 3 (Final)",
       "mlb-1-2-2026-06-02": "BAL 4 - BOS 2 (Final)",
@@ -47,14 +36,7 @@
     "champions-league": {},
     "europa-league": {},
     "ncaaf": {},
-    "ncaab": {
-      "ncaab-195-72-2026-06-01": "FSU 4 - SJU 5 (Final)",
-      "ncaab-112-77-2026-06-01": "GT 7 - OU 8 (Final)",
-      "ncaab-269-75-2026-06-01": "TROY 10 - FLA 2 (Final)",
-      "ncaab-136-82-2026-06-01": "UK 5 - WVU 6 (Final)",
-      "ncaab-135-55-2026-06-01": "MILW 3 - AUB 8 (Final)",
-      "ncaab-123-68-2026-06-01": "USC 7 - TA&M 1 (Final)"
-    },
+    "ncaab": {},
     "ncaasoftball": {},
     "lacrosse": {},
     "wla": {},
