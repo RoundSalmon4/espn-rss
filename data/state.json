@@ -1,33 +1,13 @@
 {
   "published": {
-    "nba": {
-      "nba-18-24-2026-06-05": "NY 105 - SA 104 (Final)"
-    },
+    "nba": {},
     "wnba": {
-      "wnba-18-19-2026-06-05": "CON 80 - CHI 85 (Final)",
-      "wnba-3-6-2026-06-05": "DAL 104 - LA 96 (Final)",
-      "wnba-11-132052-2026-06-05": "PHX 78 - POR 72 (Final)",
       "wnba-14-8-2026-06-06": "SEA 68 - MIN 88 (Final)",
       "wnba-129689-17-2026-06-06": "GS 79 - LV 84 (Final)",
       "wnba-16-20-2026-06-06": "WSH 77 - ATL 109 (Final)",
       "wnba-5-9-2026-06-06": "IND 75 - NY 83 (Final)"
     },
     "mlb": {
-      "mlb-16-26-2026-06-05": "SF 18 - CHC 3 (Final)",
-      "mlb-22-4-2026-06-05": "CHW 6 - PHI 8 (Final)",
-      "mlb-12-6-2026-06-05": "SEA 3 - DET 7 (Final)",
-      "mlb-10-2-2026-06-05": "BOS 5 - NYY 3 (Final)",
-      "mlb-28-30-2026-06-05": "TB 6 - MIA 0 (Final)",
-      "mlb-15-23-2026-06-05": "PIT 3 - ATL 6 (Final)",
-      "mlb-1-14-2026-06-05": "BAL 13 - TOR 3 (Final)",
-      "mlb-11-18-2026-06-05": "ATH 1 - HOU 5 (Final)",
-      "mlb-13-5-2026-06-05": "CLE 2 - TEX 3 (Final)",
-      "mlb-17-24-2026-06-05": "CIN 3 - STL 10 (Final)",
-      "mlb-7-9-2026-06-05": "KC 3 - MIN 5 (Final)",
-      "mlb-27-8-2026-06-05": "MIL 9 - COL 7 (Final)",
-      "mlb-21-25-2026-06-05": "NYM 5 - SD 0 (Final)",
-      "mlb-20-29-2026-06-05": "WSH 14 - ARI 1 (Final)",
-      "mlb-19-3-2026-06-05": "LAA 0 - LAD 1 (Final)",
       "mlb-12-6-2026-06-06": "SEA 4 - DET 0 (Final)",
       "mlb-7-9-2026-06-06": "KC 3 - MIN 2 (Final)",
       "mlb-17-24-2026-06-06": "CIN 5 - STL 6 (Final)",
@@ -56,10 +36,6 @@
     "europa-league": {},
     "ncaaf": {},
     "ncaab": {
-      "ncaab-136-61-2026-06-05": "CP 2 - WVU 12 (Final)",
-      "ncaab-68-96-2026-06-05": "USC 9 - UNC 5 (Final)",
-      "ncaab-261-269-2026-06-05": "LR 2 - TROY 12 (Final)",
-      "ncaab-55-92-2026-06-05": "MISS 6 - AUB 4 (Final)",
       "ncaab-150-78-2026-06-06": "MSST 12 - UGA 13 (Final)",
       "ncaab-68-96-2026-06-06": "UNC 4 - USC 0 (Final)",
       "ncaab-136-61-2026-06-06": "WVU 17 - CP 1 (Final)",
