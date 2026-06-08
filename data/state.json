@@ -2,28 +2,10 @@
   "published": {
     "nba": {},
     "wnba": {
-      "wnba-14-8-2026-06-06": "SEA 68 - MIN 88 (Final)",
-      "wnba-129689-17-2026-06-06": "GS 79 - LV 84 (Final)",
-      "wnba-16-20-2026-06-06": "WSH 77 - ATL 109 (Final)",
-      "wnba-5-9-2026-06-06": "IND 75 - NY 83 (Final)",
       "wnba-131935-19-2026-06-07": "CHI 68 - TOR 85 (Final)",
       "wnba-132052-6-2026-06-07": "POR 72 - LA 89 (Final)"
     },
     "mlb": {
-      "mlb-12-6-2026-06-06": "SEA 4 - DET 0 (Final)",
-      "mlb-7-9-2026-06-06": "KC 3 - MIN 2 (Final)",
-      "mlb-17-24-2026-06-06": "CIN 5 - STL 6 (Final)",
-      "mlb-16-26-2026-06-06": "SF 2 - CHC 3 (Final)",
-      "mlb-1-14-2026-06-06": "BAL 4 - TOR 6 (Final)",
-      "mlb-20-29-2026-06-06": "WSH 6 - ARI 1 (Final)",
-      "mlb-15-23-2026-06-06": "PIT 3 - ATL 6 (Final)",
-      "mlb-22-4-2026-06-06": "CHW 6 - PHI 3 (Final)",
-      "mlb-28-30-2026-06-06": "TB 3 - MIA 4 (Final)",
-      "mlb-11-18-2026-06-06": "ATH 2 - HOU 13 (Final)",
-      "mlb-13-5-2026-06-06": "CLE 6 - TEX 0 (Final)",
-      "mlb-27-8-2026-06-06": "MIL 7 - COL 1 (Final)",
-      "mlb-21-25-2026-06-06": "NYM 2 - SD 3 (Final)",
-      "mlb-19-3-2026-06-06": "LAA 2 - LAD 9 (Final)",
       "mlb-15-23-2026-06-07": "PIT 2 - ATL 3 (Final)",
       "mlb-28-30-2026-06-07": "TB 1 - MIA 4 (Final)",
       "mlb-1-14-2026-06-07": "BAL 4 - TOR 6 (Final)",
@@ -40,9 +22,7 @@
       "mlb-19-3-2026-06-07": "LAA 13 - LAD 5 (Final)",
       "mlb-16-26-2026-06-07": "SF 2 - CHC 1 (Final)"
     },
-    "nhl": {
-      "nhl-37-7-2026-06-06": "CAR 4 - VGK 5 (Final)"
-    },
+    "nhl": {},
     "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
@@ -53,16 +33,9 @@
     "europa-league": {},
     "ncaaf": {},
     "ncaab": {
-      "ncaab-150-78-2026-06-06": "MSST 12 - UGA 13 (Final)",
-      "ncaab-68-96-2026-06-06": "UNC 4 - USC 0 (Final)",
-      "ncaab-136-61-2026-06-06": "WVU 17 - CP 1 (Final)",
-      "ncaab-261-269-2026-06-06": "TROY 7 - LR 2 (Final)",
-      "ncaab-55-92-2026-06-06": "AUB 3 - MISS 5 (Final)",
-      "ncaab-112-168-2026-06-06": "OU 8 - KU 1 (Final)",
-      "ncaab-148-195-2026-06-06": "SJU 0 - ALA 8 (Final)",
-      "ncaab-126-273-2026-06-06": "ORE 3 - TEX 11 (Final)",
       "ncaab-150-78-2026-06-07": "UGA 11 - MSST 9 (Final)",
-      "ncaab-68-96-2026-06-07": "USC 3 - UNC 4 (Final)"
+      "ncaab-68-96-2026-06-07": "USC 3 - UNC 4 (Final)",
+      "ncaab-126-273-2026-06-07": "TEX 6 - ORE 5 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
