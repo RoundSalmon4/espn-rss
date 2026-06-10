@@ -6,7 +6,9 @@
     "wnba": {
       "wnba-18-9-2026-06-08": "NY 89 - CON 80 (Final)",
       "wnba-16-5-2026-06-08": "IND 78 - WSH 76 (Final)",
-      "wnba-14-17-2026-06-08": "SEA 91 - LV 101 (Final)"
+      "wnba-14-17-2026-06-08": "SEA 91 - LV 101 (Final)",
+      "wnba-19-20-2026-06-09": "ATL 82 - CHI 75 (Final)",
+      "wnba-3-8-2026-06-09": "DAL 76 - MIN 100 (Final)"
     },
     "mlb": {
       "mlb-1-12-2026-06-08": "SEA 6 - BAL 3 (Final)",
@@ -16,7 +18,14 @@
       "mlb-20-26-2026-06-08": "WSH 4 - SF 3 (Final)",
       "mlb-17-25-2026-06-08": "CIN 2 - SD 6 (Final)",
       "mlb-18-3-2026-06-08": "HOU 5 - LAA 4 (Final)",
-      "mlb-11-8-2026-06-08": "MIL 15 - ATH 14 (Final)"
+      "mlb-11-8-2026-06-08": "MIL 15 - ATH 14 (Final)",
+      "mlb-1-12-2026-06-09": "SEA 6 - BAL 5 (Final)",
+      "mlb-28-29-2026-06-09": "ARI 6 - MIA 10 (Final)",
+      "mlb-2-30-2026-06-09": "BOS 3 - TB 4 (Final)",
+      "mlb-19-23-2026-06-09": "LAD 12 - PIT 3 (Final)",
+      "mlb-10-5-2026-06-09": "NYY 3 - CLE 2 (Final)",
+      "mlb-14-22-2026-06-09": "PHI 2 - TOR 3 (Final)",
+      "mlb-21-24-2026-06-09": "STL 7 - NYM 0 (Final)"
     },
     "nhl": {},
     "nfl": {},
