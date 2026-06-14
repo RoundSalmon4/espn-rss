@@ -1,6 +1,8 @@
 {
   "published": {
-    "nba": {},
+    "nba": {
+      "nba-18-24-2026-06-13": "NY 94 - SA 90 (Final)"
+    },
     "wnba": {
       "wnba-131935-16-2026-06-12": "TOR 85 - WSH 86 (Final)",
       "wnba-129689-14-2026-06-12": "GS 76 - SEA 72 (Final)",
@@ -49,7 +51,8 @@
     "ncaab": {
       "ncaab-136-269-2026-06-12": "TROY 5 - WVU 7 (Final)",
       "ncaab-92-96-2026-06-12": "MISS 2 - UNC 6 (Final)",
-      "ncaab-112-148-2026-06-13": "OU 9 - ALA 0 (Final)"
+      "ncaab-112-148-2026-06-13": "OU 9 - ALA 0 (Final)",
+      "ncaab-126-78-2026-06-13": "TEX 1 - UGA 7 (Final)"
     },
     "ncaasoftball": {},
     "lacrosse": {},
