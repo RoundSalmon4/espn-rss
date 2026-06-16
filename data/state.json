@@ -2,27 +2,11 @@
   "published": {
     "nba": {},
     "wnba": {
-      "wnba-16-9-2026-06-14": "WSH 64 - NY 86 (Final)",
-      "wnba-131935-20-2026-06-14": "ATL 102 - TOR 77 (Final)",
       "wnba-17-3-2026-06-15": "LV 66 - DAL 96 (Final)",
       "wnba-132052-8-2026-06-15": "POR 74 - MIN 107 (Final)",
       "wnba-129689-6-2026-06-15": "LA 58 - GS 78 (Final)"
     },
     "mlb": {
-      "mlb-23-28-2026-06-14": "MIA 4 - PIT 2 (Final)",
-      "mlb-12-20-2026-06-14": "SEA 1 - WSH 10 (Final)",
-      "mlb-1-25-2026-06-14": "SD 5 - BAL 2 (Final)",
-      "mlb-15-21-2026-06-14": "ATL 1 - NYM 8 (Final)",
-      "mlb-18-7-2026-06-14": "HOU 0 - KC 4 (Final)",
-      "mlb-22-8-2026-06-14": "PHI 0 - MIL 4 (Final)",
-      "mlb-19-4-2026-06-14": "LAD 4 - CHW 6 (Final)",
-      "mlb-10-14-2026-06-14": "NYY 8 - TOR 3 (Final)",
-      "mlb-24-9-2026-06-14": "STL 4 - MIN 5 (Final)",
-      "mlb-17-29-2026-06-14": "ARI 5 - CIN 3 (Final)",
-      "mlb-16-26-2026-06-14": "CHC 1 - SF 5 (Final)",
-      "mlb-11-27-2026-06-14": "COL 23 - ATH 9 (Final)",
-      "mlb-3-30-2026-06-14": "TB 8 - LAA 3 (Final)",
-      "mlb-13-2-2026-06-14": "TEX 6 - BOS 4 (Final)",
       "mlb-20-7-2026-06-15": "KC 3 - WSH 7 (Final)",
       "mlb-22-28-2026-06-15": "MIA 0 - PHI 7 (Final)",
       "mlb-24-25-2026-06-15": "SD 0 - STL 3 (Final)",
@@ -34,9 +18,7 @@
       "mlb-11-23-2026-06-15": "PIT 2 - ATH 11 (Final)",
       "mlb-19-30-2026-06-15": "TB 3 - LAD 4 (Final)"
     },
-    "nhl": {
-      "nhl-37-7-2026-06-14": "CAR 3 - VGK 0 (Final)"
-    },
+    "nhl": {},
     "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
@@ -47,8 +29,6 @@
     "europa-league": {},
     "ncaaf": {},
     "ncaab": {
-      "ncaab-269-92-2026-06-14": "TROY 12 - MISS 8 (Final)",
-      "ncaab-136-96-2026-06-14": "WVU 2 - UNC 5 (Final)",
       "ncaab-126-148-2026-06-15": "ALA 2 - TEX 14 (Final)",
       "ncaab-112-78-2026-06-15": "UGA 3 - OU 4 (Final)"
     },
