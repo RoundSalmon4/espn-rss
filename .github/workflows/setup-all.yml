@@ -21,7 +21,7 @@ jobs:
             leagues: "tennis atp pga lpga f1 indycar nascar boxing mma marching-band"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       
       - uses: actions/setup-python@v6
         with:
@@ -47,7 +47,7 @@ jobs:
     needs: fetch-teams
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       
       - uses: actions/setup-python@v6
         with:
