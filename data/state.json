@@ -2,28 +2,11 @@
   "published": {
     "nba": {},
     "wnba": {
-      "wnba-20-5-2026-06-20": "IND 96 - ATL 113 (Final)",
-      "wnba-11-14-2026-06-20": "SEA 73 - PHX 93 (Final)",
-      "wnba-19-3-2026-06-20": "CHI 92 - DAL 93 (Final)",
       "wnba-129689-17-2026-06-21": "GS 73 - LV 92 (Final)",
       "wnba-16-8-2026-06-21": "WSH 84 - MIN 79 (Final)",
       "wnba-6-9-2026-06-21": "NY 97 - LA 98 (Final)"
     },
     "mlb": {
-      "mlb-4-6-2026-06-20": "CHW 1 - DET 4 (Final)",
-      "mlb-10-17-2026-06-20": "CIN 10 - NYY 2 (Final)",
-      "mlb-14-16-2026-06-20": "TOR 8 - CHC 6 (Final)",
-      "mlb-15-8-2026-06-20": "MIL 3 - ATL 4 (Final)",
-      "mlb-20-30-2026-06-20": "WSH 4 - TB 3 (Final)",
-      "mlb-13-25-2026-06-20": "SD 6 - TEX 4 (Final)",
-      "mlb-26-28-2026-06-20": "SF 3 - MIA 6 (Final)",
-      "mlb-18-5-2026-06-20": "CLE 8 - HOU 1 (Final)",
-      "mlb-21-22-2026-06-20": "NYM 3 - PHI 15 (Final)",
-      "mlb-23-27-2026-06-20": "PIT 1 - COL 2 (Final)",
-      "mlb-12-2-2026-06-20": "BOS 5 - SEA 1 (Final)",
-      "mlb-1-19-2026-06-20": "BAL 3 - LAD 2 (Final)",
-      "mlb-11-3-2026-06-20": "LAA 7 - ATH 0 (Final)",
-      "mlb-29-9-2026-06-20": "MIN 16 - ARI 8 (Final)",
       "mlb-26-28-2026-06-21": "SF 1 - MIA 2 (Final)",
       "mlb-15-8-2026-06-21": "MIL 9 - ATL 4 (Final)",
       "mlb-20-30-2026-06-21": "WSH 3 - TB 4 (Final)",
@@ -50,7 +33,6 @@
     "europa-league": {},
     "ncaaf": {},
     "ncaab": {
-      "ncaab-112-96-2026-06-20": "OU 9 - UNC 3 (Final)",
       "ncaab-112-96-2026-06-21": "UNC 6 - OU 2 (Final)"
     },
     "ncaasoftball": {},
