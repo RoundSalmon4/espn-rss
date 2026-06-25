@@ -2,7 +2,8 @@
   "published": {
     "nba": {},
     "wnba": {
-      "wnba-17-9-2026-06-23": "NY 87 - LV 76 (Final)"
+      "wnba-17-9-2026-06-23": "NY 87 - LV 76 (Final)",
+      "wnba-16-8-2026-06-24": "MIN 78 - WSH 76 (Final)"
     },
     "mlb": {
       "mlb-14-18-2026-06-23": "HOU 9 - TOR 7 (Final)",
@@ -28,7 +29,8 @@
       "mlb-30-7-2026-06-24": "KC 3 - TB 5 (Final)",
       "mlb-10-6-2026-06-24": "NYY 4 - DET 2 (Final)",
       "mlb-12-23-2026-06-24": "SEA 1 - PIT 11 (Final)",
-      "mlb-14-18-2026-06-24": "HOU 3 - TOR 1 (Final)"
+      "mlb-14-18-2026-06-24": "HOU 3 - TOR 1 (Final)",
+      "mlb-20-22-2026-06-24": "PHI 5 - WSH 4 (Final)"
     },
     "nhl": {},
     "nfl": {},
