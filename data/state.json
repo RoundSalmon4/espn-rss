@@ -2,15 +2,11 @@
   "published": {
     "nba": {},
     "wnba": {
-      "wnba-132052-18-2026-07-14": "POR 87 - CON 90 (Final)",
-      "wnba-131935-16-2026-07-14": "WSH 79 - TOR 62 (Final)",
       "wnba-14-19-2026-07-15": "SEA 90 - CHI 95 (Final)",
       "wnba-6-8-2026-07-15": "LA 87 - MIN 96 (Final)",
       "wnba-129689-5-2026-07-15": "GS 88 - IND 75 (Final)"
     },
-    "mlb": {
-      "mlb-31-32-2026-07-14": "AL 4 - NL 0 (Final)"
-    },
+    "mlb": {},
     "nhl": {},
     "nfl": {},
     "ncaamb": {},
