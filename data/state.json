@@ -2,9 +2,6 @@
   "published": {
     "nba": {},
     "wnba": {
-      "wnba-14-19-2026-07-15": "SEA 90 - CHI 95 (Final)",
-      "wnba-6-8-2026-07-15": "LA 87 - MIN 96 (Final)",
-      "wnba-129689-5-2026-07-15": "GS 88 - IND 75 (Final)",
       "wnba-132052-16-2026-07-16": "POR 75 - WSH 56 (Final)"
     },
     "mlb": {
@@ -19,10 +16,7 @@
       "mls-186-21812-2026-07-16": "SKC 2 - STL 3 (Final)",
       "mls-9723-9726-2026-07-16": "POR 5 - SEA 1 (Final)"
     },
-    "nwsl": {
-      "nwsl-131562-18206-2026-07-15": "BOS 1 - ORL 0 (Final)",
-      "nwsl-15364-15365-2026-07-15": "WAS 0 - GFC 1 (Final)"
-    },
+    "nwsl": {},
     "premier-league": {},
     "champions-league": {},
     "europa-league": {},
