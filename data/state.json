@@ -1,7 +1,9 @@
 {
   "published": {
     "nba": {},
-    "wnba": {},
+    "wnba": {
+      "wnba-16-18-2026-07-28": "CON 84 - WSH 92 (Final)"
+    },
     "mlb": {
       "mlb-12-13-2026-07-27": "SEA 3 - TEX 7 (Final)",
       "mlb-1-6-2026-07-27": "BAL 8 - DET 5 (Final)",
