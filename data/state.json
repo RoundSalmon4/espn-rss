@@ -31,14 +31,17 @@
       "mlb-26-8-2026-07-29": "MIL 3 - SF 16 (Final)",
       "mlb-25-27-2026-07-29": "COL 1 - SD 3 (Final)",
       "mlb-13-30-2026-07-29": "TEX 0 - TB 3 (Final)",
-      "mlb-7-9-2026-07-29": "KC 4 - MIN 0 (Final)"
+      "mlb-7-9-2026-07-29": "KC 4 - MIN 0 (Final)",
+      "mlb-17-5-2026-07-29": "CLE 6 - CIN 1 (Final)"
     },
     "nhl": {},
     "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
     "mls": {},
-    "nwsl": {},
+    "nwsl": {
+      "nwsl-20905-20907-2026-07-29": "LOU 1 - KC 5 (Final)"
+    },
     "premier-league": {},
     "champions-league": {},
     "europa-league": {},
