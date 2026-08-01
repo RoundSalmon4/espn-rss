@@ -18,13 +18,16 @@
       "mlb-25-26-2026-07-30": "SF 4 - SD 1 (Final)",
       "mlb-12-19-2026-07-30": "SEA 2 - LAD 6 (Final)",
       "mlb-10-16-2026-07-31": "NYY 2 - CHC 0 (Final)",
-      "mlb-17-23-2026-07-31": "PIT 7 - CIN 8 (Final)"
+      "mlb-17-23-2026-07-31": "PIT 7 - CIN 8 (Final)",
+      "mlb-30-4-2026-07-31": "CHW 6 - TB 1 (Final)"
     },
     "nhl": {},
     "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
-    "mls": {},
+    "mls": {
+      "mls-17606-7318-2026-07-31": "TOR 1 - NYC 1 (Final)"
+    },
     "nwsl": {},
     "premier-league": {},
     "champions-league": {},
