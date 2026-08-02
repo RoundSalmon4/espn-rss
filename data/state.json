@@ -2,28 +2,10 @@
   "published": {
     "nba": {},
     "wnba": {
-      "wnba-16-3-2026-07-31": "DAL 75 - WSH 81 (Final)",
-      "wnba-14-20-2026-07-31": "SEA 89 - ATL 98 (Final)",
-      "wnba-132052-5-2026-07-31": "IND 112 - POR 98 (Final)",
       "wnba-17-19-2026-08-01": "LV 83 - CHI 84 (Final)",
       "wnba-11-9-2026-08-01": "NY 94 - PHX 92 (Final)"
     },
     "mlb": {
-      "mlb-10-16-2026-07-31": "NYY 2 - CHC 0 (Final)",
-      "mlb-17-23-2026-07-31": "PIT 7 - CIN 8 (Final)",
-      "mlb-30-4-2026-07-31": "CHW 6 - TB 1 (Final)",
-      "mlb-1-22-2026-07-31": "PHI 4 - BAL 6 (Final)",
-      "mlb-29-5-2026-07-31": "ARI 4 - CLE 1 (Final)",
-      "mlb-14-24-2026-07-31": "STL 1 - TOR 3 (Final)",
-      "mlb-21-28-2026-07-31": "MIA 5 - NYM 2 (Final)",
-      "mlb-15-20-2026-07-31": "WSH 2 - ATL 6 (Final)",
-      "mlb-13-18-2026-07-31": "TEX 2 - HOU 11 (Final)",
-      "mlb-27-7-2026-07-31": "KC 1 - COL 3 (Final)",
-      "mlb-25-26-2026-07-31": "SF 0 - SD 7 (Final)",
-      "mlb-11-6-2026-07-31": "DET 13 - ATH 1 (Final)",
-      "mlb-3-8-2026-07-31": "MIL 6 - LAA 2 (Final)",
-      "mlb-12-9-2026-07-31": "MIN 5 - SEA 3 (Final)",
-      "mlb-19-2-2026-07-31": "BOS 9 - LAD 4 (Final)",
       "mlb-14-24-2026-08-01": "STL 1 - TOR 5 (Final)",
       "mlb-30-4-2026-08-01": "CHW 0 - TB 1 (Final)",
       "mlb-21-28-2026-08-01": "MIA 6 - NYM 2 (Final)",
@@ -45,7 +27,6 @@
     "ncaamb": {},
     "ncaawb": {},
     "mls": {
-      "mls-17606-7318-2026-07-31": "TOR 1 - NYC 1 (Final)",
       "mls-189-9720-2026-08-01": "NE 2 - MTL 2 (Final)",
       "mls-12011-190-2026-08-01": "ORL 2 - RBNY 3 (Final)",
       "mls-18966-9727-2026-08-01": "LAFC 1 - VAN 1 (Final)",
@@ -58,10 +39,10 @@
       "mls-17362-22529-2026-08-01": "SD 1 - MIN 1 (Final)",
       "mls-184-20906-2026-08-01": "ATX 0 - COL 1 (Final)",
       "mls-18267-191-2026-08-01": "SJ 2 - CIN 4 (Final)",
-      "mls-185-187-2026-08-01": "DAL 0 - LA 0 (Final)"
+      "mls-185-187-2026-08-01": "DAL 0 - LA 0 (Final)",
+      "mls-9723-9726-2026-08-01": "SEA 1 - POR 2 (Final)"
     },
     "nwsl": {
-      "nwsl-15366-18206-2026-07-31": "ORL 0 - NC 5 (Final)",
       "nwsl-15360-20905-2026-08-01": "CHI 1 - LOU 2 (Final)",
       "nwsl-20907-21422-2026-08-01": "LA 1 - KC 1 (Final)",
       "nwsl-15364-17346-2026-08-01": "GFC 1 - HOU 0 (Final)",
