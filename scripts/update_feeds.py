@@ -371,12 +371,6 @@ def write_feed_from_state(path, title, link, description, league, state, leagues
         SubElement(it, "link").text = link
         SubElement(it, "guid").text = gid
         SubElement(it, "pubDate").text = datetime.now(TIMEZONE).strftime("%a, %d %b %Y %H:%M:%S %z")
-    if not published:
-        it = SubElement(channel, "item")
-        SubElement(it, "title").text = "No games available currently"
-        SubElement(it, "link").text = link
-        SubElement(it, "guid").text = f"{league}-placeholder"
-        SubElement(it, "pubDate").text = datetime.now(TIMEZONE).strftime("%a, %d %b %Y %H:%M:%S %z")
     ElementTree(rss).write(str(path), encoding="utf-8", xml_declaration=True)
 
 def main():
