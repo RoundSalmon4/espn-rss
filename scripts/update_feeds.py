@@ -14,7 +14,7 @@ TEAM_DIR = RSS_DIR / "teams"
 TEAM_CACHE_FILE = ROOT / "data" / "team_cache.json"
 TEAM_CACHE_TTL = 86400  # 24 hours in seconds
 
-BASE_URL = "https://site.api.espn.com/apis/site/v2"
+BASE_URL = "https://site.web.api.espn.com/apis/site/v2"
 RELAY_BASE = "https://r.jina.ai/"
 RELAY_MARKER = "Markdown Content:"
 RELAY_MIN_INTERVAL = 4  # seconds between relay requests (r.jina.ai free tier rate limit)
@@ -52,6 +52,17 @@ def fetch_espn_relay(url):
             time.sleep(3)
     return {"events": []}
 
+def espn_fetch_json(url, timeout=20):
+    try:
+        response = requests.get(url, headers=HEADERS, timeout=timeout)
+        print(f"Status: {response.status_code}")
+        if response.status_code == 200:
+            return response.json()
+    except Exception as e:
+        print(f"Error: {e}")
+    print("  Direct fetch failed, falling back to relay")
+    return fetch_espn_relay(url)
+
 NTFS_SAFE_REMAP = {
     "con": "conn",
 }
@@ -80,8 +91,8 @@ KNOWN_LEAGUE_PATHS = {
     "wla": {"path": "lacrosse/womens-college-lacrosse", "name": "NCAA Women's Lacrosse", "has_teams": False},
     "tennis": {"path": "tennis/wta", "name": "WTA Tennis", "has_teams": False},
     "atp": {"path": "tennis/atp", "name": "ATP Tennis", "has_teams": False},
-    "ncaaw": {"path": "volleyball/women-college-volleyball", "name": "NCAA Women's Volleyball", "has_teams": False},
-    "ncaam": {"path": "volleyball/men-college-volleyball", "name": "NCAA Men's Volleyball", "has_teams": False},
+    "ncaaw": {"path": "volleyball/womens-college-volleyball", "name": "NCAA Women's Volleyball", "has_teams": False},
+    "ncaam": {"path": "volleyball/mens-college-volleyball", "name": "NCAA Men's Volleyball", "has_teams": False},
     "f1": {"path": "racing/f1", "name": "Formula 1", "has_teams": True},
     "indycar": {"path": "racing/irl", "name": "IndyCar Series", "has_teams": False},
     "nascar": {"path": "racing/nascar-premier", "name": "NASCAR Cup Series", "has_teams": False},
@@ -95,18 +106,16 @@ def discover_leagues():
     discovered = {}
     url = f"{BASE_URL}/sports"
     try:
-        response = requests.get(url, headers=HEADERS, timeout=15)
-        if response.status_code == 200:
-            data = response.json()
-            for sport in data.get("sports", []):
-                for league_info in sport.get("leagues", []):
-                    league_slug = league_info.get("slug", "")
-                    league_name = league_info.get("name", "")
-                    if league_slug:
-                        key = re.sub(r'[^a-z0-9_]', '', league_slug.replace("-", "_").replace(" ", "_").lower())[:20]
-                        if key and league_name:
-                            path = f"{sport.get('slug', '')}/{league_slug}"
-                            discovered[key] = {"path": path, "name": league_name}
+        data = espn_fetch_json(url, timeout=15)
+        for sport in data.get("sports", []):
+            for league_info in sport.get("leagues", []):
+                league_slug = league_info.get("slug", "")
+                league_name = league_info.get("name", "")
+                if league_slug:
+                    key = re.sub(r'[^a-z0-9_]', '', league_slug.replace("-", "_").replace(" ", "_").lower())[:20]
+                    if key and league_name:
+                        path = f"{sport.get('slug', '')}/{league_slug}"
+                        discovered[key] = {"path": path, "name": league_name}
     except Exception as e:
         print(f"Auto-discovery failed: {e}")
     for key, info in KNOWN_LEAGUE_PATHS.items():
@@ -133,10 +142,7 @@ def discover_teams(league_path):
     while page <= max_pages:
         url = f"{BASE_URL}/sports/{league_path}/teams?page={page}"
         try:
-            response = requests.get(url, headers=HEADERS, timeout=15)
-            if response.status_code != 200:
-                break
-            data = response.json()
+            data = espn_fetch_json(url, timeout=15)
             found_teams = False
             for sport in data.get("sports", []):
                 for league in sport.get("leagues", []):
@@ -228,15 +234,7 @@ def fetch_espn(league_info, date_str):
     if any(sport in path for sport in groups_sports):
         url += "&groups=50"
     print(f"Fetching: {url}")
-    try:
-        response = requests.get(url, headers=HEADERS, timeout=20)
-        print(f"Status: {response.status_code}")
-        if response.status_code == 200:
-            return response.json()
-    except Exception as e:
-        print(f"Error: {e}")
-    print(f"  Direct fetch failed, trying relay for {path} {date_str}")
-    return fetch_espn_relay(url)
+    return espn_fetch_json(url)
 
 def extract_games_espn(data, league):
     games = []
