@@ -4,7 +4,7 @@ Auto-generated RSS feeds for sports scores using the ESPN API.
 
 ## Features
 
-- **Real-time updates** - Games appear within minutes of going final
+- **Frequent updates** - Games appear within ~15 minutes of going final
 - **Team-specific feeds** - Separate feeds for each team
 - **No duplicates** - Uses team IDs to prevent duplicate entries
 - **26 leagues supported** - From major pro sports to college and international
@@ -69,8 +69,10 @@ These leagues don't have a team directory API. Team feeds are created automatica
 - **Shows recent games** - Today's and yesterday's completed games
 - **One item per game** - Uses ESPN team IDs for uniqueness
 - **OT marker** - Overtime games marked with `(OT)`
-- **Updated automatically** - GitHub Actions runs every ~5 minutes
+- **Updated automatically** - GitHub Actions runs every ~15 minutes
 - **Empty feeds are safe** - No `pubDate` until games exist, so no spurious notifications.
+- **Resilient fetching** - Falls back to alternate ESPN hosts and a relay if the primary API is blocked.
+- **Stable team feeds** - Team feeds are only ever added, never removed, so existing subscriptions keep working through the off season.
 
 ## Example Feed URLs
 
