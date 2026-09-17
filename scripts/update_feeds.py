@@ -15,6 +15,8 @@ TEAM_CACHE_FILE = ROOT / "data" / "team_cache.json"
 TEAM_CACHE_TTL = 86400  # 24 hours in seconds
 
 BASE_URL = "https://site.api.espn.com/apis/site/v2"
+RELAY_BASE = "https://r.jina.ai/"
+RELAY_MARKER = "Markdown Content:"
 TIMEZONE = timezone(timedelta(hours=-5))
 HEADERS = {"User-Agent": "espn-rss/2.0"}
 
@@ -201,6 +203,23 @@ def fetch_espn(league_info, date_str):
             return response.json()
     except Exception as e:
         print(f"Error: {e}")
+    print(f"  Direct fetch failed, trying relay for {path} {date_str}")
+    return fetch_espn_relay(url)
+
+def fetch_espn_relay(url):
+    relay_url = f"{RELAY_BASE}{url}"
+    try:
+        response = requests.get(relay_url, headers=HEADERS, timeout=40)
+        print(f"Relay status: {response.status_code}")
+        if response.status_code != 200:
+            return {"events": []}
+        text = response.text
+        marker = text.find(RELAY_MARKER)
+        if marker != -1:
+            text = text[marker + len(RELAY_MARKER):]
+        return json.loads(text)
+    except Exception as e:
+        print(f"Relay error: {e}")
     return {"events": []}
 
 def extract_games_espn(data, league):
