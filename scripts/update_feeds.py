@@ -103,25 +103,7 @@ KNOWN_LEAGUE_PATHS = {
 SPORTS = [info["path"] for info in KNOWN_LEAGUE_PATHS.values()]
 
 def discover_leagues():
-    discovered = {}
-    url = f"{BASE_URL}/sports"
-    try:
-        data = espn_fetch_json(url, timeout=15)
-        for sport in data.get("sports", []):
-            for league_info in sport.get("leagues", []):
-                league_slug = league_info.get("slug", "")
-                league_name = league_info.get("name", "")
-                if league_slug:
-                    key = re.sub(r'[^a-z0-9_]', '', league_slug.replace("-", "_").replace(" ", "_").lower())[:20]
-                    if key and league_name:
-                        path = f"{sport.get('slug', '')}/{league_slug}"
-                        discovered[key] = {"path": path, "name": league_name}
-    except Exception as e:
-        print(f"Auto-discovery failed: {e}")
-    for key, info in KNOWN_LEAGUE_PATHS.items():
-        if key not in discovered:
-            discovered[key] = info
-    return discovered
+    return dict(KNOWN_LEAGUE_PATHS)
 
 def discover_teams(league_path):
     cache = {}
@@ -164,14 +146,21 @@ def discover_teams(league_path):
         except Exception as e:
             print(f"Team discovery failed for {league_path}: {e}")
             break
+    cached_teams = cache_entry.get("teams", {})
+    if not isinstance(cached_teams, dict):
+        cached_teams = {}
     if teams:
-        cache[league_path] = {"time": now, "teams": teams}
+        merged = {**cached_teams, **teams}
+        new_count = len(merged) - len(cached_teams)
+        if new_count > 0:
+            print(f"  {league_path}: {new_count} new teams (total {len(merged)})")
+        cache[league_path] = {"time": now, "teams": merged}
         TEAM_CACHE_FILE.write_text(json.dumps(cache, indent=2))
-    else:
+        return merged
+    if cached_teams:
         # API failed; keep existing cached data if available
-        if cache_entry.get("teams"):
-            print(f"  API returned no teams for {league_path}, keeping {len(cache_entry['teams'])} cached teams")
-            return cache_entry["teams"]
+        print(f"  API returned no teams for {league_path}, keeping {len(cached_teams)} cached teams")
+        return cached_teams
     return teams
 
 def validate_state(state):
