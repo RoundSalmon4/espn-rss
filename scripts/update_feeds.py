@@ -1,4 +1,4 @@
-import requests, json, re
+import requests, json, re, time, threading
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
 import xml.etree.ElementTree as ET
@@ -17,8 +17,40 @@ TEAM_CACHE_TTL = 86400  # 24 hours in seconds
 BASE_URL = "https://site.api.espn.com/apis/site/v2"
 RELAY_BASE = "https://r.jina.ai/"
 RELAY_MARKER = "Markdown Content:"
+RELAY_MIN_INTERVAL = 4  # seconds between relay requests (r.jina.ai free tier rate limit)
+RELAY_MAX_ATTEMPTS = 3
 TIMEZONE = timezone(timedelta(hours=-5))
 HEADERS = {"User-Agent": "espn-rss/2.0"}
+
+_relay_lock = threading.Lock()
+_last_relay_time = [0.0]
+
+def fetch_espn_relay(url):
+    with _relay_lock:
+        elapsed = time.time() - _last_relay_time[0]
+        if elapsed < RELAY_MIN_INTERVAL:
+            time.sleep(RELAY_MIN_INTERVAL - elapsed)
+        _last_relay_time[0] = time.time()
+    relay_url = f"{RELAY_BASE}{url}"
+    for attempt in range(RELAY_MAX_ATTEMPTS):
+        try:
+            response = requests.get(relay_url, headers=HEADERS, timeout=40)
+            print(f"Relay status: {response.status_code}")
+            if response.status_code == 429:
+                print(f"  Rate limited, retrying ({attempt + 1}/{RELAY_MAX_ATTEMPTS})")
+                time.sleep(4 * (attempt + 1))
+                continue
+            if response.status_code != 200:
+                return {"events": []}
+            text = response.text
+            marker = text.find(RELAY_MARKER)
+            if marker != -1:
+                text = text[marker + len(RELAY_MARKER):]
+            return json.loads(text)
+        except Exception as e:
+            print(f"Relay error: {e}")
+            time.sleep(3)
+    return {"events": []}
 
 NTFS_SAFE_REMAP = {
     "con": "conn",
@@ -205,22 +237,6 @@ def fetch_espn(league_info, date_str):
         print(f"Error: {e}")
     print(f"  Direct fetch failed, trying relay for {path} {date_str}")
     return fetch_espn_relay(url)
-
-def fetch_espn_relay(url):
-    relay_url = f"{RELAY_BASE}{url}"
-    try:
-        response = requests.get(relay_url, headers=HEADERS, timeout=40)
-        print(f"Relay status: {response.status_code}")
-        if response.status_code != 200:
-            return {"events": []}
-        text = response.text
-        marker = text.find(RELAY_MARKER)
-        if marker != -1:
-            text = text[marker + len(RELAY_MARKER):]
-        return json.loads(text)
-    except Exception as e:
-        print(f"Relay error: {e}")
-    return {"events": []}
 
 def extract_games_espn(data, league):
     games = []
