@@ -43,7 +43,9 @@
     },
     "champions-league": {},
     "europa-league": {},
-    "ncaaf": {},
+    "ncaaf": {
+      "ncaaf-324-48-2026-09-19": "CCU 14 - DEL 22 (Final)"
+    },
     "ncaab": {},
     "ncaasoftball": {},
     "lacrosse": {},
