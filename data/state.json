@@ -6,7 +6,9 @@
       "wnba-16-19-2026-09-17": "WSH 110 - CHI 80 (Final)",
       "wnba-3-6-2026-09-17": "LA 77 - DAL 97 (Final)",
       "wnba-14-17-2026-09-17": "LV 114 - SEA 77 (Final)",
-      "wnba-11-132052-2026-09-17": "PHX 94 - POR 91 (Final)"
+      "wnba-11-132052-2026-09-17": "PHX 94 - POR 91 (Final)",
+      "wnba-131935-5-2026-09-18": "IND 103 - TOR 85 (Final)",
+      "wnba-8-9-2026-09-18": "NY 93 - MIN 81 (Final)"
     },
     "mlb": {
       "mlb-17-19-2026-09-17": "LAD 8 - CIN 2 (Final)",
@@ -19,7 +21,8 @@
       "mlb-13-2-2026-09-17": "BOS 4 - TEX 3 (Final)",
       "mlb-3-9-2026-09-17": "MIN 4 - LAA 5 (Final)",
       "mlb-16-17-2026-09-18": "CHC 4 - CIN 6 (Final)",
-      "mlb-23-7-2026-09-18": "KC 5 - PIT 8 (Final)"
+      "mlb-23-7-2026-09-18": "KC 5 - PIT 8 (Final)",
+      "mlb-11-5-2026-09-18": "ATH 3 - CLE 5 (Final)"
     },
     "nhl": {},
     "nfl": {
@@ -27,7 +30,9 @@
     },
     "ncaamb": {},
     "ncaawb": {},
-    "mls": {},
+    "mls": {
+      "mls-17606-190-2026-09-18": "RBNY 1 - NYC 0 (Final)"
+    },
     "nwsl": {},
     "premier-league": {
       "premier-league-337-363-2026-09-18": "CHE 0 - BRE 3 (Final)"
@@ -62,7 +67,10 @@
       "ncaaw-236-91-2026-09-18": "UTC 1 - BELL 3 (Final)",
       "ncaaw-2230-338-2026-09-18": "FOR 0 - KENN 3 (Final)",
       "ncaaw-2335-2453-2026-09-18": "UNA 0 - LIB 3 (Final)",
-      "ncaaw-2226-56-2026-09-18": "STET 0 - FAU 3 (Final)"
+      "ncaaw-2226-56-2026-09-18": "STET 0 - FAU 3 (Final)",
+      "ncaaw-2166-2511-2026-09-18": "DAV 3 - QUC 2 (Final)",
+      "ncaaw-2641-2697-2026-09-18": "UWF 3 - TTU 1 (Final)",
+      "ncaaw-238-288-2026-09-18": "LIP 0 - VAN 3 (Final)"
     },
     "ncaam": {},
     "f1": {},
