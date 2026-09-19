@@ -2,25 +2,11 @@
   "published": {
     "nba": {},
     "wnba": {
-      "wnba-18-20-2026-09-17": "CON 59 - ATL 103 (Final)",
-      "wnba-16-19-2026-09-17": "WSH 110 - CHI 80 (Final)",
-      "wnba-3-6-2026-09-17": "LA 77 - DAL 97 (Final)",
-      "wnba-14-17-2026-09-17": "LV 114 - SEA 77 (Final)",
-      "wnba-11-132052-2026-09-17": "PHX 94 - POR 91 (Final)",
       "wnba-131935-5-2026-09-18": "IND 103 - TOR 85 (Final)",
       "wnba-8-9-2026-09-18": "NY 93 - MIN 81 (Final)",
       "wnba-129689-132052-2026-09-18": "POR 66 - GS 82 (Final)"
     },
     "mlb": {
-      "mlb-17-19-2026-09-17": "LAD 8 - CIN 2 (Final)",
-      "mlb-23-8-2026-09-17": "MIL 4 - PIT 7 (Final)",
-      "mlb-11-30-2026-09-17": "ATH 1 - TB 10 (Final)",
-      "mlb-25-27-2026-09-17": "SD 9 - COL 2 (Final)",
-      "mlb-18-7-2026-09-17": "KC 2 - HOU 6 (Final)",
-      "mlb-21-22-2026-09-17": "PHI 3 - NYM 0 (Final)",
-      "mlb-4-6-2026-09-17": "DET 1 - CHW 3 (Final)",
-      "mlb-13-2-2026-09-17": "BOS 4 - TEX 3 (Final)",
-      "mlb-3-9-2026-09-17": "MIN 4 - LAA 5 (Final)",
       "mlb-16-17-2026-09-18": "CHC 4 - CIN 6 (Final)",
       "mlb-23-7-2026-09-18": "KC 5 - PIT 8 (Final)",
       "mlb-11-5-2026-09-18": "ATH 3 - CLE 5 (Final)",
@@ -34,12 +20,11 @@
       "mlb-12-27-2026-09-18": "SEA 5 - COL 4 (Final)",
       "mlb-3-9-2026-09-18": "MIN 3 - LAA 0 (Final)",
       "mlb-25-28-2026-09-18": "MIA 2 - SD 8 (Final)",
-      "mlb-10-29-2026-09-18": "NYY 9 - ARI 2 (Final)"
+      "mlb-10-29-2026-09-18": "NYY 9 - ARI 2 (Final)",
+      "mlb-19-26-2026-09-18": "SF 2 - LAD 8 (Final)"
     },
     "nhl": {},
-    "nfl": {
-      "nfl-2-8-2026-09-17": "DET 31 - BUF 41 (Final)"
-    },
+    "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
     "mls": {
@@ -52,17 +37,7 @@
       "premier-league-337-363-2026-09-18": "CHE 0 - BRE 3 (Final)"
     },
     "champions-league": {},
-    "europa-league": {
-      "europa-league-2790-490-2026-09-17": "SLZ 1 - LEV 0 (Final)",
-      "europa-league-1010-7911-2026-09-17": "TSG 0 - OFI Crete 2 (Final)",
-      "europa-league-176-1895-2026-09-17": "OLM 1 - BES 4 (Final)",
-      "europa-league-256-622-2026-09-17": "FER 3 - CEL 1 (Final)",
-      "europa-league-2990-384-2026-09-17": "LECH 0 - CRY 4 (Final)",
-      "europa-league-111-147-2026-09-17": "NEC 0 - JUV 5 (Final)",
-      "europa-league-21615-987-2026-09-17": "TOR 2 - LSK 1 (Final)",
-      "europa-league-349-89-2026-09-17": "BOU 2 - RSO 1 (Final)",
-      "europa-league-11706-5807-2026-09-17": "USG 3 - PLZ 0 (Final)"
-    },
+    "europa-league": {},
     "ncaaf": {},
     "ncaab": {},
     "ncaasoftball": {},
@@ -71,9 +46,6 @@
     "tennis": {},
     "atp": {},
     "ncaaw": {
-      "ncaaw-2335-2453-2026-09-17": "UNA 0 - LIB 3 (Final)",
-      "ncaaw-290-338-2026-09-17": "KENN 1 - GASO 3 (Final)",
-      "ncaaw-2429-2511-2026-09-17": "CLT 3 - QUC 1 (Final)",
       "ncaaw-2450-91-2026-09-18": "NORF 1 - BELL 3 (Final)",
       "ncaaw-2230-2454-2026-09-18": "UNF 3 - FOR 0 (Final)",
       "ncaaw-2010-294-2026-09-18": "JAX 3 - AAMU 1 (Final)",
