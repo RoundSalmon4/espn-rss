@@ -7,7 +7,7 @@ Auto-generated RSS feeds for sports scores using the ESPN API.
 - **Frequent updates** - Games appear within ~15 minutes of going final
 - **Team-specific feeds** - Separate feeds for each team
 - **No duplicates** - Uses team IDs to prevent duplicate entries
-- **26 leagues supported** - From major pro sports to college and international
+- **36 leagues supported** - From major pro sports to college and international
 
 ## Feeds Available
 
@@ -32,35 +32,38 @@ Team feeds are available in two URL formats. **The subdirectory format works for
 ### Combined Feed
 - `/rss/all-finals.xml` - All leagues in one feed
 
-## Supported Leagues (26 total)
+## Supported Leagues (36 total)
 
 **Major Pro Sports:**
-- NBA, WNBA, MLB, NHL, NFL
+- NBA, WNBA, MLB, NHL, NFL, CFL, NBL
 
 **College Sports:**
 - NCAA Men's Basketball, NCAA Women's Basketball
 - NCAA Football, NCAA Baseball, NCAA Softball
 - NCAA Men's Lacrosse, NCAA Women's Lacrosse
 - NCAA Men's Volleyball, NCAA Women's Volleyball
+- NCAA Men's Ice Hockey, NCAA Women's Ice Hockey
 
 **Soccer:**
 - MLS, NWSL
-- Premier League, UEFA Champions League, UEFA Europa League
+- Premier League, EFL Championship
+- La Liga, Bundesliga, Serie A, Ligue 1
+- UEFA Champions League, UEFA Europa League
 
 **Individual & Racing:**
 - Tennis (WTA), ATP Tennis
 - Formula 1, IndyCar Series, NASCAR Cup Series
-- PGA Tour, LPGA Tour
+- PGA Tour, DP World Tour, LPGA Tour
 
 ## How Team Feeds Work
 
 ### Leagues with pre-created team feeds:
-NBA, WNBA, MLB, NHL, NFL, NCAA Basketball (M+W), NCAA Football, NCAA Baseball, MLS, NWSL, Premier League, Champions League, Europa League, Formula 1.
+NBA, WNBA, MLB, NHL, NFL, CFL, NBL, NCAA Basketball (M+W), NCAA Football, NCAA Baseball, NCAA Ice Hockey (M+W), MLS, NWSL, Premier League, EFL Championship, La Liga, Bundesliga, Serie A, Ligue 1, Champions League, Europa League, Formula 1.
 
 These leagues have all team feeds created immediately - subscribe to any team right away. Empty feeds have no `pubDate` so they won't trigger notifications until a game is posted. Note: NCAA Football (ncaaf) and Formula 1 (f1) only support the subdirectory format (`/rss/teams/ncaaf/orst.xml`). All other leagues in this list also support the legacy hyphen format (`/rss/teams/nba-lal.xml`).
 
 ### Leagues with on-demand team feeds:
-NCAA Softball, NCAA Men's Lacrosse, NCAA Women's Lacrosse, Tennis, ATP, NCAA Volleyball (M+W), IndyCar, NASCAR, PGA, LPGA.
+NCAA Softball, NCAA Men's Lacrosse, NCAA Women's Lacrosse, Tennis, ATP, NCAA Volleyball (M+W), IndyCar, NASCAR, PGA, DP World Tour, LPGA.
 
 These leagues don't have a team directory API. Team feeds are created automatically when a game is played - subscribe to the feed URL and it will appear after that team's first game. Over time, all active teams will have feeds. Feeds use the subdirectory format (`/rss/teams/<league>/<team>.xml`).
 

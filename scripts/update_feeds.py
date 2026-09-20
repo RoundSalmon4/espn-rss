@@ -98,6 +98,16 @@ KNOWN_LEAGUE_PATHS = {
     "nascar": {"path": "racing/nascar-premier", "name": "NASCAR Cup Series", "has_teams": False},
     "pga": {"path": "golf/pga", "name": "PGA Tour", "has_teams": False},
     "lpga": {"path": "golf/lpga", "name": "LPGA Tour", "has_teams": False},
+    "efl-championship": {"path": "soccer/eng.2", "name": "EFL Championship", "has_teams": True},
+    "la-liga": {"path": "soccer/esp.1", "name": "La Liga", "has_teams": True},
+    "bundesliga": {"path": "soccer/ger.1", "name": "Bundesliga", "has_teams": True},
+    "serie-a": {"path": "soccer/ita.1", "name": "Serie A", "has_teams": True},
+    "ligue-1": {"path": "soccer/fra.1", "name": "Ligue 1", "has_teams": True},
+    "ncaah": {"path": "hockey/mens-college-hockey", "name": "NCAA Men's Ice Hockey", "has_teams": True},
+    "ncaawh": {"path": "hockey/womens-college-hockey", "name": "NCAA Women's Ice Hockey", "has_teams": True},
+    "nbl": {"path": "basketball/nbl", "name": "NBL", "has_teams": True},
+    "cfl": {"path": "football/cfl", "name": "CFL", "has_teams": True},
+    "eur": {"path": "golf/eur", "name": "DP World Tour", "has_teams": False},
 }
 
 SPORTS = [info["path"] for info in KNOWN_LEAGUE_PATHS.values()]
@@ -218,10 +228,18 @@ def save_state(state):
 def fetch_espn(league_info, date_str):
     path = league_info["path"]
     url = f"{BASE_URL}/sports/{path}/scoreboard?dates={date_str.replace('-', '')}"
-    groups_sports = ["basketball/mens-college-basketball", "basketball/womens-college-basketball", 
-                     "football/college-football", "volleyball", "softball", "lacrosse"]
-    if any(sport in path for sport in groups_sports):
-        url += "&groups=50"
+    groups_map = {
+        "basketball/mens-college-basketball": "50",
+        "basketball/womens-college-basketball": "50",
+        "football/college-football": "80",
+        "volleyball": "50",
+        "softball": "50",
+        "lacrosse": "50",
+    }
+    for match, group in groups_map.items():
+        if match in path:
+            url += f"&groups={group}"
+            break
     print(f"Fetching: {url}")
     return espn_fetch_json(url)
 
@@ -381,7 +399,7 @@ def write_feed_from_state(path, title, link, description, league, state, leagues
         if league == "all":
             title_with_league = title_text
         else:
-            match = re.match(r"([a-z]+)-(\d+)-(\d+)-(\d{4}-\d{2}-\d{2})", gid)
+            match = re.match(r"([a-z\-]+)-(\d+)-(\d+)-(\d{4}-\d{2}-\d{2})", gid)
             if match:
                 league_key = match.group(1)
                 title_with_league = f"{league_key.upper()}: {title_text}"
