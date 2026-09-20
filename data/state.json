@@ -32,12 +32,19 @@
       "mlb-16-17-2026-09-19": "CHC 5 - CIN 2 (Final)",
       "mlb-23-7-2026-09-19": "KC 5 - PIT 6 (Final)"
     },
-    "nhl": {},
+    "nhl": {
+      "nhl-10-21-2026-09-19": "MTL 4 - TOR 1 (Final)",
+      "nhl-19-9-2026-09-19": "DAL 2 - STL 1 (Final)"
+    },
     "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
     "mls": {
-      "mls-17606-190-2026-09-18": "RBNY 1 - NYC 0 (Final)"
+      "mls-17606-190-2026-09-18": "RBNY 1 - NYC 0 (Final)",
+      "mls-183-9720-2026-09-19": "CLB 2 - MTL 0 (Final)",
+      "mls-193-21300-2026-09-19": "CLT 2 - DC 1 (Final)",
+      "mls-12011-189-2026-09-19": "ORL 2 - NE 4 (Final)",
+      "mls-18966-191-2026-09-19": "LAFC 2 - SJ 2 (Final)"
     },
     "nwsl": {
       "nwsl-20907-21423-2026-09-18": "KC 0 - SD 2 (Final)",
