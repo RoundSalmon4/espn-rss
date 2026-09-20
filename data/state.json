@@ -34,7 +34,10 @@
       "mlb-13-14-2026-09-20": "TOR 7 - TEX 2 (Final)",
       "mlb-11-5-2026-09-20": "ATH 0 - CLE 1 (Final)",
       "mlb-12-27-2026-09-20": "SEA 2 - COL 1 (Final)",
-      "mlb-25-28-2026-09-20": "MIA 3 - SD 7 (Final)"
+      "mlb-25-28-2026-09-20": "MIA 3 - SD 7 (Final)",
+      "mlb-3-9-2026-09-20": "MIN 8 - LAA 0 (Final)",
+      "mlb-10-29-2026-09-20": "NYY 4 - ARI 8 (Final)",
+      "mlb-19-26-2026-09-20": "SF 1 - LAD 3 (Final)"
     },
     "nhl": {
       "nhl-10-21-2026-09-19": "MTL 4 - TOR 1 (Final)",
@@ -54,7 +57,8 @@
       "nfl-10-21-2026-09-20": "PHI 24 - TEN 20 (Final)",
       "nfl-34-4-2026-09-20": "CIN 20 - HOU 6 (Final)",
       "nfl-20-9-2026-09-20": "GB 20 - NYJ 17 (Final)",
-      "nfl-27-5-2026-09-20": "CLE 23 - TB 19 (Final)"
+      "nfl-27-5-2026-09-20": "CLE 23 - TB 19 (Final)",
+      "nfl-30-7-2026-09-20": "JAX 13 - DEN 20 (Final)"
     },
     "ncaamb": {},
     "ncaawb": {},
