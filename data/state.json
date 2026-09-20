@@ -42,7 +42,9 @@
       "nhl-10-21-2026-09-19": "MTL 4 - TOR 1 (Final)",
       "nhl-19-9-2026-09-19": "DAL 2 - STL 1 (Final)",
       "nhl-28-6-2026-09-19": "WPG 2 - EDM 5 (Final)",
-      "nhl-30-4-2026-09-19": "CHI 2 - MIN 3 (Final)"
+      "nhl-30-4-2026-09-19": "CHI 2 - MIN 3 (Final)",
+      "nhl-37-8-2026-09-19": "VGK 4 - LA 2 (Final)",
+      "nhl-124292-22-2026-09-19": "VAN 2 - SEA 4 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
@@ -57,12 +59,15 @@
       "mls-18267-6077-2026-09-19": "CIN 2 - HOU 2 (Final)",
       "mls-17362-187-2026-09-19": "LA 3 - MIN 2 (Final)",
       "mls-10739-186-2026-09-19": "PHI 4 - SKC 3 (Final)",
-      "mls-21812-7318-2026-09-19": "TOR 1 - STL 3 (Final)"
+      "mls-21812-7318-2026-09-19": "TOR 1 - STL 3 (Final)",
+      "mls-182-18986-2026-09-19": "CHI 0 - NSH 3 (Final)",
+      "mls-4771-9727-2026-09-19": "VAN 3 - RSL 0 (Final)"
     },
     "nwsl": {
       "nwsl-20907-21423-2026-09-18": "KC 0 - SD 2 (Final)",
       "nwsl-15362-18206-2026-09-19": "POR 4 - ORL 1 (Final)",
-      "nwsl-15364-15366-2026-09-19": "GFC 2 - NC 1 (Final)"
+      "nwsl-15364-15366-2026-09-19": "GFC 2 - NC 1 (Final)",
+      "nwsl-131563-15363-2026-09-19": "SEA 1 - DEN 2 (Final)"
     },
     "premier-league": {
       "premier-league-337-363-2026-09-18": "CHE 0 - BRE 3 (Final)",
