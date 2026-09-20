@@ -28,7 +28,9 @@
       "mlb-1-8-2026-09-19": "MIL 1 - BAL 0 (Final)",
       "mlb-2-30-2026-09-19": "BOS 1 - TB 2 (Final)",
       "mlb-21-22-2026-09-19": "PHI 3 - NYM 10 (Final)",
-      "mlb-11-5-2026-09-19": "ATH 6 - CLE 12 (Final)"
+      "mlb-11-5-2026-09-19": "ATH 6 - CLE 12 (Final)",
+      "mlb-16-17-2026-09-19": "CHC 5 - CIN 2 (Final)",
+      "mlb-23-7-2026-09-19": "KC 5 - PIT 6 (Final)"
     },
     "nhl": {},
     "nfl": {},
@@ -56,7 +58,8 @@
       "ncaaf-324-48-2026-09-19": "CCU 14 - DEL 22 (Final)",
       "ncaaf-222-2341-2026-09-19": "VILL 20 - LIU 16 (Final)",
       "ncaaf-257-46-2026-09-19": "GTWN 21 - RICH 24 (Final)",
-      "ncaaf-119-2415-2026-09-19": "MORG 41 - TOW 26 (Final)"
+      "ncaaf-119-2415-2026-09-19": "MORG 41 - TOW 26 (Final)",
+      "ncaaf-2230-2729-2026-09-19": "FOR 52 - W&M 27 (Final)"
     },
     "ncaab": {},
     "ncaasoftball": {},
