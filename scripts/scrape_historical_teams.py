@@ -8,25 +8,23 @@ from datetime import datetime, timedelta
 
 ROOT = Path(__file__).parent.parent
 TEAM_CACHE_FILE = ROOT / "data" / "team_cache.json"
-BASE_URL = "https://site.api.espn.com/apis/site/v2"
+BASE_URL = "https://site.web.api.espn.com/apis/site/v2"
 HEADERS = {"User-Agent": "espn-rss/2.0"}
 
 # Leagues without /teams endpoint
 TARGET_LEAGUES = {
-    "ncaasoftball": {"path": "softball/college-softball", "name": "NCAA Softball"},
-    "lacrosse": {"path": "lacrosse/ncaa", "name": "NCAA Lacrosse"},
-    "wla": {"path": "lacrosse/wnrl", "name": "Women's Lacrosse"},
+    "ncaasoftball": {"path": "baseball/college-softball", "name": "NCAA Softball"},
+    "lacrosse": {"path": "lacrosse/mens-college-lacrosse", "name": "NCAA Men's Lacrosse"},
+    "wla": {"path": "lacrosse/womens-college-lacrosse", "name": "NCAA Women's Lacrosse"},
     "tennis": {"path": "tennis/wta", "name": "WTA Tennis"},
     "atp": {"path": "tennis/atp", "name": "ATP Tennis"},
-    "ncaaw": {"path": "volleyball/women-college-volleyball", "name": "NCAA Women's Volleyball"},
-    "ncaam": {"path": "volleyball/men-college-volleyball", "name": "NCAA Men's Volleyball"},
-    "boxing": {"path": "boxing", "name": "Boxing"},
-    "mma": {"path": "mma", "name": "MMA"},
-    "indycar": {"path": "racing/indycar", "name": "IndyCar"},
-    "nascar": {"path": "racing/nascar", "name": "NASCAR"},
+    "ncaaw": {"path": "volleyball/womens-college-volleyball", "name": "NCAA Women's Volleyball"},
+    "ncaam": {"path": "volleyball/mens-college-volleyball", "name": "NCAA Men's Volleyball"},
+    "indycar": {"path": "racing/irl", "name": "IndyCar"},
+    "nascar": {"path": "racing/nascar-premier", "name": "NASCAR"},
     "pga": {"path": "golf/pga", "name": "PGA Tour"},
     "lpga": {"path": "golf/lpga", "name": "LPGA Tour"},
-    "marching-band": {"path": "marching-band", "name": "College Marching Band"},
+    "eur": {"path": "golf/eur", "name": "DP World Tour"},
 }
 
 def get_calendar_dates(league_path):
