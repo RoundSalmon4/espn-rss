@@ -44,7 +44,8 @@
       "nhl-20-26-2026-09-24": "FLA 5 - TB 3 (Final)",
       "nhl-2-5-2026-09-24": "BUF 2 - DET 3 (Final)",
       "nhl-11-13-2026-09-24": "NJ 3 - NYR 4 (Final)",
-      "nhl-19-4-2026-09-24": "CHI 0 - STL 1 (Final)"
+      "nhl-19-4-2026-09-24": "CHI 0 - STL 1 (Final)",
+      "nhl-22-6-2026-09-24": "EDM 2 - VAN 1 (Final)"
     },
     "nfl": {
       "nfl-1-9-2026-09-24": "ATL 35 - GB 14 (Final)"
@@ -58,7 +59,9 @@
     "premier-league": {},
     "champions-league": {},
     "europa-league": {},
-    "ncaaf": {},
+    "ncaaf": {
+      "ncaaf-2335-324-2026-09-24": "LIB 34 - CCU 17 (Final)"
+    },
     "ncaab": {},
     "ncaasoftball": {},
     "lacrosse": {},
