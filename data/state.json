@@ -17,7 +17,8 @@
       "mlb-19-26-2026-09-25": "LAD 2 - SF 0 (Final)",
       "mlb-25-29-2026-09-25": "ARI 11 - SD 4 (Final)",
       "mlb-11-18-2026-09-25": "HOU 5 - ATH 6 (Final)",
-      "mlb-12-3-2026-09-25": "LAA 7 - SEA 5 (Final)"
+      "mlb-12-3-2026-09-25": "LAA 7 - SEA 5 (Final)",
+      "mlb-20-21-2026-09-26": "NYM 7 - WSH 1 (Final)"
     },
     "nhl": {
       "nhl-1-23-2026-09-25": "BOS 2 - WSH 3 (Final)",
@@ -45,7 +46,11 @@
       "ncaaf-77-84-2026-09-25": "NU 23 - IU 29 (Final)",
       "ncaaf-228-25-2026-09-25": "CLEM 24 - CAL 10 (Final)",
       "ncaaf-2050-2309-2026-09-26": "BALL 13 - KENT 26 (Final)",
-      "ncaaf-2006-2439-2026-09-26": "UNLV 38 - AKR 10 (Final)"
+      "ncaaf-2006-2439-2026-09-26": "UNLV 38 - AKR 10 (Final)",
+      "ncaaf-2534-2641-2026-09-26": "SHSU 14 - TTU 49 (Final)",
+      "ncaaf-2083-221-2026-09-26": "BUCK 0 - PITT 59 (Final)",
+      "ncaaf-103-259-2026-09-26": "VT 21 - BC 14 (Final)",
+      "ncaaf-21-2649-2026-09-26": "SDSU 16 - TOL 41 (Final)"
     },
     "ncaab": {},
     "ncaasoftball": {},
@@ -56,7 +61,8 @@
     "ncaaw": {
       "ncaaw-2335-2393-2026-09-25": "MTSU 3 - LIB 2 (Final)",
       "ncaaw-2534-338-2026-09-25": "SHSU 3 - KENN 1 (Final)",
-      "ncaaw-2511-2697-2026-09-26": "UWF 3 - QUC 0 (Final)"
+      "ncaaw-2511-2697-2026-09-26": "UWF 3 - QUC 0 (Final)",
+      "ncaaw-2335-2393-2026-09-26": "MTSU 1 - LIB 3 (Final)"
     },
     "ncaam": {},
     "f1": {},
