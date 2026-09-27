@@ -23,7 +23,8 @@
       "mlb-14-17-2026-09-26": "CIN 5 - TOR 1 (Final)",
       "mlb-19-26-2026-09-26": "LAD 4 - SF 3 (Final)",
       "mlb-15-28-2026-09-26": "ATL 8 - MIA 3 (Final)",
-      "mlb-13-9-2026-09-26": "TEX 6 - MIN 2 (Final)"
+      "mlb-13-9-2026-09-26": "TEX 6 - MIN 2 (Final)",
+      "mlb-24-8-2026-09-26": "STL 2 - MIL 3 (Final)"
     },
     "nhl": {
       "nhl-1-23-2026-09-25": "BOS 2 - WSH 3 (Final)",
@@ -35,12 +36,20 @@
       "nhl-25-8-2026-09-26": "ANA 2 - LA 6 (Final)",
       "nhl-15-23-2026-09-26": "WSH 5 - PHI 1 (Final)",
       "nhl-129764-17-2026-09-26": "COL 0 - UTA 2 (Final)",
-      "nhl-20-26-2026-09-26": "TB 3 - FLA 2 (Final)"
+      "nhl-20-26-2026-09-26": "TB 3 - FLA 2 (Final)",
+      "nhl-29-5-2026-09-26": "CBJ 4 - DET 2 (Final)",
+      "nhl-10-14-2026-09-26": "MTL 3 - OTT 4 (Final)",
+      "nhl-124292-22-2026-09-26": "SEA 3 - VAN 4 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
-    "mls": {},
+    "mls": {
+      "mls-17606-18418-2026-09-26": "NYC 2 - ATL 2 (Final)",
+      "mls-18267-9720-2026-09-26": "CIN 1 - MTL 3 (Final)",
+      "mls-182-21300-2026-09-26": "CHI 1 - CLT 0 (Final)",
+      "mls-10739-12011-2026-09-26": "ORL 2 - PHI 4 (Final)"
+    },
     "nwsl": {
       "nwsl-20905-21423-2026-09-25": "SD 2 - LOU 0 (Final)",
       "nwsl-15360-15364-2026-09-25": "CHI 1 - GFC 3 (Final)",
