@@ -24,7 +24,9 @@
       "mlb-19-26-2026-09-26": "LAD 4 - SF 3 (Final)",
       "mlb-15-28-2026-09-26": "ATL 8 - MIA 3 (Final)",
       "mlb-13-9-2026-09-26": "TEX 6 - MIN 2 (Final)",
-      "mlb-24-8-2026-09-26": "STL 2 - MIL 3 (Final)"
+      "mlb-24-8-2026-09-26": "STL 2 - MIL 3 (Final)",
+      "mlb-5-7-2026-09-26": "CLE 11 - KC 5 (Final)",
+      "mlb-27-4-2026-09-26": "COL 9 - CHW 6 (Final)"
     },
     "nhl": {
       "nhl-1-23-2026-09-25": "BOS 2 - WSH 3 (Final)",
@@ -39,7 +41,9 @@
       "nhl-20-26-2026-09-26": "TB 3 - FLA 2 (Final)",
       "nhl-29-5-2026-09-26": "CBJ 4 - DET 2 (Final)",
       "nhl-10-14-2026-09-26": "MTL 3 - OTT 4 (Final)",
-      "nhl-124292-22-2026-09-26": "SEA 3 - VAN 4 (Final)"
+      "nhl-124292-22-2026-09-26": "SEA 3 - VAN 4 (Final)",
+      "nhl-19-4-2026-09-26": "STL 2 - CHI 3 (Final)",
+      "nhl-11-12-2026-09-26": "NJ 4 - NYI 1 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
@@ -103,7 +107,13 @@
       "ncaaf-213-275-2026-09-26": "WIS 24 - PSU 20 (Final)",
       "ncaaf-127-158-2026-09-26": "NEB 31 - MSU 13 (Final)",
       "ncaaf-2229-2341-2026-09-26": "LIU 3 - FIU 20 (Final)",
-      "ncaaf-258-48-2026-09-26": "DEL 3 - UVA 42 (Final)"
+      "ncaaf-258-48-2026-09-26": "DEL 3 - UVA 42 (Final)",
+      "ncaaf-2032-338-2026-09-26": "KENN 14 - ARST 17 (Final)",
+      "ncaaf-2393-55-2026-09-26": "MTSU 13 - JXST 23 (Final)",
+      "ncaaf-2117-2390-2026-09-26": "CMU 3 - MIA 52 (Final)",
+      "ncaaf-2916-326-2026-09-26": "UIW 10 - TXST 63 (Final)",
+      "ncaaf-256-295-2026-09-26": "JMU 46 - ODU 20 (Final)",
+      "ncaaf-2429-309-2026-09-26": "UL 34 - CLT 7 (Final)"
     },
     "ncaab": {},
     "ncaasoftball": {},
