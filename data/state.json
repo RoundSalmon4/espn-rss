@@ -52,14 +52,20 @@
       "mls-17606-18418-2026-09-26": "NYC 2 - ATL 2 (Final)",
       "mls-18267-9720-2026-09-26": "CIN 1 - MTL 3 (Final)",
       "mls-182-21300-2026-09-26": "CHI 1 - CLT 0 (Final)",
-      "mls-10739-12011-2026-09-26": "ORL 2 - PHI 4 (Final)"
+      "mls-10739-12011-2026-09-26": "ORL 2 - PHI 4 (Final)",
+      "mls-20906-22529-2026-09-26": "SD 3 - ATX 3 (Final)",
+      "mls-185-18966-2026-09-26": "LAFC 0 - DAL 1 (Final)",
+      "mls-186-6077-2026-09-26": "SKC 2 - HOU 0 (Final)",
+      "mls-18986-7318-2026-09-26": "TOR 0 - NSH 2 (Final)",
+      "mls-17362-9726-2026-09-26": "MIN 1 - SEA 3 (Final)"
     },
     "nwsl": {
       "nwsl-20905-21423-2026-09-25": "SD 2 - LOU 0 (Final)",
       "nwsl-15360-15364-2026-09-25": "CHI 1 - GFC 3 (Final)",
       "nwsl-131562-15363-2026-09-25": "BOS 0 - SEA 2 (Final)",
       "nwsl-131563-20907-2026-09-26": "DEN 1 - KC 4 (Final)",
-      "nwsl-15365-21422-2026-09-26": "LA 1 - WAS 0 (Final)"
+      "nwsl-15365-21422-2026-09-26": "LA 1 - WAS 0 (Final)",
+      "nwsl-15362-17346-2026-09-26": "HOU 1 - POR 1 (Final)"
     },
     "premier-league": {},
     "champions-league": {},
@@ -115,7 +121,10 @@
       "ncaaf-256-295-2026-09-26": "JMU 46 - ODU 20 (Final)",
       "ncaaf-2429-309-2026-09-26": "UL 34 - CLT 7 (Final)",
       "ncaaf-2385-98-2026-09-26": "MERC 7 - WKU 52 (Final)",
-      "ncaaf-197-277-2026-09-26": "OKST 41 - WVU 24 (Final)"
+      "ncaaf-197-277-2026-09-26": "OKST 41 - WVU 24 (Final)",
+      "ncaaf-2132-2306-2026-09-26": "KSU 26 - CIN 31 (Final)",
+      "ncaaf-2572-2655-2026-09-26": "USM 21 - TULN 24 (Final)",
+      "ncaaf-2579-333-2026-09-26": "SC 18 - ALA 49 (Final)"
     },
     "ncaab": {},
     "ncaasoftball": {},
