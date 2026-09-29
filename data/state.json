@@ -2,7 +2,9 @@
   "published": {
     "nba": {},
     "wnba": {},
-    "mlb": {},
+    "mlb": {
+      "mlb-15-22-2026-09-29": "PHI 3 - ATL 5 (Final)"
+    },
     "nhl": {},
     "nfl": {
       "nfl-21-3-2026-09-28": "PHI 7 - CHI 27 (Final)"
