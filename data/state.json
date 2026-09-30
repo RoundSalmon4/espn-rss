@@ -8,16 +8,16 @@
     "mlb": {
       "mlb-15-22-2026-09-29": "PHI 3 - ATL 5 (Final)",
       "mlb-18-4-2026-09-29": "CHW 6 - HOU 3 (Final)",
-      "mlb-10-2-2026-09-29": "BOS 0 - NYY 9 (Final)"
+      "mlb-10-2-2026-09-29": "BOS 0 - NYY 9 (Final)",
+      "mlb-16-25-2026-09-29": "CHC 0 - SD 8 (Final)"
     },
     "nhl": {
       "nhl-26-7-2026-09-29": "FLA 1 - CAR 0 (Final)",
       "nhl-10-21-2026-09-29": "MTL 3 - TOR 2 (Final)",
-      "nhl-1-13-2026-09-29": "NYR 0 - BOS 3 (Final)"
+      "nhl-1-13-2026-09-29": "NYR 0 - BOS 3 (Final)",
+      "nhl-22-6-2026-09-29": "VAN 6 - EDM 5 (Final)"
     },
-    "nfl": {
-      "nfl-21-3-2026-09-28": "PHI 7 - CHI 27 (Final)"
-    },
+    "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
     "mls": {},
@@ -37,9 +37,7 @@
     "f1": {},
     "indycar": {},
     "nascar": {},
-    "pga": {
-      "pga-1-3-2026-09-28": "INTL 13 - USA 17 (Final)"
-    },
+    "pga": {},
     "lpga": {},
     "efl-championship": {},
     "la-liga": {},
