@@ -1,7 +1,9 @@
 {
   "published": {
     "nba": {},
-    "wnba": {},
+    "wnba": {
+      "wnba-17-5-2026-09-29": "LV 89 - IND 99 (Final)"
+    },
     "mlb": {
       "mlb-15-22-2026-09-29": "PHI 3 - ATL 5 (Final)",
       "mlb-18-4-2026-09-29": "CHW 6 - HOU 3 (Final)"
