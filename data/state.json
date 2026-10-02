@@ -3,7 +3,8 @@
     "nba": {},
     "wnba": {
       "wnba-16-20-2026-09-30": "ATL 93 - WSH 75 (Final)",
-      "wnba-129689-3-2026-09-30": "GS 100 - DAL 108 (Final)"
+      "wnba-129689-3-2026-09-30": "GS 100 - DAL 108 (Final)",
+      "wnba-17-5-2026-10-01": "IND 83 - LV 94 (Final)"
     },
     "mlb": {
       "mlb-15-22-2026-09-30": "PHI 4 - ATL 3 (Final)",
@@ -21,11 +22,14 @@
       "nhl-13-20-2026-10-01": "TB 1 - NYR 5 (Final)",
       "nhl-27-30-2026-10-01": "MIN 3 - NSH 1 (Final)"
     },
-    "nfl": {},
+    "nfl": {
+      "nfl-23-5-2026-10-01": "PIT 24 - CLE 27 (Final)"
+    },
     "ncaamb": {},
     "ncaawb": {},
     "mls": {
-      "mls-190-21812-2026-09-30": "STL 3 - RBNY 0 (Final)"
+      "mls-190-21812-2026-09-30": "STL 3 - RBNY 0 (Final)",
+      "mls-186-9726-2026-10-01": "SKC 1 - SEA 2 (Final)"
     },
     "nwsl": {},
     "premier-league": {},
