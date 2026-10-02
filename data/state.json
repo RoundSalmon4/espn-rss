@@ -39,7 +39,9 @@
     "wla": {},
     "tennis": {},
     "atp": {},
-    "ncaaw": {},
+    "ncaaw": {
+      "ncaaw-2697-56-2026-10-02": "UWF 3 - STET 0 (Final)"
+    },
     "ncaam": {},
     "f1": {},
     "indycar": {},
@@ -60,7 +62,8 @@
       "ncaawh-111-2528-2026-10-02": "NE 1 - RPI 2 (Final)",
       "ncaawh-160-2341-2026-10-02": "UNH 5 - LIU 2 (Final)",
       "ncaawh-2507-2514-2026-10-02": "PROV 1 - QUIN 3 (Final)",
-      "ncaawh-2779-311-2026-10-02": "USL 3 - ME 0 (Final)"
+      "ncaawh-2779-311-2026-10-02": "USL 3 - ME 0 (Final)",
+      "ncaawh-2771-2785-2026-10-02": "UNNY 4 - MRMK 2 (Final)"
     },
     "nbl": {
       "nbl-10-5-2026-10-01": "MEL 82 - TAS 84 (Final)",
