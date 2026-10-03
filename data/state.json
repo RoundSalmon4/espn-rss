@@ -4,7 +4,9 @@
     "wnba": {
       "wnba-129689-3-2026-10-02": "DAL 73 - GS 77 (Final)"
     },
-    "mlb": {},
+    "mlb": {
+      "mlb-4-5-2026-10-03": "CHW 3 - CLE 0 (Final)"
+    },
     "nhl": {
       "nhl-13-5-2026-10-02": "NYR 2 - DET 0 (Final)",
       "nhl-23-7-2026-10-02": "WSH 5 - CAR 2 (Final)",
@@ -37,7 +39,8 @@
       "ncaaf-154-24-2026-10-03": "STAN 3 - WAKE 57 (Final)",
       "ncaaf-333-344-2026-10-03": "ALA 56 - MSST 23 (Final)",
       "ncaaf-2116-248-2026-10-03": "UCF 17 - HOU 27 (Final)",
-      "ncaaf-127-275-2026-10-03": "MSU 3 - WIS 31 (Final)"
+      "ncaaf-127-275-2026-10-03": "MSU 3 - WIS 31 (Final)",
+      "ncaaf-238-61-2026-10-03": "VAN 14 - UGA 38 (Final)"
     },
     "ncaab": {},
     "ncaasoftball": {},
