@@ -27,7 +27,9 @@
     "mls": {
       "mls-186-9726-2026-10-01": "SKC 1 - SEA 2 (Final)"
     },
-    "nwsl": {},
+    "nwsl": {
+      "nwsl-18206-21423-2026-10-02": "SD 2 - ORL 1 (Final)"
+    },
     "premier-league": {},
     "champions-league": {},
     "europa-league": {},
@@ -45,7 +47,8 @@
       "ncaaw-2697-56-2026-10-02": "UWF 3 - STET 0 (Final)",
       "ncaaw-2511-526-2026-10-02": "QUC 0 - FGCU 3 (Final)",
       "ncaaw-294-91-2026-10-02": "JAX 3 - BELL 1 (Final)",
-      "ncaaw-2335-55-2026-10-02": "LIB 3 - JXST 0 (Final)"
+      "ncaaw-2335-55-2026-10-02": "LIB 3 - JXST 0 (Final)",
+      "ncaaw-2454-288-2026-10-02": "UNF 2 - LIP 3 (Final)"
     },
     "ncaam": {},
     "f1": {},
@@ -64,7 +67,9 @@
       "ncaah-2099-2222-2026-10-02": "FRST 0 - CAN 4 (Final)",
       "ncaah-107-311-2026-10-02": "ME 4 - HC 1 (Final)",
       "ncaah-130-189-2026-10-02": "BGSU 2 - MICH 7 (Final)",
-      "ncaah-160-2514-2026-10-02": "UNH 2 - QUIN 10 (Final)"
+      "ncaah-160-2514-2026-10-02": "UNH 2 - QUIN 10 (Final)",
+      "ncaah-178-315-2026-10-02": "RIT 1 - NIA 4 (Final)",
+      "ncaah-128-193-2026-10-02": "M-OH 0 - NMI 4 (Final)"
     },
     "ncaawh": {
       "ncaawh-2779-311-2026-10-01": "USL 3 - ME 4 (Final)",
