@@ -1,6 +1,8 @@
 {
   "published": {
-    "nba": {},
+    "nba": {
+      "nba-14-28-2026-10-03": "MIA 129 - TOR 105 (Final)"
+    },
     "wnba": {
       "wnba-129689-3-2026-10-02": "DAL 73 - GS 77 (Final)"
     },
@@ -14,7 +16,11 @@
       "nhl-23-7-2026-10-02": "WSH 5 - CAR 2 (Final)",
       "nhl-1-28-2026-10-02": "BOS 4 - WPG 3 (Final)",
       "nhl-19-9-2026-10-02": "STL 4 - DAL 0 (Final)",
-      "nhl-25-37-2026-10-02": "ANA 4 - VGK 3 (Final)"
+      "nhl-25-37-2026-10-02": "ANA 4 - VGK 3 (Final)",
+      "nhl-2-4-2026-10-03": "CHI 3 - BUF 4 (Final)",
+      "nhl-20-23-2026-10-03": "WSH 1 - TB 3 (Final)",
+      "nhl-129764-29-2026-10-03": "UTA 4 - CBJ 1 (Final)",
+      "nhl-124292-6-2026-10-03": "SEA 1 - EDM 3 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
@@ -119,7 +125,9 @@
       "ncaah-128-193-2026-10-03": "M-OH 4 - NMI 1 (Final)",
       "ncaah-2815-9-2026-10-03": "ASU 6 - LIN 9 (Final)",
       "ncaah-130-189-2026-10-03": "MICH 4 - BGSU 3 (Final)",
-      "ncaah-107-311-2026-10-03": "ME 2 - HC 3 (Final)"
+      "ncaah-107-311-2026-10-03": "ME 2 - HC 3 (Final)",
+      "ncaah-132-2594-2026-10-03": "SCSU 2 - BST 3 (Final)",
+      "ncaah-110133-134-2026-10-03": "LIU 0 - UMD 4 (Final)"
     },
     "ncaawh": {
       "ncaawh-134-261-2026-10-02": "UMD 0 - UVM 3 (Final)",
