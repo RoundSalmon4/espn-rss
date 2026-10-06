@@ -1,60 +1,30 @@
 {
   "published": {
     "nba": {
-      "nba-26-7-2026-10-04": "UTAH 109 - DEN 97 (Final)",
-      "nba-12-9-2026-10-04": "GS 101 - LAC 104 (Final)",
       "nba-18-20-2026-10-05": "NY 97 - PHI 120 (Final)",
       "nba-1-29-2026-10-05": "MEM 132 - ATL 123 (Final)",
       "nba-21-8-2026-10-05": "PHX 107 - DET 109 (Final)",
       "nba-15-16-2026-10-05": "MIN 116 - MIL 97 (Final)",
       "nba-13-23-2026-10-05": "LAL 127 - SAC 103 (Final)"
     },
-    "wnba": {
-      "wnba-20-9-2026-10-04": "NY 82 - ATL 92 (Final)",
-      "wnba-129689-17-2026-10-04": "LV 60 - GS 71 (Final)"
-    },
+    "wnba": {},
     "mlb": {
-      "mlb-25-8-2026-10-04": "SD 3 - MIL 4 (Final)",
-      "mlb-15-19-2026-10-04": "ATL 3 - LAD 2 (Final)",
       "mlb-4-5-2026-10-05": "CHW 4 - CLE 3 (Final)",
       "mlb-10-30-2026-10-05": "NYY 2 - TB 5 (Final)"
     },
     "nhl": {
-      "nhl-28-5-2026-10-04": "WPG 3 - DET 2 (Final)",
-      "nhl-129764-13-2026-10-04": "UTA 2 - NYR 4 (Final)",
-      "nhl-25-26-2026-10-04": "FLA 2 - ANA 3 (Final)",
-      "nhl-124292-3-2026-10-04": "CGY 1 - SEA 6 (Final)",
-      "nhl-22-37-2026-10-04": "VGK 3 - VAN 2 (Final)",
       "nhl-15-20-2026-10-05": "PHI 1 - TB 4 (Final)",
       "nhl-1-14-2026-10-05": "OTT 4 - BOS 1 (Final)",
       "nhl-16-28-2026-10-05": "WPG 3 - PIT 2 (Final)",
       "nhl-18-9-2026-10-05": "SJ 0 - DAL 5 (Final)"
     },
     "nfl": {
-      "nfl-11-28-2026-10-04": "IND 30 - WSH 13 (Final)",
-      "nfl-20-3-2026-10-04": "NYJ 12 - CHI 23 (Final)",
-      "nfl-27-9-2026-10-04": "GB 17 - TB 14 (Final)",
-      "nfl-30-4-2026-10-04": "JAX 22 - CIN 17 (Final)",
-      "nfl-17-2-2026-10-04": "NE 29 - BUF 26 (Final)",
-      "nfl-19-22-2026-10-04": "ARI 24 - NYG 36 (Final)",
-      "nfl-10-33-2026-10-04": "TEN 18 - BAL 24 (Final)",
-      "nfl-34-6-2026-10-04": "DAL 34 - HOU 30 (Final)",
-      "nfl-14-21-2026-10-04": "LAR 24 - PHI 20 (Final)",
-      "nfl-15-16-2026-10-04": "MIA 10 - MIN 15 (Final)",
-      "nfl-12-13-2026-10-04": "KC 30 - LV 27 (Final)",
-      "nfl-25-7-2026-10-04": "DEN 14 - SF 24 (Final)",
-      "nfl-24-26-2026-10-04": "LAC 23 - SEA 30 (Final)",
-      "nfl-29-8-2026-10-04": "DET 26 - CAR 32 (Final)",
       "nfl-1-18-2026-10-05": "ATL 45 - NO 24 (Final)"
     },
     "ncaamb": {},
     "ncaawb": {},
     "mls": {},
-    "nwsl": {
-      "nwsl-15364-21422-2026-10-04": "LA 1 - GFC 1 (Final)",
-      "nwsl-131563-15360-2026-10-04": "DEN 3 - CHI 0 (Final)",
-      "nwsl-15365-17346-2026-10-04": "WAS 3 - HOU 2 (Final)"
-    },
+    "nwsl": {},
     "premier-league": {},
     "champions-league": {},
     "europa-league": {},
@@ -65,10 +35,7 @@
     "wla": {},
     "tennis": {},
     "atp": {},
-    "ncaaw": {
-      "ncaaw-2511-56-2026-10-04": "QUC 3 - STET 0 (Final)",
-      "ncaaw-2697-526-2026-10-04": "UWF 2 - FGCU 3 (Final)"
-    },
+    "ncaaw": {},
     "ncaam": {},
     "f1": {},
     "indycar": {},
@@ -80,16 +47,9 @@
     "bundesliga": {},
     "serie-a": {},
     "ligue-1": {},
-    "ncaah": {
-      "ncaah-135-2392-2026-10-04": "MINN 1 - MTU 3 (Final)"
-    },
-    "ncaawh": {
-      "ncaawh-2815-48-2026-10-04": "LIN 3 - DEL 1 (Final)"
-    },
-    "nbl": {
-      "nbl-4-8-2026-10-04": "HWK 96 - PNX 113 (Final)",
-      "nbl-1-6-2026-10-04": "NZL 88 - ADL 72 (Final)"
-    },
+    "ncaah": {},
+    "ncaawh": {},
+    "nbl": {},
     "cfl": {},
     "eur": {}
   }
