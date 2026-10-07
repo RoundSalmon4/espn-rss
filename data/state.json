@@ -6,7 +6,8 @@
       "nba-21-8-2026-10-05": "PHX 107 - DET 109 (Final)",
       "nba-15-16-2026-10-05": "MIN 116 - MIL 97 (Final)",
       "nba-13-23-2026-10-05": "LAL 127 - SAC 103 (Final)",
-      "nba-17-30-2026-10-06": "BKN 124 - CHA 90 (Final)"
+      "nba-17-30-2026-10-06": "BKN 124 - CHA 90 (Final)",
+      "nba-25-3-2026-10-06": "NO 116 - OKC 110 (Final)"
     },
     "wnba": {},
     "mlb": {
@@ -31,7 +32,9 @@
     },
     "ncaamb": {},
     "ncaawb": {},
-    "mls": {},
+    "mls": {
+      "mls-182-9727-2026-10-06": "VAN 1 - CHI 3 (Final)"
+    },
     "nwsl": {},
     "premier-league": {},
     "champions-league": {},
