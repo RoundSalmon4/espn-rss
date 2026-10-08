@@ -1,10 +1,6 @@
 {
   "published": {
     "nba": {
-      "nba-17-30-2026-10-06": "BKN 124 - CHA 90 (Final)",
-      "nba-25-3-2026-10-06": "NO 116 - OKC 110 (Final)",
-      "nba-26-7-2026-10-06": "DEN 117 - UTAH 106 (Final)",
-      "nba-13-9-2026-10-06": "LAL 98 - GS 124 (Final)",
       "nba-11-16-2026-10-07": "MIN 112 - IND 123 (Final)",
       "nba-19-29-2026-10-07": "ORL 122 - MEM 118 (Final)",
       "nba-15-25-2026-10-07": "MIL 128 - OKC 126 (Final)",
@@ -16,37 +12,24 @@
       "wnba-129689-17-2026-10-07": "LV 81 - GS 83 (Final)"
     },
     "mlb": {
-      "mlb-15-19-2026-10-06": "LAD 3 - ATL 1 (Final)",
-      "mlb-25-8-2026-10-06": "MIL 3 - SD 4 (Final)",
       "mlb-4-5-2026-10-07": "CLE 9 - CHW 3 (Final)",
       "mlb-15-19-2026-10-07": "LAD 4 - ATL 1 (Final)",
       "mlb-10-30-2026-10-07": "TB 4 - NYY 3 (Final)"
     },
     "nhl": {
-      "nhl-14-5-2026-10-06": "OTT 3 - DET 5 (Final)",
-      "nhl-2-30-2026-10-06": "MIN 2 - BUF 3 (Final)",
-      "nhl-10-7-2026-10-06": "CAR 6 - MTL 4 (Final)",
-      "nhl-21-27-2026-10-06": "NSH 4 - TOR 5 (Final)",
-      "nhl-11-129764-2026-10-06": "UTA 5 - NJ 3 (Final)",
-      "nhl-12-13-2026-10-06": "NYI 2 - NYR 5 (Final)",
-      "nhl-19-4-2026-10-06": "STL 2 - CHI 4 (Final)",
-      "nhl-124292-37-2026-10-06": "VGK 6 - SEA 2 (Final)",
-      "nhl-26-8-2026-10-06": "FLA 2 - LA 1 (Final)",
       "nhl-16-23-2026-10-07": "PIT 3 - WSH 5 (Final)",
-      "nhl-17-28-2026-10-07": "COL 2 - WPG 3 (Final)"
+      "nhl-17-28-2026-10-07": "COL 2 - WPG 3 (Final)",
+      "nhl-25-6-2026-10-07": "EDM 5 - ANA 2 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
-    "mls": {
-      "mls-182-9727-2026-10-06": "VAN 1 - CHI 3 (Final)"
-    },
+    "mls": {},
     "nwsl": {},
     "premier-league": {},
     "champions-league": {},
     "europa-league": {},
     "ncaaf": {
-      "ncaaf-2572-2653-2026-10-06": "USM 34 - TROY 55 (Final)",
       "ncaaf-338-55-2026-10-07": "JXST 27 - KENN 26 (Final)",
       "ncaaf-166-2229-2026-10-07": "NMSU 3 - FIU 22 (Final)"
     },
@@ -71,9 +54,7 @@
     "serie-a": {},
     "ligue-1": {},
     "ncaah": {},
-    "ncaawh": {
-      "ncaawh-2514-430-2026-10-06": "PU 0 - QUIN 10 (Final)"
-    },
+    "ncaawh": {},
     "nbl": {
       "nbl-1-5-2026-10-07": "MEL 96 - ADL 91 (Final)"
     },
