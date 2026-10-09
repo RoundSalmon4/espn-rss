@@ -56,7 +56,9 @@
     "lpga": {},
     "efl-championship": {},
     "la-liga": {},
-    "bundesliga": {},
+    "bundesliga": {
+      "bundesliga-124-137-2026-10-09": "SVW 2 - DOR 2 (Final)"
+    },
     "serie-a": {},
     "ligue-1": {},
     "ncaah": {
@@ -68,7 +70,8 @@
     "ncaawh": {
       "ncaawh-2137-2779-2026-10-08": "CLAR 4 - USL 0 (Final)",
       "ncaawh-2385-2815-2026-10-08": "MERC 2 - LIN 1 (Final)",
-      "ncaawh-2385-2815-2026-10-09": "MERC 4 - LIN 0 (Final)"
+      "ncaawh-2385-2815-2026-10-09": "MERC 4 - LIN 0 (Final)",
+      "ncaawh-111-2507-2026-10-09": "NE 2 - PROV 0 (Final)"
     },
     "nbl": {
       "nbl-2-3-2026-10-08": "BRI 91 - CNS 97 (Final)",
