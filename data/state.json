@@ -1,32 +1,17 @@
 {
   "published": {
     "nba": {
-      "nba-11-16-2026-10-07": "MIN 112 - IND 123 (Final)",
-      "nba-19-29-2026-10-07": "ORL 122 - MEM 118 (Final)",
-      "nba-15-25-2026-10-07": "MIL 128 - OKC 126 (Final)",
-      "nba-21-4-2026-10-07": "PHX 117 - CHI 124 (Final)",
-      "nba-22-9-2026-10-07": "GS 118 - POR 123 (Final)",
       "nba-2-5-2026-10-08": "BOS 124 - CLE 113 (Final)",
       "nba-14-3-2026-10-08": "NO 118 - MIA 128 (Final)",
       "nba-18-27-2026-10-08": "WSH 111 - NY 109 (Final)",
       "nba-17-20-2026-10-08": "PHI 108 - BKN 114 (Final)",
       "nba-1-24-2026-10-08": "ATL 123 - SA 116 (Final)"
     },
-    "wnba": {
-      "wnba-20-9-2026-10-07": "NY 98 - ATL 101 (Final)",
-      "wnba-129689-17-2026-10-07": "LV 81 - GS 83 (Final)"
-    },
+    "wnba": {},
     "mlb": {
-      "mlb-4-5-2026-10-07": "CLE 9 - CHW 3 (Final)",
-      "mlb-15-19-2026-10-07": "LAD 4 - ATL 1 (Final)",
-      "mlb-10-30-2026-10-07": "TB 4 - NYY 3 (Final)",
-      "mlb-25-8-2026-10-07": "MIL 3 - SD 1 (Final)",
       "mlb-4-5-2026-10-08": "CLE 9 - CHW 5 (Final)"
     },
     "nhl": {
-      "nhl-16-23-2026-10-07": "PIT 3 - WSH 5 (Final)",
-      "nhl-17-28-2026-10-07": "COL 2 - WPG 3 (Final)",
-      "nhl-25-6-2026-10-07": "EDM 5 - ANA 2 (Final)",
       "nhl-22-7-2026-10-08": "VAN 2 - CAR 7 (Final)",
       "nhl-14-15-2026-10-08": "PHI 1 - OTT 2 (Final)",
       "nhl-2-9-2026-10-08": "DAL 4 - BUF 0 (Final)",
@@ -35,7 +20,8 @@
       "nhl-1-129764-2026-10-08": "UTA 1 - BOS 6 (Final)",
       "nhl-12-4-2026-10-08": "CHI 1 - NYI 4 (Final)",
       "nhl-18-19-2026-10-08": "SJ 3 - STL 2 (Final)",
-      "nhl-17-3-2026-10-08": "COL 7 - CGY 3 (Final)"
+      "nhl-17-3-2026-10-08": "COL 7 - CGY 3 (Final)",
+      "nhl-21-37-2026-10-08": "TOR 3 - VGK 4 (Final)"
     },
     "nfl": {
       "nfl-27-6-2026-10-08": "TB 24 - DAL 16 (Final)"
@@ -48,8 +34,6 @@
     "champions-league": {},
     "europa-league": {},
     "ncaaf": {
-      "ncaaf-338-55-2026-10-07": "JXST 27 - KENN 26 (Final)",
-      "ncaaf-166-2229-2026-10-07": "NMSU 3 - FIU 22 (Final)",
       "ncaaf-2335-2534-2026-10-08": "SHSU 3 - LIB 35 (Final)",
       "ncaaf-2623-98-2026-10-08": "MOST 13 - WKU 34 (Final)",
       "ncaaf-2636-58-2026-10-08": "USF 24 - UTSA 31 (Final)",
@@ -61,9 +45,7 @@
     "wla": {},
     "tennis": {},
     "atp": {},
-    "ncaaw": {
-      "ncaaw-294-52-2026-10-07": "JAX 1 - FSU 3 (Final)"
-    },
+    "ncaaw": {},
     "ncaam": {},
     "f1": {},
     "indycar": {},
@@ -86,7 +68,6 @@
       "ncaawh-2385-2815-2026-10-08": "MERC 2 - LIN 1 (Final)"
     },
     "nbl": {
-      "nbl-1-5-2026-10-07": "MEL 96 - ADL 91 (Final)",
       "nbl-2-3-2026-10-08": "BRI 91 - CNS 97 (Final)"
     },
     "cfl": {},
