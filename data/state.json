@@ -18,7 +18,9 @@
     "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
-    "mls": {},
+    "mls": {
+      "mls-7318-9720-2026-10-10": "MTL 1 - TOR 2 (Final)"
+    },
     "nwsl": {},
     "premier-league": {
       "premier-league-357-359-2026-10-10": "LEE 1 - ARS 2 (Final)",
@@ -35,7 +37,9 @@
       "ncaaf-2294-264-2026-10-09": "IOWA 41 - WASH 24 (Final)",
       "ncaaf-23-2751-2026-10-09": "WYO 16 - SJSU 13 (Final)",
       "ncaaf-265-328-2026-10-09": "WSU 16 - USU 17 (Final)",
-      "ncaaf-252-66-2026-10-09": "ISU 10 - BYU 24 (Final)"
+      "ncaaf-252-66-2026-10-09": "ISU 10 - BYU 24 (Final)",
+      "ncaaf-2655-349-2026-10-10": "TULN 17 - ARMY 20 (Final)",
+      "ncaaf-16-189-2026-10-10": "SAC 10 - BGSU 38 (Final)"
     },
     "ncaab": {},
     "ncaasoftball": {},
@@ -47,7 +51,8 @@
       "ncaaw-288-56-2026-10-09": "LIP 3 - STET 0 (Final)",
       "ncaaw-166-2335-2026-10-09": "NMSU 0 - LIB 3 (Final)",
       "ncaaw-526-91-2026-10-09": "BELL 2 - FGCU 3 (Final)",
-      "ncaaw-2454-2511-2026-10-09": "UNF 3 - QUC 1 (Final)"
+      "ncaaw-2454-2511-2026-10-09": "UNF 3 - QUC 1 (Final)",
+      "ncaaw-166-2335-2026-10-10": "NMSU 3 - LIB 0 (Final)"
     },
     "ncaam": {},
     "f1": {},
