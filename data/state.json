@@ -20,7 +20,9 @@
     "ncaawb": {},
     "mls": {},
     "nwsl": {},
-    "premier-league": {},
+    "premier-league": {
+      "premier-league-357-359-2026-10-10": "LEE 1 - ARS 2 (Final)"
+    },
     "champions-league": {},
     "europa-league": {},
     "ncaaf": {
@@ -49,7 +51,10 @@
     "pga": {},
     "lpga": {},
     "efl-championship": {
-      "efl-championship-334-371-2026-10-09": "QPR 1 - WHU 1 (Final)"
+      "efl-championship-334-371-2026-10-09": "QPR 1 - WHU 1 (Final)",
+      "efl-championship-333-372-2026-10-10": "BRC 1 - CHA 1 (Final)",
+      "efl-championship-318-381-2026-10-10": "NOR 1 - SWA 2 (Final)",
+      "efl-championship-383-392-2026-10-10": "BIR 1 - WBA 0 (Final)"
     },
     "la-liga": {
       "la-liga-88-99-2026-10-09": "ESP 1 - MCF 1 (Final)"
