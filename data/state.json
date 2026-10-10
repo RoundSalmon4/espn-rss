@@ -9,7 +9,9 @@
       "nba-13-23-2026-10-08": "SAC 110 - LAL 114 (Final)",
       "nba-10-6-2026-10-09": "HOU 135 - DAL 117 (Final)"
     },
-    "wnba": {},
+    "wnba": {
+      "wnba-20-9-2026-10-09": "ATL 85 - NY 83 (Final)"
+    },
     "mlb": {
       "mlb-4-5-2026-10-08": "CLE 9 - CHW 5 (Final)"
     },
@@ -25,7 +27,8 @@
       "nhl-17-3-2026-10-08": "COL 7 - CGY 3 (Final)",
       "nhl-21-37-2026-10-08": "TOR 3 - VGK 4 (Final)",
       "nhl-124292-5-2026-10-09": "SEA 6 - DET 3 (Final)",
-      "nhl-13-23-2026-10-09": "NYR 1 - WSH 3 (Final)"
+      "nhl-13-23-2026-10-09": "NYR 1 - WSH 3 (Final)",
+      "nhl-16-29-2026-10-09": "PIT 2 - CBJ 3 (Final)"
     },
     "nfl": {
       "nfl-27-6-2026-10-08": "TB 24 - DAL 16 (Final)"
@@ -87,7 +90,8 @@
       "ncaah-2060-261-2026-10-09": "UVM 0 - BENT 3 (Final)",
       "ncaah-189-2529-2026-10-09": "BGSU 3 - SHU 2 (Final)",
       "ncaah-2514-311-2026-10-09": "QUIN 2 - ME 1 (Final)",
-      "ncaah-213-41-2026-10-09": "PSU 1 - CONN 3 (Final)"
+      "ncaah-213-41-2026-10-09": "PSU 1 - CONN 3 (Final)",
+      "ncaah-2137-2349-2026-10-09": "CLAR 3 - UML 2 (Final)"
     },
     "ncaawh": {
       "ncaawh-2137-2779-2026-10-08": "CLAR 4 - USL 0 (Final)",
