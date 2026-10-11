@@ -5,13 +5,17 @@
       "nba-29-4-2026-10-09": "MEM 104 - CHI 100 (Final)",
       "nba-12-28-2026-10-10": "LAC 106 - TOR 114 (Final)",
       "nba-1-11-2026-10-10": "ATL 119 - IND 117 (Final)",
-      "nba-27-8-2026-10-10": "DET 108 - WSH 114 (Final)"
+      "nba-27-8-2026-10-10": "DET 108 - WSH 114 (Final)",
+      "nba-14-16-2026-10-10": "MIN 125 - MIA 124 (Final)",
+      "nba-2-20-2026-10-10": "PHI 106 - BOS 144 (Final)"
     },
     "wnba": {
       "wnba-20-9-2026-10-09": "ATL 85 - NY 83 (Final)",
       "wnba-129689-17-2026-10-09": "GS 87 - LV 77 (Final)"
     },
-    "mlb": {},
+    "mlb": {
+      "mlb-4-5-2026-10-10": "CHW 0 - CLE 2 (Final)"
+    },
     "nhl": {
       "nhl-124292-5-2026-10-09": "SEA 6 - DET 3 (Final)",
       "nhl-13-23-2026-10-09": "NYR 1 - WSH 3 (Final)",
@@ -42,7 +46,10 @@
       "mls-189-9726-2026-10-10": "SEA 3 - NE 0 (Final)",
       "mls-12011-183-2026-10-10": "CLB 2 - ORL 3 (Final)",
       "mls-10739-4771-2026-10-10": "RSL 1 - PHI 2 (Final)",
-      "mls-190-22529-2026-10-10": "SD 1 - RBNY 4 (Final)"
+      "mls-190-22529-2026-10-10": "SD 1 - RBNY 4 (Final)",
+      "mls-18986-20906-2026-10-10": "NSH 4 - ATX 1 (Final)",
+      "mls-17362-6077-2026-10-10": "HOU 2 - MIN 2 (Final)",
+      "mls-186-9723-2026-10-10": "POR 3 - SKC 3 (Final)"
     },
     "nwsl": {},
     "premier-league": {
@@ -94,7 +101,9 @@
       "ncaaf-204-21-2026-10-10": "SDSU 14 - ORST 66 (Final)",
       "ncaaf-2005-2459-2026-10-10": "AFA 28 - NIU 7 (Final)",
       "ncaaf-235-5-2026-10-10": "UAB 13 - MEM 38 (Final)",
-      "ncaaf-276-324-2026-10-10": "CCU 27 - MRSH 21 (Final)"
+      "ncaaf-276-324-2026-10-10": "CCU 27 - MRSH 21 (Final)",
+      "ncaaf-2440-2638-2026-10-10": "NEV 30 - UTEP 13 (Final)",
+      "ncaaf-2439-2449-2026-10-10": "NDSU 7 - UNLV 13 (Final)"
     },
     "ncaab": {},
     "ncaasoftball": {},
