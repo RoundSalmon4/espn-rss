@@ -46,7 +46,14 @@
     "nascar": {},
     "pga": {},
     "lpga": {},
-    "efl-championship": {},
+    "efl-championship": {
+      "efl-championship-333-365-2026-10-13": "BLK 1 - BRC 0 (Final)",
+      "efl-championship-372-379-2026-10-13": "CHA 2 - BUR 2 (Final)",
+      "efl-championship-347-395-2026-10-13": "WAT 1 - CAR 5 (Final)",
+      "efl-championship-318-391-2026-10-13": "SWA 1 - MIL 0 (Final)",
+      "efl-championship-358-380-2026-10-13": "BOL 3 - WOL 1 (Final)",
+      "efl-championship-352-383-2026-10-13": "WBA 2 - WXM 1 (Final)"
+    },
     "la-liga": {
       "la-liga-1538-243-2026-10-12": "SEV 3 - LEV 3 (Final)"
     },
