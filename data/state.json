@@ -1,11 +1,6 @@
 {
   "published": {
     "nba": {
-      "nba-134478-22-2026-10-12": "LON 66 - POR 119 (Final)",
-      "nba-1-25-2026-10-12": "OKC 110 - ATL 113 (Final)",
-      "nba-17-27-2026-10-12": "BKN 131 - WSH 122 (Final)",
-      "nba-16-18-2026-10-12": "MIN 122 - NY 104 (Final)",
-      "nba-24-26-2026-10-12": "SA 109 - UTAH 119 (Final)",
       "nba-19-5-2026-10-13": "CLE 116 - ORL 132 (Final)",
       "nba-18-28-2026-10-13": "NY 98 - TOR 148 (Final)",
       "nba-11-25-2026-10-13": "IND 112 - OKC 114 (Final)",
@@ -14,14 +9,9 @@
     },
     "wnba": {},
     "mlb": {
-      "mlb-19-8-2026-10-12": "LAD 4 - MIL 7 (Final)",
-      "mlb-30-5-2026-10-12": "CLE 7 - TB 3 (Final)",
       "mlb-30-5-2026-10-13": "CLE 1 - TB 3 (Final)"
     },
     "nhl": {
-      "nhl-2-26-2026-10-12": "FLA 3 - BUF 5 (Final)",
-      "nhl-11-14-2026-10-12": "OTT 4 - NJ 1 (Final)",
-      "nhl-30-37-2026-10-12": "VGK 2 - MIN 4 (Final)",
       "nhl-11-5-2026-10-13": "NJ 5 - DET 4 (Final)",
       "nhl-26-29-2026-10-13": "FLA 7 - CBJ 3 (Final)",
       "nhl-10-2-2026-10-13": "BUF 3 - MTL 4 (Final)",
@@ -37,16 +27,12 @@
       "nhl-129764-21-2026-10-13": "TOR 4 - UTA 5 (Final)",
       "nhl-25-3-2026-10-13": "CGY 4 - ANA 2 (Final)"
     },
-    "nfl": {
-      "nfl-14-2-2026-10-12": "BUF 37 - LAR 34 (Final)"
-    },
+    "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
     "mls": {},
     "nwsl": {},
-    "premier-league": {
-      "premier-league-361-388-2026-10-12": "NEW 1 - COV 4 (Final)"
-    },
+    "premier-league": {},
     "champions-league": {
       "champions-league-175-2250-2026-10-13": "SCP 2 - RCL 0 (Final)",
       "champions-league-21922-494-2026-10-13": "SLP 0 - SAB 2 (Final)",
@@ -86,14 +72,9 @@
       "efl-championship-392-394-2026-10-13": "PNE 0 - BIR 4 (Final)",
       "efl-championship-336-369-2026-10-13": "MID 3 - STK 2 (Final)"
     },
-    "la-liga": {
-      "la-liga-1538-243-2026-10-12": "SEV 3 - LEV 3 (Final)"
-    },
+    "la-liga": {},
     "bundesliga": {},
-    "serie-a": {
-      "serie-a-105-17530-2026-10-12": "VEN 1 - ATA 3 (Final)",
-      "serie-a-118-239-2026-10-12": "UDI 1 - TOR 2 (Final)"
-    },
+    "serie-a": {},
     "ligue-1": {},
     "ncaah": {},
     "ncaawh": {},
