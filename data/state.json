@@ -24,7 +24,8 @@
       "nhl-23-7-2026-10-13": "WSH 2 - CAR 4 (Final)",
       "nhl-13-20-2026-10-13": "TB 1 - NYR 4 (Final)",
       "nhl-124292-15-2026-10-13": "SEA 3 - PHI 2 (Final)",
-      "nhl-14-19-2026-10-13": "STL 7 - OTT 2 (Final)"
+      "nhl-14-19-2026-10-13": "STL 7 - OTT 2 (Final)",
+      "nhl-12-22-2026-10-13": "VAN 2 - NYI 3 (Final)"
     },
     "nfl": {
       "nfl-14-2-2026-10-12": "BUF 37 - LAR 34 (Final)"
@@ -48,7 +49,9 @@
       "champions-league-102-114-2026-10-13": "NAP 1 - VIL 3 (Final)"
     },
     "europa-league": {},
-    "ncaaf": {},
+    "ncaaf": {
+      "ncaaf-2393-48-2026-10-13": "DEL 30 - MTSU 33 (Final)"
+    },
     "ncaab": {},
     "ncaasoftball": {},
     "lacrosse": {},
