@@ -32,7 +32,14 @@
     "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
-    "mls": {},
+    "mls": {
+      "mls-18418-9720-2026-10-14": "ATL 3 - MTL 0 (Final)",
+      "mls-183-21300-2026-10-14": "CLT 1 - CLB 3 (Final)",
+      "mls-190-193-2026-10-14": "RBNY 1 - DC 2 (Final)",
+      "mls-18267-189-2026-10-14": "NE 3 - CIN 2 (Final)",
+      "mls-17606-20232-2026-10-14": "NYC 0 - MIA 2 (Final)",
+      "mls-12011-7318-2026-10-14": "ORL 3 - TOR 3 (Final)"
+    },
     "nwsl": {},
     "premier-league": {},
     "champions-league": {
