@@ -17,7 +17,11 @@
     "nhl": {
       "nhl-10-23-2026-10-14": "MTL 4 - WSH 5 (Final)",
       "nhl-17-9-2026-10-14": "DAL 3 - COL 2 (Final)",
-      "nhl-11-13-2026-10-15": "NYR 1 - NJ 7 (Final)"
+      "nhl-11-13-2026-10-15": "NYR 1 - NJ 7 (Final)",
+      "nhl-2-21-2026-10-15": "BUF 5 - TOR 4 (Final)",
+      "nhl-12-14-2026-10-15": "NYI 1 - OTT 2 (Final)",
+      "nhl-124292-20-2026-10-15": "SEA 3 - TB 4 (Final)",
+      "nhl-22-26-2026-10-15": "VAN 2 - FLA 3 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
@@ -100,7 +104,8 @@
     "serie-a": {},
     "ligue-1": {},
     "ncaah": {
-      "ncaah-103-2594-2026-10-15": "SCSU 0 - BC 4 (Final)"
+      "ncaah-103-2594-2026-10-15": "SCSU 0 - BC 4 (Final)",
+      "ncaah-193-2523-2026-10-15": "RMU 1 - M-OH 7 (Final)"
     },
     "ncaawh": {
       "ncaawh-103-2771-2026-10-14": "MRMK 0 - BC 5 (Final)",
