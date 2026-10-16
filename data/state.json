@@ -28,9 +28,12 @@
       "nhl-15-5-2026-10-15": "PHI 1 - DET 2 (Final)",
       "nhl-28-4-2026-10-15": "WPG 3 - CHI 4 (Final)",
       "nhl-18-27-2026-10-15": "SJ 3 - NSH 2 (Final)",
-      "nhl-19-30-2026-10-15": "STL 4 - MIN 5 (Final)"
+      "nhl-19-30-2026-10-15": "STL 4 - MIN 5 (Final)",
+      "nhl-129764-6-2026-10-15": "UTA 4 - EDM 2 (Final)"
     },
-    "nfl": {},
+    "nfl": {
+      "nfl-26-7-2026-10-15": "SEA 14 - DEN 17 (Final)"
+    },
     "ncaamb": {},
     "ncaawb": {},
     "mls": {
@@ -116,7 +119,8 @@
     "ncaah": {
       "ncaah-103-2594-2026-10-15": "SCSU 0 - BC 4 (Final)",
       "ncaah-193-2523-2026-10-15": "RMU 1 - M-OH 7 (Final)",
-      "ncaah-2043-2437-2026-10-15": "OMA 1 - AUSD 2 (Final)"
+      "ncaah-2043-2437-2026-10-15": "OMA 1 - AUSD 2 (Final)",
+      "ncaah-2005-2815-2026-10-15": "LIN 2 - AFA 5 (Final)"
     },
     "ncaawh": {
       "ncaawh-103-2771-2026-10-14": "MRMK 0 - BC 5 (Final)",
