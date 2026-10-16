@@ -69,8 +69,12 @@
     "nascar": {},
     "pga": {},
     "lpga": {},
-    "efl-championship": {},
-    "la-liga": {},
+    "efl-championship": {
+      "efl-championship-379-380-2026-10-16": "WOL 2 - BUR 1 (Final)"
+    },
+    "la-liga": {
+      "la-liga-1538-90-2026-10-16": "LEV 1 - DEP 1 (Final)"
+    },
     "bundesliga": {
       "bundesliga-122-125-2026-10-16": "KOE 0 - SGE 1 (Final)"
     },
