@@ -25,13 +25,15 @@
     "ncaawb": {},
     "mls": {},
     "nwsl": {
-      "nwsl-131562-20905-2026-10-16": "LOU 1 - BOS 2 (Final)"
+      "nwsl-131562-20905-2026-10-16": "LOU 1 - BOS 2 (Final)",
+      "nwsl-15364-15365-2026-10-17": "GFC 0 - WAS 1 (Final)"
     },
     "premier-league": {
       "premier-league-363-368-2026-10-17": "CHE 2 - EVE 0 (Final)",
       "premier-league-306-370-2026-10-17": "HUL 0 - FUL 1 (Final)",
       "premier-league-337-364-2026-10-17": "LIV 2 - BRE 1 (Final)",
-      "premier-league-373-382-2026-10-17": "IPS 2 - MNC 3 (Final)"
+      "premier-league-373-382-2026-10-17": "IPS 2 - MNC 3 (Final)",
+      "premier-league-361-362-2026-10-17": "AVL 1 - NEW 0 (Final)"
     },
     "champions-league": {},
     "europa-league": {},
@@ -84,7 +86,8 @@
       "bundesliga-127-134-2026-10-17": "VFB 0 - HSV 1 (Final)",
       "bundesliga-133-2950-2026-10-17": "M05 1 - S04 0 (Final)",
       "bundesliga-137-3307-2026-10-17": "SCP 2 - SVW 2 (Final)",
-      "bundesliga-10388-3841-2026-10-17": "FCA 3 - ELV 4 (Final)"
+      "bundesliga-10388-3841-2026-10-17": "FCA 3 - ELV 4 (Final)",
+      "bundesliga-11420-132-2026-10-17": "RBL 1 - MUN 6 (Final)"
     },
     "serie-a": {
       "serie-a-3997-4057-2026-10-16": "SAS 2 - FRO 4 (Final)",
@@ -135,7 +138,8 @@
       "ncaawh-2594-2900-2026-10-16": "SCSU 3 - STMN 2 (Final)",
       "ncaawh-132-134-2026-10-16": "UMD 3 - BST 0 (Final)",
       "ncaawh-24059-275-2026-10-16": "MNST 1 - WIS 5 (Final)",
-      "ncaawh-178-225-2026-10-17": "BRWN 3 - RIT 1 (Final)"
+      "ncaawh-178-225-2026-10-17": "BRWN 3 - RIT 1 (Final)",
+      "ncaawh-213-2815-2026-10-17": "LIN 0 - PSU 3 (Final)"
     },
     "nbl": {
       "nbl-1-10-2026-10-16": "ADL 94 - TAS 88 (Final)",
