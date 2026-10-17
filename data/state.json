@@ -1,8 +1,6 @@
 {
   "published": {
     "nba": {
-      "nba-18-28-2026-10-15": "TOR 120 - NY 122 (Final)",
-      "nba-10-25-2026-10-15": "OKC 89 - HOU 116 (Final)",
       "nba-14-19-2026-10-16": "MIA 115 - ORL 136 (Final)",
       "nba-2-20-2026-10-16": "BOS 125 - PHI 120 (Final)",
       "nba-11-15-2026-10-16": "MIL 128 - IND 127 (Final)",
@@ -16,28 +14,12 @@
       "nba-22-9-2026-10-16": "POR 118 - GS 128 (Final)"
     },
     "wnba": {},
-    "mlb": {
-      "mlb-30-5-2026-10-15": "TB 2 - CLE 3 (Final)",
-      "mlb-19-8-2026-10-15": "MIL 6 - LAD 4 (Final)"
-    },
+    "mlb": {},
     "nhl": {
-      "nhl-11-13-2026-10-15": "NYR 1 - NJ 7 (Final)",
-      "nhl-2-21-2026-10-15": "BUF 5 - TOR 4 (Final)",
-      "nhl-12-14-2026-10-15": "NYI 1 - OTT 2 (Final)",
-      "nhl-124292-20-2026-10-15": "SEA 3 - TB 4 (Final)",
-      "nhl-22-26-2026-10-15": "VAN 2 - FLA 3 (Final)",
-      "nhl-15-5-2026-10-15": "PHI 1 - DET 2 (Final)",
-      "nhl-28-4-2026-10-15": "WPG 3 - CHI 4 (Final)",
-      "nhl-18-27-2026-10-15": "SJ 3 - NSH 2 (Final)",
-      "nhl-19-30-2026-10-15": "STL 4 - MIN 5 (Final)",
-      "nhl-129764-6-2026-10-15": "UTA 4 - EDM 2 (Final)",
-      "nhl-3-37-2026-10-15": "CGY 2 - VGK 6 (Final)",
       "nhl-16-17-2026-10-16": "PIT 2 - COL 5 (Final)",
       "nhl-1-25-2026-10-16": "BOS 4 - ANA 2 (Final)"
     },
-    "nfl": {
-      "nfl-26-7-2026-10-15": "SEA 14 - DEN 17 (Final)"
-    },
+    "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
     "mls": {},
@@ -46,30 +28,8 @@
     },
     "premier-league": {},
     "champions-league": {},
-    "europa-league": {
-      "europa-league-13083-140-2026-10-15": "HBE 1 - AZ 2 (Final)",
-      "europa-league-131-2990-2026-10-15": "B04 4 - LECH 0 (Final)",
-      "europa-league-167-384-2026-10-15": "CRY 2 - LYON 3 (Final)",
-      "europa-league-3362-617-2026-10-15": "OMON 3 - NKC 0 (Final)",
-      "europa-league-103-2790-2026-10-15": "MIL 4 - SLZ 0 (Final)",
-      "europa-league-433-987-2026-10-15": "LSK 1 - SPP 1 (Final)",
-      "europa-league-21615-366-2026-10-15": "SUN 2 - TOR 1 (Final)",
-      "europa-league-5807-89-2026-10-15": "RSO 1 - USG 1 (Final)",
-      "europa-league-349-3746-2026-10-15": "STG 0 - BOU 3 (Final)",
-      "europa-league-1929-256-2026-10-15": "CEL 1 - SLB 4 (Final)",
-      "europa-league-111-85-2026-10-15": "JUV 2 - CEL 1 (Final)",
-      "europa-league-441-597-2026-10-15": "AND 0 - DZG 1 (Final)",
-      "europa-league-11706-622-2026-10-15": "PLZ 1 - FER 2 (Final)",
-      "europa-league-11505-20024-2026-10-15": "ARA 1 - JAG 3 (Final)",
-      "europa-league-176-435-2026-10-15": "OLY 1 - OLM 0 (Final)",
-      "europa-league-147-490-2026-10-15": "LEV 1 - NEC 1 (Final)",
-      "europa-league-1010-169-2026-10-15": "OFI 1 - REN 2 (Final)",
-      "europa-league-1895-7911-2026-10-15": "BES 3 - TSG 2 (Final)"
-    },
+    "europa-league": {},
     "ncaaf": {
-      "ncaaf-290-295-2026-10-15": "GASO 23 - ODU 15 (Final)",
-      "ncaaf-326-36-2026-10-15": "CSU 27 - TXST 66 (Final)",
-      "ncaaf-151-5-2026-10-15": "ECU 17 - UAB 30 (Final)",
       "ncaaf-235-2655-2026-10-16": "MEM 17 - TULN 31 (Final)",
       "ncaaf-2026-324-2026-10-16": "APP 35 - CCU 32 (Final)",
       "ncaaf-2509-264-2026-10-16": "WASH 38 - PUR 26 (Final)"
@@ -107,10 +67,6 @@
     },
     "ligue-1": {},
     "ncaah": {
-      "ncaah-103-2594-2026-10-15": "SCSU 0 - BC 4 (Final)",
-      "ncaah-193-2523-2026-10-15": "RMU 1 - M-OH 7 (Final)",
-      "ncaah-2043-2437-2026-10-15": "OMA 1 - AUSD 2 (Final)",
-      "ncaah-2005-2815-2026-10-15": "LIN 2 - AFA 5 (Final)",
       "ncaah-2099-2137-2026-10-16": "CAN 4 - CLAR 3 (Final)",
       "ncaah-104-261-2026-10-16": "BU 1 - UVM 2 (Final)",
       "ncaah-111-113-2026-10-16": "NE 1 - MASS 4 (Final)",
@@ -133,7 +89,6 @@
       "ncaah-1-285-2026-10-16": "LSS 2 - UAA 5 (Final)"
     },
     "ncaawh": {
-      "ncaawh-160-2779-2026-10-15": "USL 1 - UNH 3 (Final)",
       "ncaawh-160-2779-2026-10-16": "USL 3 - UNH 2 (Final)",
       "ncaawh-213-2815-2026-10-16": "LIN 4 - PSU 5 (Final)",
       "ncaawh-2341-2529-2026-10-16": "LIU 1 - SHU 6 (Final)",
@@ -156,7 +111,6 @@
       "ncaawh-24059-275-2026-10-16": "MNST 1 - WIS 5 (Final)"
     },
     "nbl": {
-      "nbl-2-8-2026-10-15": "PNX 105 - BRI 115 (Final)",
       "nbl-1-10-2026-10-16": "ADL 94 - TAS 88 (Final)"
     },
     "cfl": {},
