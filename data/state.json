@@ -24,7 +24,9 @@
     "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
-    "mls": {},
+    "mls": {
+      "mls-10739-21300-2026-10-17": "CLT 2 - PHI 2 (Final)"
+    },
     "nwsl": {
       "nwsl-131562-20905-2026-10-16": "LOU 1 - BOS 2 (Final)",
       "nwsl-15364-15365-2026-10-17": "GFC 0 - WAS 1 (Final)"
@@ -56,7 +58,8 @@
       "ncaaf-194-84-2026-10-17": "OSU 19 - IU 15 (Final)",
       "ncaaf-245-2643-2026-10-17": "CIT 0 - TA&M 41 (Final)",
       "ncaaf-120-164-2026-10-17": "RUTG 37 - MD 30 (Final)",
-      "ncaaf-218-2429-2026-10-17": "CLT 38 - TEM 31 (Final)"
+      "ncaaf-218-2429-2026-10-17": "CLT 38 - TEM 31 (Final)",
+      "ncaaf-113-2084-2026-10-17": "MASS 18 - BUFF 25 (Final)"
     },
     "ncaab": {},
     "ncaasoftball": {},
@@ -110,7 +113,8 @@
     "serie-a": {
       "serie-a-3997-4057-2026-10-16": "SAS 2 - FRO 4 (Final)",
       "serie-a-114-17530-2026-10-17": "NAP 0 - VEN 1 (Final)",
-      "serie-a-107-110-2026-10-17": "INT 3 - BOL 1 (Final)"
+      "serie-a-107-110-2026-10-17": "INT 3 - BOL 1 (Final)",
+      "serie-a-104-3263-2026-10-17": "GEN 0 - ROMA 2 (Final)"
     },
     "ligue-1": {},
     "ncaah": {
