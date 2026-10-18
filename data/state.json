@@ -24,14 +24,21 @@
       "nhl-11-23-2026-10-17": "NJ 2 - WSH 4 (Final)",
       "nhl-28-7-2026-10-17": "CAR 3 - WPG 2 (Final)",
       "nhl-20-22-2026-10-17": "VAN 2 - TB 4 (Final)",
-      "nhl-124292-26-2026-10-17": "SEA 3 - FLA 8 (Final)"
+      "nhl-124292-26-2026-10-17": "SEA 3 - FLA 8 (Final)",
+      "nhl-12-21-2026-10-17": "NYI 4 - TOR 1 (Final)",
+      "nhl-4-9-2026-10-17": "DAL 4 - CHI 0 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
     "mls": {
       "mls-10739-21300-2026-10-17": "CLT 2 - PHI 2 (Final)",
-      "mls-17362-21812-2026-10-17": "STL 2 - MIN 3 (Final)"
+      "mls-17362-21812-2026-10-17": "STL 2 - MIN 3 (Final)",
+      "mls-18418-20232-2026-10-17": "MIA 3 - ATL 1 (Final)",
+      "mls-182-189-2026-10-17": "CHI 0 - NE 1 (Final)",
+      "mls-17606-18966-2026-10-17": "LAFC 1 - NYC 1 (Final)",
+      "mls-12011-193-2026-10-17": "DC 1 - ORL 4 (Final)",
+      "mls-190-7318-2026-10-17": "TOR 2 - RBNY 0 (Final)"
     },
     "nwsl": {
       "nwsl-131562-20905-2026-10-16": "LOU 1 - BOS 2 (Final)",
@@ -177,7 +184,11 @@
       "ncaah-194-2529-2026-10-17": "OSU 5 - SHU 1 (Final)",
       "ncaah-1-285-2026-10-17": "LSS 4 - UAA 2 (Final)",
       "ncaah-104-261-2026-10-17": "BU 2 - UVM 1 (Final)",
-      "ncaah-110133-2528-2026-10-17": "LIU 2 - RPI 3 (Final)"
+      "ncaah-110133-2528-2026-10-17": "LIU 2 - RPI 3 (Final)",
+      "ncaah-2043-2437-2026-10-17": "AUSD 3 - OMA 2 (Final)",
+      "ncaah-193-2523-2026-10-17": "M-OH 3 - RMU 2 (Final)",
+      "ncaah-155-2060-2026-10-17": "BENT 0 - UND 5 (Final)",
+      "ncaah-134-135-2026-10-17": "MINN 4 - UMD 3 (Final)"
     },
     "ncaawh": {
       "ncaawh-160-2779-2026-10-16": "USL 3 - UNH 2 (Final)",
@@ -217,7 +228,8 @@
       "ncaawh-159-260-2026-10-17": "DART 12 - STMIK 1 (Final)",
       "ncaawh-104-2142-2026-10-17": "COLG 1 - BU 0 (Final)",
       "ncaawh-107-108-2026-10-17": "HC 2 - HARV 8 (Final)",
-      "ncaawh-127962-2830-2026-10-17": "STA 2 - ASP 6 (Final)"
+      "ncaawh-127962-2830-2026-10-17": "STA 2 - ASP 6 (Final)",
+      "ncaawh-2341-2529-2026-10-17": "SHU 0 - LIU 2 (Final)"
     },
     "nbl": {
       "nbl-1-10-2026-10-16": "ADL 94 - TAS 88 (Final)",
