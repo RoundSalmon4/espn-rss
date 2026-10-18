@@ -17,7 +17,9 @@
     "wnba": {
       "wnba-129689-20-2026-10-17": "ATL 64 - GS 68 (Final)"
     },
-    "mlb": {},
+    "mlb": {
+      "mlb-30-5-2026-10-17": "TB 7 - CLE 3 (Final)"
+    },
     "nhl": {
       "nhl-16-17-2026-10-16": "PIT 2 - COL 5 (Final)",
       "nhl-1-25-2026-10-16": "BOS 4 - ANA 2 (Final)",
@@ -110,7 +112,8 @@
       "ncaaf-2210-24-2026-10-17": "ELON 7 - STAN 34 (Final)",
       "ncaaf-183-97-2026-10-17": "LOU 34 - SYR 26 (Final)",
       "ncaaf-197-248-2026-10-17": "OKST 32 - HOU 35 (Final)",
-      "ncaaf-2348-2433-2026-10-17": "LT 24 - ULM 0 (Final)"
+      "ncaaf-2348-2433-2026-10-17": "LT 24 - ULM 0 (Final)",
+      "ncaaf-252-87-2026-10-17": "ND 24 - BYU 28 (Final)"
     },
     "ncaab": {},
     "ncaasoftball": {},
