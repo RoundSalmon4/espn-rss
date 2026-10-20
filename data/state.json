@@ -42,7 +42,9 @@
     "nascar": {},
     "pga": {},
     "lpga": {},
-    "efl-championship": {},
+    "efl-championship": {
+      "efl-championship-380-385-2026-10-20": "POR 1 - WOL 1 (Final)"
+    },
     "la-liga": {
       "la-liga-101-2922-2026-10-19": "RAY 1 - GET 1 (Final)"
     },
