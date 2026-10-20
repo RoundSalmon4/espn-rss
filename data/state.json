@@ -1,7 +1,9 @@
 {
   "published": {
     "nba": {},
-    "wnba": {},
+    "wnba": {
+      "wnba-129689-20-2026-10-19": "ATL 79 - GS 65 (Final)"
+    },
     "mlb": {
       "mlb-30-5-2026-10-18": "TB 3 - CLE 1 (Final)"
     },
@@ -9,7 +11,8 @@
       "nhl-29-30-2026-10-18": "CBJ 1 - MIN 2 (Final)",
       "nhl-3-7-2026-10-18": "CAR 2 - CGY 3 (Final)",
       "nhl-13-25-2026-10-19": "ANA 2 - NYR 5 (Final)",
-      "nhl-15-17-2026-10-19": "COL 2 - PHI 3 (Final)"
+      "nhl-15-17-2026-10-19": "COL 2 - PHI 3 (Final)",
+      "nhl-18-21-2026-10-19": "SJ 1 - TOR 3 (Final)"
     },
     "nfl": {
       "nfl-30-34-2026-10-18": "HOU 34 - JAX 31 (Final)",
