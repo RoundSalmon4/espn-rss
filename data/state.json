@@ -5,17 +5,9 @@
       "nba-18-20-2026-10-20": "PHI 106 - NY 100 (Final)",
       "nba-24-25-2026-10-20": "OKC 116 - SA 104 (Final)"
     },
-    "wnba": {
-      "wnba-129689-20-2026-10-19": "ATL 79 - GS 65 (Final)"
-    },
-    "mlb": {
-      "mlb-30-5-2026-10-19": "CLE 3 - TB 7 (Final)"
-    },
+    "wnba": {},
+    "mlb": {},
     "nhl": {
-      "nhl-13-25-2026-10-19": "ANA 2 - NYR 5 (Final)",
-      "nhl-15-17-2026-10-19": "COL 2 - PHI 3 (Final)",
-      "nhl-18-21-2026-10-19": "SJ 1 - TOR 3 (Final)",
-      "nhl-129764-16-2026-10-19": "PIT 4 - UTA 5 (Final)",
       "nhl-11-17-2026-10-20": "COL 3 - NJ 4 (Final)",
       "nhl-12-25-2026-10-20": "ANA 2 - NYI 3 (Final)",
       "nhl-23-8-2026-10-20": "LA 5 - WSH 2 (Final)",
@@ -27,16 +19,12 @@
       "nhl-124292-5-2026-10-20": "DET 3 - SEA 4 (Final)",
       "nhl-22-7-2026-10-20": "CAR 6 - VAN 3 (Final)"
     },
-    "nfl": {
-      "nfl-25-28-2026-10-19": "WSH 17 - SF 23 (Final)"
-    },
+    "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
     "mls": {},
     "nwsl": {},
-    "premier-league": {
-      "premier-league-367-388-2026-10-19": "COV 1 - TOT 3 (Final)"
-    },
+    "premier-league": {},
     "champions-league": {
       "champions-league-436-494-2026-10-20": "SLP 2 - FEN 2 (Final)",
       "champions-league-124-21922-2026-10-20": "DOR 2 - SAB 1 (Final)",
@@ -70,14 +58,9 @@
     "efl-championship": {
       "efl-championship-380-385-2026-10-20": "POR 1 - WOL 1 (Final)"
     },
-    "la-liga": {
-      "la-liga-101-2922-2026-10-19": "RAY 1 - GET 1 (Final)"
-    },
+    "la-liga": {},
     "bundesliga": {},
-    "serie-a": {
-      "serie-a-2925-4007-2026-10-19": "CAG 0 - MON 4 (Final)",
-      "serie-a-115-239-2026-10-19": "TOR 3 - PAR 0 (Final)"
-    },
+    "serie-a": {},
     "ligue-1": {},
     "ncaah": {
       "ncaah-213-2523-2026-10-20": "RMU 5 - PSU 2 (Final)",
