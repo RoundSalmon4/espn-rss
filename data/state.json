@@ -19,7 +19,11 @@
     "mlb": {},
     "nhl": {
       "nhl-15-2-2026-10-21": "PHI 3 - BUF 1 (Final)",
-      "nhl-14-26-2026-10-21": "FLA 1 - OTT 5 (Final)"
+      "nhl-14-26-2026-10-21": "FLA 1 - OTT 5 (Final)",
+      "nhl-1-27-2026-10-22": "NSH 0 - BOS 6 (Final)",
+      "nhl-14-18-2026-10-22": "SJ 6 - OTT 2 (Final)",
+      "nhl-11-25-2026-10-22": "ANA 1 - NJ 4 (Final)",
+      "nhl-16-26-2026-10-22": "FLA 0 - PIT 4 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
@@ -83,7 +87,9 @@
     "bundesliga": {},
     "serie-a": {},
     "ligue-1": {},
-    "ncaah": {},
+    "ncaah": {
+      "ncaah-104-41-2026-10-22": "BU 4 - CONN 5 (Final)"
+    },
     "ncaawh": {
       "ncaawh-135-2815-2026-10-22": "LIN 0 - MINN 11 (Final)"
     },
