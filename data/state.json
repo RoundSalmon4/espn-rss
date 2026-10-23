@@ -27,7 +27,9 @@
     "ncaawb": {},
     "mls": {},
     "nwsl": {},
-    "premier-league": {},
+    "premier-league": {
+      "premier-league-373-393-2026-10-23": "NFO 1 - IPS 1 (Final)"
+    },
     "champions-league": {},
     "europa-league": {
       "europa-league-140-20024-2026-10-22": "AZ 4 - ARA 0 (Final)",
@@ -67,8 +69,12 @@
     "nascar": {},
     "pga": {},
     "lpga": {},
-    "efl-championship": {},
-    "la-liga": {},
+    "efl-championship": {
+      "efl-championship-358-369-2026-10-23": "MID 5 - BOL 1 (Final)"
+    },
+    "la-liga": {
+      "la-liga-96-99-2026-10-23": "MCF 1 - ALA 1 (Final)"
+    },
     "bundesliga": {
       "bundesliga-134-268-2026-10-23": "BMG 3 - VFB 2 (Final)"
     },
