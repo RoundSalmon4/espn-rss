@@ -12,7 +12,9 @@
       "nba-14-8-2026-10-23": "DET 128 - MIA 111 (Final)"
     },
     "wnba": {},
-    "mlb": {},
+    "mlb": {
+      "mlb-30-8-2026-10-23": "TB 2 - MIL 3 (Final)"
+    },
     "nhl": {
       "nhl-1-27-2026-10-22": "NSH 0 - BOS 6 (Final)",
       "nhl-14-18-2026-10-22": "SJ 6 - OTT 2 (Final)",
@@ -35,7 +37,8 @@
     "ncaawb": {},
     "mls": {},
     "nwsl": {
-      "nwsl-15360-17346-2026-10-23": "HOU 3 - CHI 1 (Final)"
+      "nwsl-15360-17346-2026-10-23": "HOU 3 - CHI 1 (Final)",
+      "nwsl-15363-19141-2026-10-23": "SEA 0 - UTA 0 (Final)"
     },
     "premier-league": {
       "premier-league-373-393-2026-10-23": "NFO 1 - IPS 1 (Final)"
@@ -122,7 +125,8 @@
       "ncaah-189-285-2026-10-23": "BGSU 6 - LSS 2 (Final)",
       "ncaah-132-134-2026-10-23": "BST 1 - UMD 4 (Final)",
       "ncaah-2364-2900-2026-10-23": "MNST 3 - STMN 1 (Final)",
-      "ncaah-2437-2815-2026-10-23": "OMA 7 - LIN 4 (Final)"
+      "ncaah-2437-2815-2026-10-23": "OMA 7 - LIN 4 (Final)",
+      "ncaah-103-2172-2026-10-23": "BC 2 - DEN 5 (Final)"
     },
     "ncaawh": {
       "ncaawh-135-2815-2026-10-22": "LIN 0 - MINN 11 (Final)",
