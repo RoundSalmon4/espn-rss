@@ -27,7 +27,9 @@
     "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
-    "mls": {},
+    "mls": {
+      "mls-18986-9720-2026-10-24": "NSH 2 - MTL 0 (Final)"
+    },
     "nwsl": {
       "nwsl-15360-17346-2026-10-23": "HOU 3 - CHI 1 (Final)",
       "nwsl-15363-19141-2026-10-23": "SEA 0 - UTA 0 (Final)",
@@ -49,7 +51,13 @@
       "ncaaf-2005-2751-2026-10-23": "AFA 14 - WYO 28 (Final)",
       "ncaaf-152-24-2026-10-23": "NCSU 28 - STAN 31 (Final)",
       "ncaaf-164-77-2026-10-24": "RUTG 14 - NU 42 (Final)",
-      "ncaaf-2628-277-2026-10-24": "WVU 24 - TCU 20 (Final)"
+      "ncaaf-2628-277-2026-10-24": "WVU 24 - TCU 20 (Final)",
+      "ncaaf-221-2390-2026-10-24": "PITT 23 - MIA 52 (Final)",
+      "ncaaf-130-84-2026-10-24": "IU 13 - MICH 6 (Final)",
+      "ncaaf-2-99-2026-10-24": "LSU 38 - AUB 17 (Final)",
+      "ncaaf-25-2567-2026-10-24": "CAL 20 - SMU 59 (Final)",
+      "ncaaf-2226-242-2026-10-24": "RICE 49 - FAU 51 (Final)",
+      "ncaaf-2649-2711-2026-10-24": "WMU 38 - TOL 45 (Final)"
     },
     "ncaab": {},
     "ncaasoftball": {},
