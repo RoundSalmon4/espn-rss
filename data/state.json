@@ -14,7 +14,9 @@
       "nba-22-23-2026-10-23": "POR 128 - SAC 120 (Final)",
       "nba-29-9-2026-10-23": "MEM 111 - GS 108 (Final)"
     },
-    "wnba": {},
+    "wnba": {
+      "wnba-129689-20-2026-10-24": "GS 67 - ATL 62 (Final)"
+    },
     "mlb": {
       "mlb-30-8-2026-10-23": "TB 2 - MIL 3 (Final)"
     },
@@ -45,7 +47,9 @@
       "ncaaf-113-41-2026-10-23": "MASS 16 - CONN 35 (Final)",
       "ncaaf-202-349-2026-10-23": "ARMY 38 - TLSA 35 (Final)",
       "ncaaf-2005-2751-2026-10-23": "AFA 14 - WYO 28 (Final)",
-      "ncaaf-152-24-2026-10-23": "NCSU 28 - STAN 31 (Final)"
+      "ncaaf-152-24-2026-10-23": "NCSU 28 - STAN 31 (Final)",
+      "ncaaf-164-77-2026-10-24": "RUTG 14 - NU 42 (Final)",
+      "ncaaf-2628-277-2026-10-24": "WVU 24 - TCU 20 (Final)"
     },
     "ncaab": {},
     "ncaasoftball": {},
@@ -144,7 +148,8 @@
       "ncaawh-103-172-2026-10-23": "COR 0 - BC 2 (Final)",
       "ncaawh-132-2594-2026-10-23": "BST 1 - SCSU 2 (Final)",
       "ncaawh-104-43-2026-10-23": "YALE 3 - BU 2 (Final)",
-      "ncaawh-108-260-2026-10-23": "STMIK 0 - HARV 12 (Final)"
+      "ncaawh-108-260-2026-10-23": "STMIK 0 - HARV 12 (Final)",
+      "ncaawh-2385-41-2026-10-24": "MERC 1 - CONN 1 (Final)"
     },
     "nbl": {
       "nbl-5-7-2026-10-23": "MEL 102 - PER 103 (Final)",
