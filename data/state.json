@@ -4,7 +4,9 @@
       "nba-20-5-2026-10-22": "CLE 106 - PHI 114 (Final)",
       "nba-25-7-2026-10-22": "DEN 84 - OKC 96 (Final)",
       "nba-15-4-2026-10-23": "CHI 132 - MIL 125 (Final)",
-      "nba-1-30-2026-10-23": "ATL 128 - CHA 81 (Final)"
+      "nba-1-30-2026-10-23": "ATL 128 - CHA 81 (Final)",
+      "nba-16-19-2026-10-23": "MIN 115 - ORL 93 (Final)",
+      "nba-27-28-2026-10-23": "TOR 112 - WSH 102 (Final)"
     },
     "wnba": {},
     "mlb": {},
@@ -96,7 +98,15 @@
       "ncaah-2099-213-2026-10-23": "CAN 1 - PSU 5 (Final)",
       "ncaah-107-2529-2026-10-23": "SHU 1 - HC 3 (Final)",
       "ncaah-2142-311-2026-10-23": "COLG 0 - ME 3 (Final)",
-      "ncaah-130-2711-2026-10-23": "WMU 2 - MICH 3 (Final)"
+      "ncaah-130-2711-2026-10-23": "WMU 2 - MICH 3 (Final)",
+      "ncaah-127-160-2026-10-23": "MSU 0 - UNH 1 (Final)",
+      "ncaah-2349-2507-2026-10-23": "PROV 3 - UML 0 (Final)",
+      "ncaah-1-193-2026-10-23": "UAA 1 - M-OH 5 (Final)",
+      "ncaah-135-155-2026-10-23": "UND 3 - MINN 5 (Final)",
+      "ncaah-2137-261-2026-10-23": "CLAR 1 - UVM 2 (Final)",
+      "ncaah-2771-87-2026-10-23": "MRMK 2 - ND 1 (Final)",
+      "ncaah-178-2528-2026-10-23": "RPI 4 - RIT 1 (Final)",
+      "ncaah-2222-2392-2026-10-23": "MTU 3 - FRST 1 (Final)"
     },
     "ncaawh": {
       "ncaawh-135-2815-2026-10-22": "LIN 0 - MINN 11 (Final)",
@@ -115,7 +125,9 @@
       "ncaawh-107-159-2026-10-23": "HC 1 - DART 1 (Final)",
       "ncaawh-2514-2785-2026-10-23": "QUIN 4 - UNNY 2 (Final)",
       "ncaawh-103-172-2026-10-23": "COR 0 - BC 2 (Final)",
-      "ncaawh-132-2594-2026-10-23": "BST 1 - SCSU 2 (Final)"
+      "ncaawh-132-2594-2026-10-23": "BST 1 - SCSU 2 (Final)",
+      "ncaawh-104-43-2026-10-23": "YALE 3 - BU 2 (Final)",
+      "ncaawh-108-260-2026-10-23": "STMIK 0 - HARV 12 (Final)"
     },
     "nbl": {
       "nbl-4-9-2026-10-22": "SYD 108 - HWK 82 (Final)",
