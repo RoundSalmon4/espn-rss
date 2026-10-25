@@ -25,7 +25,12 @@
       "nhl-10-4-2026-10-23": "MTL 4 - CHI 1 (Final)",
       "nhl-17-20-2026-10-23": "TB 3 - COL 6 (Final)",
       "nhl-15-25-2026-10-24": "ANA 5 - PHI 4 (Final)",
-      "nhl-11-8-2026-10-24": "LA 1 - NJ 3 (Final)"
+      "nhl-11-8-2026-10-24": "LA 1 - NJ 3 (Final)",
+      "nhl-1-18-2026-10-24": "SJ 4 - BOS 6 (Final)",
+      "nhl-16-27-2026-10-24": "NSH 2 - PIT 3 (Final)",
+      "nhl-2-23-2026-10-24": "BUF 3 - WSH 4 (Final)",
+      "nhl-29-37-2026-10-24": "VGK 1 - CBJ 2 (Final)",
+      "nhl-19-7-2026-10-24": "CAR 4 - STL 0 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
@@ -33,7 +38,10 @@
     "mls": {
       "mls-18986-9720-2026-10-24": "NSH 2 - MTL 0 (Final)",
       "mls-183-7318-2026-10-24": "TOR 2 - CLB 4 (Final)",
-      "mls-190-20232-2026-10-24": "MIA 0 - RBNY 2 (Final)"
+      "mls-190-20232-2026-10-24": "MIA 0 - RBNY 2 (Final)",
+      "mls-182-18418-2026-10-24": "CHI 3 - ATL 2 (Final)",
+      "mls-18267-193-2026-10-24": "CIN 2 - DC 0 (Final)",
+      "mls-12011-17606-2026-10-24": "NYC 2 - ORL 2 (Final)"
     },
     "nwsl": {
       "nwsl-15360-17346-2026-10-23": "HOU 3 - CHI 1 (Final)",
@@ -187,7 +195,9 @@
       "ncaah-127-160-2026-10-24": "MSU 2 - UNH 1 (Final)",
       "ncaah-178-2528-2026-10-24": "RPI 4 - RIT 5 (Final)",
       "ncaah-132-134-2026-10-24": "UMD 3 - BST 0 (Final)",
-      "ncaah-189-285-2026-10-24": "BGSU 4 - LSS 2 (Final)"
+      "ncaah-189-285-2026-10-24": "BGSU 4 - LSS 2 (Final)",
+      "ncaah-2222-2392-2026-10-24": "MTU 1 - FRST 2 (Final)",
+      "ncaah-2364-2900-2026-10-24": "STMN 0 - MNST 2 (Final)"
     },
     "ncaawh": {
       "ncaawh-160-284-2026-10-23": "STO 0 - UNH 6 (Final)",
