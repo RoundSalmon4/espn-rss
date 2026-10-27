@@ -1,13 +1,6 @@
 {
   "published": {
     "nba": {
-      "nba-13-26-2026-10-25": "LAL 132 - UTAH 123 (Final)",
-      "nba-11-17-2026-10-25": "IND 136 - BKN 109 (Final)",
-      "nba-12-25-2026-10-25": "LAC 101 - OKC 108 (Final)",
-      "nba-18-19-2026-10-25": "ORL 111 - NY 102 (Final)",
-      "nba-16-28-2026-10-25": "TOR 94 - MIN 117 (Final)",
-      "nba-20-8-2026-10-25": "DET 106 - PHI 93 (Final)",
-      "nba-23-29-2026-10-25": "MEM 123 - SAC 112 (Final)",
       "nba-27-30-2026-10-26": "WSH 103 - CHA 110 (Final)",
       "nba-2-4-2026-10-26": "CHI 99 - BOS 134 (Final)",
       "nba-16-5-2026-10-26": "MIN 125 - CLE 127 (Final)",
@@ -25,47 +18,18 @@
       "mlb-30-8-2026-10-26": "MIL 10 - TB 1 (Final)"
     },
     "nhl": {
-      "nhl-26-4-2026-10-25": "FLA 3 - CHI 2 (Final)",
-      "nhl-12-9-2026-10-25": "NYI 3 - DAL 6 (Final)",
-      "nhl-10-28-2026-10-25": "MTL 2 - WPG 1 (Final)",
-      "nhl-17-27-2026-10-25": "COL 2 - NSH 6 (Final)",
-      "nhl-22-30-2026-10-25": "MIN 4 - VAN 2 (Final)",
       "nhl-13-8-2026-10-26": "LA 6 - NYR 3 (Final)",
       "nhl-21-3-2026-10-26": "TOR 2 - CGY 5 (Final)",
       "nhl-5-6-2026-10-26": "DET 4 - EDM 3 (Final)"
     },
     "nfl": {
-      "nfl-18-23-2026-10-25": "PIT 16 - NO 10 (Final)",
-      "nfl-11-16-2026-10-25": "IND 10 - MIN 16 (Final)",
-      "nfl-15-20-2026-10-25": "MIA 28 - NYJ 25 (Final)",
-      "nfl-27-29-2026-10-25": "TB 43 - CAR 13 (Final)",
-      "nfl-33-4-2026-10-25": "CIN 35 - BAL 13 (Final)",
-      "nfl-1-25-2026-10-25": "SF 20 - ATL 29 (Final)",
-      "nfl-10-5-2026-10-25": "CLE 27 - TEN 24 (Final)",
-      "nfl-19-34-2026-10-25": "NYG 27 - HOU 21 (Final)",
-      "nfl-22-7-2026-10-25": "DEN 30 - ARI 16 (Final)",
-      "nfl-8-9-2026-10-25": "GB 17 - DET 20 (Final)",
-      "nfl-13-14-2026-10-25": "LAR 35 - LV 21 (Final)",
-      "nfl-12-26-2026-10-25": "KC 3 - SEA 20 (Final)",
       "nfl-21-6-2026-10-26": "DAL 38 - PHI 21 (Final)"
     },
     "ncaamb": {},
     "ncaawb": {},
-    "mls": {
-      "mls-187-18966-2026-10-25": "LA 2 - LAFC 2 (Final)"
-    },
-    "nwsl": {
-      "nwsl-15364-18206-2026-10-25": "GFC 2 - ORL 1 (Final)",
-      "nwsl-15365-20907-2026-10-25": "WAS 1 - KC 2 (Final)",
-      "nwsl-131562-21423-2026-10-25": "BOS 2 - SD 2 (Final)"
-    },
-    "premier-league": {
-      "premier-league-361-384-2026-10-25": "NEW 2 - CRY 0 (Final)",
-      "premier-league-306-337-2026-10-25": "BRE 1 - HUL 1 (Final)",
-      "premier-league-331-364-2026-10-25": "BHA 0 - LIV 2 (Final)",
-      "premier-league-349-360-2026-10-25": "BOU 3 - MAN 0 (Final)",
-      "premier-league-357-366-2026-10-25": "LEE 0 - SUN 0 (Final)"
-    },
+    "mls": {},
+    "nwsl": {},
+    "premier-league": {},
     "champions-league": {},
     "europa-league": {},
     "ncaaf": {},
@@ -84,34 +48,16 @@
     "lpga": {},
     "efl-championship": {},
     "la-liga": {
-      "la-liga-2922-93-2026-10-25": "GET 0 - ATH 4 (Final)",
-      "la-liga-244-85-2026-10-25": "BET 0 - CEL 0 (Final)",
-      "la-liga-1538-89-2026-10-25": "LEV 1 - RSO 2 (Final)",
-      "la-liga-83-86-2026-10-25": "RMA 2 - BAR 1 (Final)",
       "la-liga-243-97-2026-10-26": "OSA 0 - SEV 2 (Final)"
     },
-    "bundesliga": {
-      "bundesliga-131-7911-2026-10-25": "B04 0 - TSG 3 (Final)",
-      "bundesliga-126-132-2026-10-25": "MUN 3 - SCF 1 (Final)"
-    },
-    "serie-a": {
-      "serie-a-109-110-2026-10-25": "FIO 1 - INT 2 (Final)",
-      "serie-a-105-4057-2026-10-25": "FRO 4 - ATA 4 (Final)",
-      "serie-a-17530-3263-2026-10-25": "VEN 0 - GEN 1 (Final)",
-      "serie-a-111-113-2026-10-25": "JUV 2 - LEC 0 (Final)",
-      "serie-a-103-118-2026-10-25": "MIL 2 - UDI 0 (Final)"
-    },
+    "bundesliga": {},
+    "serie-a": {},
     "ligue-1": {},
-    "ncaah": {
-      "ncaah-2137-261-2026-10-25": "UVM 1 - CLAR 2 (Final)"
-    },
+    "ncaah": {},
     "ncaawh": {
       "ncaawh-103-24059-2026-10-26": "MNST 2 - BC 1 (Final)"
     },
-    "nbl": {
-      "nbl-3-6-2026-10-25": "NZL 84 - CNS 86 (Final)",
-      "nbl-5-9-2026-10-25": "SYD 95 - MEL 105 (Final)"
-    },
+    "nbl": {},
     "cfl": {},
     "eur": {}
   }
