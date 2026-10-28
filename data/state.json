@@ -1,30 +1,15 @@
 {
   "published": {
     "nba": {
-      "nba-27-30-2026-10-26": "WSH 103 - CHA 110 (Final)",
-      "nba-2-4-2026-10-26": "CHI 99 - BOS 134 (Final)",
-      "nba-16-5-2026-10-26": "MIN 125 - CLE 127 (Final)",
-      "nba-14-6-2026-10-26": "DAL 113 - MIA 109 (Final)",
-      "nba-21-25-2026-10-26": "PHX 114 - OKC 125 (Final)",
-      "nba-11-15-2026-10-26": "IND 102 - MIL 110 (Final)",
-      "nba-1-10-2026-10-26": "ATL 110 - HOU 120 (Final)",
-      "nba-26-29-2026-10-26": "MEM 110 - UTAH 105 (Final)",
-      "nba-7-9-2026-10-26": "GS 134 - DEN 114 (Final)",
       "nba-23-24-2026-10-27": "SAC 103 - SA 130 (Final)",
       "nba-17-2-2026-10-27": "BKN 124 - BOS 125 (Final)",
       "nba-18-8-2026-10-27": "DET 97 - NY 111 (Final)"
     },
-    "wnba": {
-      "wnba-129689-20-2026-10-26": "ATL 55 - GS 64 (Final)"
-    },
+    "wnba": {},
     "mlb": {
-      "mlb-30-8-2026-10-26": "MIL 10 - TB 1 (Final)",
       "mlb-30-8-2026-10-27": "MIL 3 - TB 4 (Final)"
     },
     "nhl": {
-      "nhl-13-8-2026-10-26": "LA 6 - NYR 3 (Final)",
-      "nhl-21-3-2026-10-26": "TOR 2 - CGY 5 (Final)",
-      "nhl-5-6-2026-10-26": "DET 4 - EDM 3 (Final)",
       "nhl-15-29-2026-10-27": "CBJ 4 - PHI 3 (Final)",
       "nhl-1-7-2026-10-27": "BOS 1 - CAR 2 (Final)",
       "nhl-4-8-2026-10-27": "LA 1 - CHI 2 (Final)",
@@ -33,11 +18,10 @@
       "nhl-26-28-2026-10-27": "FLA 5 - WPG 1 (Final)",
       "nhl-12-27-2026-10-27": "NYI 4 - NSH 3 (Final)",
       "nhl-129764-30-2026-10-27": "MIN 3 - UTA 1 (Final)",
-      "nhl-14-37-2026-10-27": "OTT 1 - VGK 4 (Final)"
+      "nhl-14-37-2026-10-27": "OTT 1 - VGK 4 (Final)",
+      "nhl-22-25-2026-10-27": "VAN 6 - ANA 5 (Final)"
     },
-    "nfl": {
-      "nfl-21-6-2026-10-26": "DAL 38 - PHI 21 (Final)"
-    },
+    "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
     "mls": {},
@@ -63,9 +47,7 @@
     "pga": {},
     "lpga": {},
     "efl-championship": {},
-    "la-liga": {
-      "la-liga-243-97-2026-10-26": "OSA 0 - SEV 2 (Final)"
-    },
+    "la-liga": {},
     "bundesliga": {},
     "serie-a": {
       "serie-a-112-3997-2026-10-27": "LAZ 6 - SAS 2 (Final)",
@@ -74,9 +56,7 @@
     },
     "ligue-1": {},
     "ncaah": {},
-    "ncaawh": {
-      "ncaawh-103-24059-2026-10-26": "MNST 2 - BC 1 (Final)"
-    },
+    "ncaawh": {},
     "nbl": {},
     "cfl": {},
     "eur": {}
