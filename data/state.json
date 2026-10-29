@@ -6,7 +6,8 @@
       "nba-18-8-2026-10-27": "DET 97 - NY 111 (Final)",
       "nba-13-22-2026-10-27": "POR 136 - LAL 129 (Final)",
       "nba-1-14-2026-10-28": "MIA 129 - ATL 117 (Final)",
-      "nba-27-5-2026-10-28": "WSH 111 - CLE 121 (Final)"
+      "nba-27-5-2026-10-28": "WSH 111 - CLE 121 (Final)",
+      "nba-30-8-2026-10-28": "CHA 89 - DET 97 (Final)"
     },
     "wnba": {},
     "mlb": {
@@ -28,7 +29,13 @@
     "nfl": {},
     "ncaamb": {},
     "ncaawb": {},
-    "mls": {},
+    "mls": {
+      "mls-21300-9720-2026-10-28": "MTL 0 - CLT 4 (Final)",
+      "mls-18267-20232-2026-10-28": "CIN 2 - MIA 2 (Final)",
+      "mls-189-190-2026-10-28": "RBNY 2 - NE 3 (Final)",
+      "mls-17606-18418-2026-10-28": "ATL 1 - NYC 2 (Final)",
+      "mls-193-7318-2026-10-28": "DC 1 - TOR 2 (Final)"
+    },
     "nwsl": {},
     "premier-league": {},
     "champions-league": {},
