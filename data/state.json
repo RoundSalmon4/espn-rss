@@ -17,7 +17,8 @@
     },
     "wnba": {},
     "mlb": {
-      "mlb-30-8-2026-10-27": "MIL 3 - TB 4 (Final)"
+      "mlb-30-8-2026-10-27": "MIL 3 - TB 4 (Final)",
+      "mlb-30-8-2026-10-28": "MIL 4 - TB 1 (Final)"
     },
     "nhl": {
       "nhl-15-29-2026-10-27": "CBJ 4 - PHI 3 (Final)",
@@ -31,7 +32,8 @@
       "nhl-14-37-2026-10-27": "OTT 1 - VGK 4 (Final)",
       "nhl-22-25-2026-10-27": "VAN 6 - ANA 5 (Final)",
       "nhl-18-2-2026-10-27": "BUF 2 - SJ 0 (Final)",
-      "nhl-15-23-2026-10-28": "PHI 2 - WSH 5 (Final)"
+      "nhl-15-23-2026-10-28": "PHI 2 - WSH 5 (Final)",
+      "nhl-3-6-2026-10-28": "CGY 0 - EDM 4 (Final)"
     },
     "nfl": {},
     "ncaamb": {},
@@ -56,7 +58,8 @@
     "ncaaf": {
       "ncaaf-48-98-2026-10-27": "DEL 35 - WKU 21 (Final)",
       "ncaaf-2534-2623-2026-10-27": "SHSU 3 - MOST 24 (Final)",
-      "ncaaf-2393-338-2026-10-28": "KENN 44 - MTSU 28 (Final)"
+      "ncaaf-2393-338-2026-10-28": "KENN 44 - MTSU 28 (Final)",
+      "ncaaf-166-55-2026-10-28": "JXST 24 - NMSU 0 (Final)"
     },
     "ncaab": {},
     "ncaasoftball": {},
