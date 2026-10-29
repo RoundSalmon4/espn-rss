@@ -1,10 +1,6 @@
 {
   "published": {
     "nba": {
-      "nba-23-24-2026-10-27": "SAC 103 - SA 130 (Final)",
-      "nba-17-2-2026-10-27": "BKN 124 - BOS 125 (Final)",
-      "nba-18-8-2026-10-27": "DET 97 - NY 111 (Final)",
-      "nba-13-22-2026-10-27": "POR 136 - LAL 129 (Final)",
       "nba-1-14-2026-10-28": "MIA 129 - ATL 117 (Final)",
       "nba-27-5-2026-10-28": "WSH 111 - CLE 121 (Final)",
       "nba-30-8-2026-10-28": "CHA 89 - DET 97 (Final)",
@@ -19,21 +15,9 @@
     },
     "wnba": {},
     "mlb": {
-      "mlb-30-8-2026-10-27": "MIL 3 - TB 4 (Final)",
       "mlb-30-8-2026-10-28": "MIL 4 - TB 1 (Final)"
     },
     "nhl": {
-      "nhl-15-29-2026-10-27": "CBJ 4 - PHI 3 (Final)",
-      "nhl-1-7-2026-10-27": "BOS 1 - CAR 2 (Final)",
-      "nhl-4-8-2026-10-27": "LA 1 - CHI 2 (Final)",
-      "nhl-10-19-2026-10-27": "MTL 2 - STL 0 (Final)",
-      "nhl-11-9-2026-10-27": "NJ 5 - DAL 1 (Final)",
-      "nhl-26-28-2026-10-27": "FLA 5 - WPG 1 (Final)",
-      "nhl-12-27-2026-10-27": "NYI 4 - NSH 3 (Final)",
-      "nhl-129764-30-2026-10-27": "MIN 3 - UTA 1 (Final)",
-      "nhl-14-37-2026-10-27": "OTT 1 - VGK 4 (Final)",
-      "nhl-22-25-2026-10-27": "VAN 6 - ANA 5 (Final)",
-      "nhl-18-2-2026-10-27": "BUF 2 - SJ 0 (Final)",
       "nhl-15-23-2026-10-28": "PHI 2 - WSH 5 (Final)",
       "nhl-3-6-2026-10-28": "CGY 0 - EDM 4 (Final)",
       "nhl-11-17-2026-10-28": "NJ 2 - COL 5 (Final)",
@@ -63,8 +47,6 @@
     "champions-league": {},
     "europa-league": {},
     "ncaaf": {
-      "ncaaf-48-98-2026-10-27": "DEL 35 - WKU 21 (Final)",
-      "ncaaf-2534-2623-2026-10-27": "SHSU 3 - MOST 24 (Final)",
       "ncaaf-2393-338-2026-10-28": "KENN 44 - MTSU 28 (Final)",
       "ncaaf-166-55-2026-10-28": "JXST 24 - NMSU 0 (Final)"
     },
@@ -85,9 +67,6 @@
     "la-liga": {},
     "bundesliga": {},
     "serie-a": {
-      "serie-a-112-3997-2026-10-27": "LAZ 6 - SAS 2 (Final)",
-      "serie-a-104-2925-2026-10-27": "CAG 2 - ROMA 4 (Final)",
-      "serie-a-239-2572-2026-10-27": "COMO 3 - TOR 1 (Final)",
       "serie-a-103-107-2026-10-28": "BOL 4 - MIL 2 (Final)",
       "serie-a-115-118-2026-10-28": "UDI 0 - PAR 0 (Final)",
       "serie-a-110-17530-2026-10-28": "INT 2 - VEN 0 (Final)",
