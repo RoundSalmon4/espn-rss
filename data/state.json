@@ -36,7 +36,9 @@
       "nhl-12-30-2026-10-29": "NYI 4 - MIN 3 (Final)",
       "nhl-23-27-2026-10-29": "WSH 4 - NSH 3 (Final)"
     },
-    "nfl": {},
+    "nfl": {
+      "nfl-29-9-2026-10-29": "CAR 19 - GB 27 (Final)"
+    },
     "ncaamb": {},
     "ncaawb": {},
     "mls": {
@@ -61,7 +63,9 @@
     "europa-league": {},
     "ncaaf": {
       "ncaaf-2393-338-2026-10-28": "KENN 44 - MTSU 28 (Final)",
-      "ncaaf-166-55-2026-10-28": "JXST 24 - NMSU 0 (Final)"
+      "ncaaf-166-55-2026-10-28": "JXST 24 - NMSU 0 (Final)",
+      "ncaaf-2226-249-2026-10-29": "FAU 41 - UNT 48 (Final)",
+      "ncaaf-256-2653-2026-10-29": "TROY 24 - JMU 21 (Final)"
     },
     "ncaab": {},
     "ncaasoftball": {},
