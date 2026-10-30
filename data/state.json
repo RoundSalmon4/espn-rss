@@ -79,9 +79,13 @@
       "serie-a-105-109-2026-10-29": "ATA 2 - FIO 2 (Final)"
     },
     "ligue-1": {},
-    "ncaah": {},
+    "ncaah": {
+      "ncaah-108-113-2026-10-29": "MASS 1 - HARV 2 (Final)",
+      "ncaah-110133-2711-2026-10-29": "LIU 2 - WMU 10 (Final)"
+    },
     "ncaawh": {
-      "ncaawh-183-48-2026-10-29": "DEL 1 - SYR 0 (Final)"
+      "ncaawh-183-48-2026-10-29": "DEL 1 - SYR 0 (Final)",
+      "ncaawh-107-41-2026-10-29": "CONN 0 - HC 0 (Final)"
     },
     "nbl": {
       "nbl-7-9-2026-10-28": "SYD 99 - PER 91 (Final)",
