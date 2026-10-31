@@ -20,7 +20,8 @@
       "nhl-23-27-2026-10-29": "WSH 4 - NSH 3 (Final)",
       "nhl-18-22-2026-10-29": "VAN 2 - SJ 3 (Final)",
       "nhl-2-25-2026-10-29": "BUF 7 - ANA 6 (Final)",
-      "nhl-14-8-2026-10-29": "OTT 5 - LA 6 (Final)"
+      "nhl-14-8-2026-10-29": "OTT 5 - LA 6 (Final)",
+      "nhl-11-37-2026-10-30": "NJ 5 - VGK 2 (Final)"
     },
     "nfl": {
       "nfl-29-9-2026-10-29": "CAR 19 - GB 27 (Final)"
@@ -42,7 +43,11 @@
     "wla": {},
     "tennis": {},
     "atp": {},
-    "ncaaw": {},
+    "ncaaw": {
+      "ncaaw-2454-526-2026-10-30": "UNF 1 - FGCU 3 (Final)",
+      "ncaaw-2511-91-2026-10-30": "QUC 3 - BELL 1 (Final)",
+      "ncaaw-2697-288-2026-10-30": "UWF 0 - LIP 3 (Final)"
+    },
     "ncaam": {},
     "f1": {},
     "indycar": {},
@@ -87,7 +92,8 @@
       "ncaawh-178-213-2026-10-30": "PSU 1 - RIT 0 (Final)",
       "ncaawh-2514-43-2026-10-30": "YALE 3 - QUIN 1 (Final)",
       "ncaawh-163-225-2026-10-30": "BRWN 1 - PRIN 3 (Final)",
-      "ncaawh-107-41-2026-10-30": "HC 0 - CONN 1 (Final)"
+      "ncaawh-107-41-2026-10-30": "HC 0 - CONN 1 (Final)",
+      "ncaawh-2830-284-2026-10-30": "STO 7 - STA 7 (Final)"
     },
     "nbl": {
       "nbl-2-3-2026-10-29": "CNS 107 - BRI 85 (Final)",
