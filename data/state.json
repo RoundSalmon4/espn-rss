@@ -32,7 +32,8 @@
       "premier-league-337-393-2026-10-31": "NFO 0 - BRE 2 (Final)",
       "premier-league-366-388-2026-10-31": "SUN 1 - COV 3 (Final)",
       "premier-league-306-373-2026-10-31": "IPS 2 - HUL 2 (Final)",
-      "premier-league-331-382-2026-10-31": "BHA 1 - MNC 0 (Final)"
+      "premier-league-331-382-2026-10-31": "BHA 1 - MNC 0 (Final)",
+      "premier-league-367-384-2026-10-31": "CRY 0 - TOT 2 (Final)"
     },
     "champions-league": {},
     "europa-league": {},
@@ -42,7 +43,11 @@
       "ncaaf-16-2309-2026-10-30": "KENT 10 - SAC 31 (Final)",
       "ncaaf-120-356-2026-10-31": "ILL 20 - MD 17 (Final)",
       "ncaaf-189-2711-2026-10-31": "BGSU 10 - WMU 23 (Final)",
-      "ncaaf-2426-87-2026-10-31": "ND 35 - NAVY 13 (Final)"
+      "ncaaf-2426-87-2026-10-31": "ND 35 - NAVY 13 (Final)",
+      "ncaaf-103-150-2026-10-31": "BC 2 - DUKE 47 (Final)",
+      "ncaaf-5-58-2026-10-31": "UAB 10 - USF 30 (Final)",
+      "ncaaf-2294-275-2026-10-31": "WIS 0 - IOWA 30 (Final)",
+      "ncaaf-152-25-2026-10-31": "CAL 10 - NCSU 31 (Final)"
     },
     "ncaab": {},
     "ncaasoftball": {},
@@ -80,7 +85,8 @@
     "la-liga": {
       "la-liga-102-88-2026-10-30": "ESP 1 - VIL 0 (Final)",
       "la-liga-1068-1538-2026-10-31": "ATM 2 - LEV 0 (Final)",
-      "la-liga-101-85-2026-10-31": "CEL 0 - RAY 3 (Final)"
+      "la-liga-101-85-2026-10-31": "CEL 0 - RAY 3 (Final)",
+      "la-liga-244-99-2026-10-31": "MCF 1 - BET 2 (Final)"
     },
     "bundesliga": {
       "bundesliga-10388-2950-2026-10-30": "M05 1 - ELV 4 (Final)",
@@ -88,7 +94,8 @@
       "bundesliga-268-3307-2026-10-31": "SCP 0 - BMG 0 (Final)",
       "bundesliga-126-3841-2026-10-31": "SCF 2 - FCA 1 (Final)",
       "bundesliga-11420-133-2026-10-31": "RBL 2 - S04 0 (Final)",
-      "bundesliga-137-7911-2026-10-31": "TSG 0 - SVW 2 (Final)"
+      "bundesliga-137-7911-2026-10-31": "TSG 0 - SVW 2 (Final)",
+      "bundesliga-124-132-2026-10-31": "DOR 2 - MUN 2 (Final)"
     },
     "serie-a": {
       "serie-a-107-4007-2026-10-31": "MON 1 - BOL 2 (Final)",
