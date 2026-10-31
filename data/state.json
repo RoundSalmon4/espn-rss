@@ -25,7 +25,10 @@
     "ncaamb": {},
     "ncaawb": {},
     "mls": {
-      "mls-12011-21300-2026-10-31": "ORL 0 - CLT 4 (Final)"
+      "mls-12011-21300-2026-10-31": "ORL 0 - CLT 4 (Final)",
+      "mls-183-193-2026-10-31": "DC 0 - CLB 3 (Final)",
+      "mls-10739-18267-2026-10-31": "PHI 0 - CIN 1 (Final)",
+      "mls-17606-9720-2026-10-31": "MTL 1 - NYC 1 (Final)"
     },
     "nwsl": {},
     "premier-league": {
@@ -52,7 +55,8 @@
       "ncaaf-152-25-2026-10-31": "CAL 10 - NCSU 31 (Final)",
       "ncaaf-130-164-2026-10-31": "MICH 28 - RUTG 21 (Final)",
       "ncaaf-12-2641-2026-10-31": "ARIZ 26 - TTU 34 (Final)",
-      "ncaaf-183-2567-2026-10-31": "SMU 27 - SYR 30 (Final)"
+      "ncaaf-183-2567-2026-10-31": "SMU 27 - SYR 30 (Final)",
+      "ncaaf-145-2-2026-10-31": "AUB 15 - MISS 45 (Final)"
     },
     "ncaab": {},
     "ncaasoftball": {},
@@ -157,7 +161,13 @@
       "ncaawh-24059-2900-2026-10-30": "MNST 1 - STMN 4 (Final)",
       "ncaawh-121934-2529-2026-10-30": "SHU 2 - FRANK 5 (Final)",
       "ncaawh-134-135-2026-10-30": "MINN 3 - UMD 2 (Final)",
-      "ncaawh-127962-2385-2026-10-31": "ASP 0 - MERC 3 (Final)"
+      "ncaawh-127962-2385-2026-10-31": "ASP 0 - MERC 3 (Final)",
+      "ncaawh-2594-275-2026-10-31": "WIS 7 - SCSU 2 (Final)",
+      "ncaawh-2830-284-2026-10-31": "STA 7 - STO 3 (Final)",
+      "ncaawh-2341-260-2026-10-31": "STMIK 1 - LIU 7 (Final)",
+      "ncaawh-160-2771-2026-10-31": "MRMK 3 - UNH 2 (Final)",
+      "ncaawh-178-213-2026-10-31": "PSU 6 - RIT 0 (Final)",
+      "ncaawh-103-261-2026-10-31": "UVM 1 - BC 3 (Final)"
     },
     "nbl": {
       "nbl-1-6-2026-10-30": "ADL 108 - NZL 101 (Final)",
