@@ -30,7 +30,9 @@
       "mls-12011-21300-2026-10-31": "ORL 0 - CLT 4 (Final)",
       "mls-183-193-2026-10-31": "DC 0 - CLB 3 (Final)",
       "mls-10739-18267-2026-10-31": "PHI 0 - CIN 1 (Final)",
-      "mls-17606-9720-2026-10-31": "MTL 1 - NYC 1 (Final)"
+      "mls-17606-9720-2026-10-31": "MTL 1 - NYC 1 (Final)",
+      "mls-185-186-2026-10-31": "DAL 1 - SKC 1 (Final)",
+      "mls-21812-22529-2026-10-31": "SD 1 - STL 0 (Final)"
     },
     "nwsl": {},
     "premier-league": {
@@ -174,7 +176,13 @@
       "ncaawh-178-213-2026-10-31": "PSU 6 - RIT 0 (Final)",
       "ncaawh-103-261-2026-10-31": "UVM 1 - BC 3 (Final)",
       "ncaawh-2507-311-2026-10-31": "PROV 1 - ME 3 (Final)",
-      "ncaawh-108-2779-2026-10-31": "USL 4 - HARV 0 (Final)"
+      "ncaawh-108-2779-2026-10-31": "USL 4 - HARV 0 (Final)",
+      "ncaawh-132-194-2026-10-31": "BST 1 - OSU 5 (Final)",
+      "ncaawh-24059-2900-2026-10-31": "STMN 1 - MNST 2 (Final)",
+      "ncaawh-159-2137-2026-10-31": "CLAR 4 - DART 1 (Final)",
+      "ncaawh-2142-2785-2026-10-31": "UNNY 1 - COLG 3 (Final)",
+      "ncaawh-172-2528-2026-10-31": "RPI 1 - COR 4 (Final)",
+      "ncaawh-163-43-2026-10-31": "YALE 1 - PRIN 2 (Final)"
     },
     "nbl": {
       "nbl-1-6-2026-10-30": "ADL 108 - NZL 101 (Final)",
