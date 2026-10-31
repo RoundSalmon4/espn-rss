@@ -24,7 +24,9 @@
     "ncaawb": {},
     "mls": {},
     "nwsl": {},
-    "premier-league": {},
+    "premier-league": {
+      "premier-league-360-363-2026-10-31": "MAN 0 - CHE 2 (Final)"
+    },
     "champions-league": {},
     "europa-league": {},
     "ncaaf": {
@@ -52,7 +54,9 @@
     "pga": {},
     "lpga": {},
     "efl-championship": {
-      "efl-championship-352-398-2026-10-30": "WXM 0 - SHU 1 (Final)"
+      "efl-championship-352-398-2026-10-30": "WXM 0 - SHU 1 (Final)",
+      "efl-championship-381-395-2026-10-31": "WAT 2 - NOR 3 (Final)",
+      "efl-championship-336-394-2026-10-31": "PNE 0 - STK 2 (Final)"
     },
     "la-liga": {
       "la-liga-102-88-2026-10-30": "ESP 1 - VIL 0 (Final)"
