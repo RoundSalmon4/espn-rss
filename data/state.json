@@ -27,7 +27,11 @@
       "nhl-28-7-2026-11-01": "WPG 0 - CAR 7 (Final)"
     },
     "nfl": {
-      "nfl-1-27-2026-11-01": "ATL 0 - TB 16 (Final)"
+      "nfl-1-27-2026-11-01": "ATL 0 - TB 16 (Final)",
+      "nfl-16-8-2026-11-01": "MIN 15 - DET 19 (Final)",
+      "nfl-23-5-2026-11-01": "CLE 6 - PIT 27 (Final)",
+      "nfl-11-30-2026-11-01": "IND 7 - JAX 42 (Final)",
+      "nfl-13-20-2026-11-01": "LV 38 - NYJ 33 (Final)"
     },
     "ncaamb": {
       "ncaamb-222-87-2026-11-01": "ND 74 - VILL 72 (Final)"
@@ -119,7 +123,8 @@
       "ncaaw-2335-338-2026-10-31": "LIB 3 - KENN 1 (Final)",
       "ncaaw-2511-288-2026-10-31": "QUC 0 - LIP 3 (Final)",
       "ncaaw-2697-91-2026-10-31": "UWF 3 - BELL 1 (Final)",
-      "ncaaw-294-526-2026-11-01": "JAX 0 - FGCU 3 (Final)"
+      "ncaaw-294-526-2026-11-01": "JAX 0 - FGCU 3 (Final)",
+      "ncaaw-2454-56-2026-11-01": "UNF 3 - STET 2 (Final)"
     },
     "ncaam": {},
     "f1": {},
