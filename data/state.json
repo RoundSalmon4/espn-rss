@@ -29,7 +29,9 @@
     "ncaamb": {
       "ncaamb-222-87-2026-11-01": "ND 74 - VILL 72 (Final)"
     },
-    "ncaawb": {},
+    "ncaawb": {
+      "ncaawb-222-87-2026-11-01": "ND 99 - VILL 75 (Final)"
+    },
     "mls": {
       "mls-12011-21300-2026-10-31": "ORL 0 - CLT 4 (Final)",
       "mls-183-193-2026-10-31": "DC 0 - CLB 3 (Final)",
@@ -140,7 +142,8 @@
       "la-liga-244-99-2026-10-31": "MCF 1 - BET 2 (Final)",
       "la-liga-83-96-2026-10-31": "ALA 1 - BAR 6 (Final)",
       "la-liga-243-2922-2026-11-01": "SEV 1 - GET 3 (Final)",
-      "la-liga-86-87-2026-11-01": "RMA 3 - RAC 0 (Final)"
+      "la-liga-86-87-2026-11-01": "RMA 3 - RAC 0 (Final)",
+      "la-liga-3751-94-2026-11-01": "VAL 1 - ELC 0 (Final)"
     },
     "bundesliga": {
       "bundesliga-131-134-2026-10-31": "VFB 4 - B04 2 (Final)",
