@@ -13,9 +13,13 @@
       "nba-13-9-2026-10-30": "LAL 95 - GS 112 (Final)",
       "nba-22-26-2026-10-31": "POR 112 - UTAH 90 (Final)",
       "nba-20-30-2026-10-31": "PHI 109 - CHA 104 (Final)",
-      "nba-1-3-2026-10-31": "ATL 99 - NO 121 (Final)"
+      "nba-1-3-2026-10-31": "ATL 99 - NO 121 (Final)",
+      "nba-15-5-2026-10-31": "CLE 136 - MIL 111 (Final)",
+      "nba-16-24-2026-10-31": "MIN 111 - SA 121 (Final)"
     },
-    "wnba": {},
+    "wnba": {
+      "wnba-129689-20-2026-10-31": "ATL 63 - GS 68 (Final)"
+    },
     "mlb": {},
     "nhl": {
       "nhl-11-37-2026-10-30": "NJ 5 - VGK 2 (Final)",
@@ -198,7 +202,9 @@
       "ncaah-135-213-2026-10-31": "PSU 3 - MINN 4 (Final)",
       "ncaah-132-2222-2026-10-31": "FRST 4 - BST 4 (Final)",
       "ncaah-193-2900-2026-10-31": "STMN 4 - M-OH 1 (Final)",
-      "ncaah-2364-285-2026-10-31": "LSS 2 - MNST 2 (Final)"
+      "ncaah-2364-285-2026-10-31": "LSS 2 - MNST 2 (Final)",
+      "ncaah-128-2043-2026-10-31": "NMI 1 - AUSD 4 (Final)",
+      "ncaah-2142-2349-2026-10-31": "UML 3 - COLG 4 (Final)"
     },
     "ncaawh": {
       "ncaawh-159-2779-2026-10-30": "USL 2 - DART 0 (Final)",
