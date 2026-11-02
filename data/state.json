@@ -37,7 +37,8 @@
       "nfl-13-20-2026-11-01": "LV 38 - NYJ 33 (Final)",
       "nfl-2-33-2026-11-01": "BAL 10 - BUF 36 (Final)",
       "nfl-10-4-2026-11-01": "TEN 36 - CIN 43 (Final)",
-      "nfl-22-6-2026-11-01": "ARI 33 - DAL 30 (Final)"
+      "nfl-22-6-2026-11-01": "ARI 33 - DAL 30 (Final)",
+      "nfl-14-24-2026-11-01": "LAC 9 - LAR 24 (Final)"
     },
     "ncaamb": {
       "ncaamb-222-87-2026-11-01": "ND 74 - VILL 72 (Final)"
@@ -59,7 +60,9 @@
       "mls-18418-7318-2026-11-01": "TOR 1 - ATL 3 (Final)",
       "mls-18986-190-2026-11-01": "RBNY 2 - NSH 3 (Final)"
     },
-    "nwsl": {},
+    "nwsl": {
+      "nwsl-15363-18206-2026-11-01": "ORL 0 - SEA 1 (Final)"
+    },
     "premier-league": {
       "premier-league-360-363-2026-10-31": "MAN 0 - CHE 2 (Final)",
       "premier-league-349-357-2026-10-31": "LEE 0 - BOU 2 (Final)",
