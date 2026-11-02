@@ -75,7 +75,9 @@
       "ncaawb-12-24-2026-11-02": "ARIZ 84 - STAN 69 (Final)",
       "ncaawb-2606-70-2026-11-02": "STMA 47 - IDHO 71 (Final)",
       "ncaawb-2599-322-2026-11-02": "LAF 37 - SJU 95 (Final)",
-      "ncaawb-2329-26-2026-11-02": "LEH 53 - UCLA 73 (Final)"
+      "ncaawb-2329-26-2026-11-02": "LEH 53 - UCLA 73 (Final)",
+      "ncaawb-153-201-2026-11-02": "OU 91 - UNC 79 (Final)",
+      "ncaawb-2569-3174-2026-11-02": "TCJ 42 - SCST 112 (Final)"
     },
     "mls": {
       "mls-9726-9727-2026-11-01": "SEA 1 - VAN 5 (Final)",
@@ -96,7 +98,8 @@
       "nwsl-15360-15365-2026-11-01": "CHI 0 - WAS 2 (Final)"
     },
     "premier-league": {
-      "premier-league-359-364-2026-11-01": "ARS 1 - LIV 0 (Final)"
+      "premier-league-359-364-2026-11-01": "ARS 1 - LIV 0 (Final)",
+      "premier-league-361-368-2026-11-02": "EVE 1 - NEW 0 (Final)"
     },
     "champions-league": {},
     "europa-league": {},
@@ -122,7 +125,8 @@
       "la-liga-243-2922-2026-11-01": "SEV 1 - GET 3 (Final)",
       "la-liga-86-87-2026-11-01": "RMA 3 - RAC 0 (Final)",
       "la-liga-3751-94-2026-11-01": "VAL 1 - ELC 0 (Final)",
-      "la-liga-89-93-2026-11-01": "RSO 1 - ATH 2 (Final)"
+      "la-liga-89-93-2026-11-01": "RSO 1 - ATH 2 (Final)",
+      "la-liga-90-97-2026-11-02": "OSA 1 - DEP 2 (Final)"
     },
     "bundesliga": {
       "bundesliga-122-598-2026-11-01": "KOE 1 - FCU 1 (Final)",
