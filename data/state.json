@@ -8,7 +8,9 @@
       "nba-25-5-2026-11-02": "OKC 117 - CLE 112 (Final)",
       "nba-1-11-2026-11-02": "ATL 108 - IND 104 (Final)",
       "nba-19-27-2026-11-02": "WSH 103 - ORL 94 (Final)",
-      "nba-20-4-2026-11-02": "CHI 107 - PHI 126 (Final)"
+      "nba-20-4-2026-11-02": "CHI 107 - PHI 126 (Final)",
+      "nba-30-8-2026-11-02": "DET 124 - CHA 91 (Final)",
+      "nba-17-18-2026-11-02": "BKN 90 - NY 103 (Final)"
     },
     "wnba": {},
     "mlb": {},
@@ -152,7 +154,22 @@
       "ncaamb-195-6-2026-11-02": "OHIO 86 - USA 77 (Final)",
       "ncaamb-2698-305-2026-11-02": "WGA 58 - DEP 75 (Final)",
       "ncaamb-2309-2348-2026-11-02": "KENT 75 - LT 85 (Final)",
-      "ncaamb-2428-61-2026-11-02": "NCCU 62 - UGA 78 (Final)"
+      "ncaamb-2428-61-2026-11-02": "NCCU 62 - UGA 78 (Final)",
+      "ncaamb-2230-2305-2026-11-02": "FOR 65 - KU 95 (Final)",
+      "ncaamb-2674-2710-2026-11-02": "WIU 58 - VAL 80 (Final)",
+      "ncaamb-2561-2803-2026-11-02": "SIE 75 - BRY 80 (Final)",
+      "ncaamb-2628-2815-2026-11-02": "LIN 59 - TCU 98 (Final)",
+      "ncaamb-2567-2582-2026-11-02": "SOU 72 - SMU 85 (Final)",
+      "ncaamb-139-2329-2026-11-02": "LEH 67 - SLU 92 (Final)",
+      "ncaamb-2350-2643-2026-11-02": "CIT 52 - LUC 77 (Final)",
+      "ncaamb-2032-2649-2026-11-02": "TOL 70 - ARST 71 (Final)",
+      "ncaamb-2006-309-2026-11-02": "AKR 75 - UL 61 (Final)",
+      "ncaamb-140-156-2026-11-02": "KC 61 - CREI 76 (Final)",
+      "ncaamb-326-357-2026-11-02": "AMCC 55 - TXST 67 (Final)",
+      "ncaamb-112694-3084-2026-11-02": "WCOL 63 - UVU 84 (Final)",
+      "ncaamb-2001-25-2026-11-02": "ADSU 86 - CAL 115 (Final)",
+      "ncaamb-2046-6371-2026-11-02": "LANE 65 - APSU 109 (Final)",
+      "ncaamb-154-2379-2026-11-02": "UMES 62 - WAKE 83 (Final)"
     },
     "ncaawb": {
       "ncaawb-222-87-2026-11-01": "ND 99 - VILL 75 (Final)",
@@ -304,7 +321,11 @@
       "ncaawb-155-2772-2026-11-02": "MNCR 81 - UND 68 (Final)",
       "ncaawb-156-2571-2026-11-02": "CREI 73 - SDST 71 (Final)",
       "ncaawb-119-2294-2026-11-02": "TOW 45 - IOWA 73 (Final)",
-      "ncaawb-241-2534-2026-11-02": "MCM 59 - SHSU 111 (Final)"
+      "ncaawb-241-2534-2026-11-02": "MCM 59 - SHSU 111 (Final)",
+      "ncaawb-139-2393-2026-11-02": "SLU 84 - MTSU 91 (Final)",
+      "ncaawb-166-301-2026-11-02": "USD 61 - NMSU 56 (Final)",
+      "ncaawb-233-2789-2026-11-02": "YUNE 38 - SDAK 95 (Final)",
+      "ncaawb-2541-2751-2026-11-02": "SCU 84 - WYO 50 (Final)"
     },
     "mls": {
       "mls-9726-9727-2026-11-01": "SEA 1 - VAN 5 (Final)",
