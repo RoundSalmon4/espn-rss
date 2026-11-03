@@ -15,7 +15,8 @@
       "nba-15-16-2026-11-02": "MIL 100 - MIN 112 (Final)",
       "nba-29-3-2026-11-02": "NO 135 - MEM 134 (Final)",
       "nba-10-2-2026-11-02": "BOS 93 - HOU 109 (Final)",
-      "nba-24-26-2026-11-02": "UTAH 97 - SA 119 (Final)"
+      "nba-24-26-2026-11-02": "UTAH 97 - SA 119 (Final)",
+      "nba-22-7-2026-11-02": "POR 118 - DEN 110 (Final)"
     },
     "wnba": {},
     "mlb": {},
@@ -41,7 +42,8 @@
       "nfl-14-24-2026-11-01": "LAC 9 - LAR 24 (Final)",
       "nfl-12-7-2026-11-01": "KC 24 - DEN 28 (Final)",
       "nfl-15-17-2026-11-01": "NE 24 - MIA 19 (Final)",
-      "nfl-21-28-2026-11-01": "PHI 10 - WSH 27 (Final)"
+      "nfl-21-28-2026-11-01": "PHI 10 - WSH 27 (Final)",
+      "nfl-26-3-2026-11-02": "CHI 34 - SEA 17 (Final)"
     },
     "ncaamb": {
       "ncaamb-222-87-2026-11-01": "ND 74 - VILL 72 (Final)",
@@ -177,7 +179,7 @@
       "ncaamb-2046-6371-2026-11-02": "LANE 65 - APSU 109 (Final)",
       "ncaamb-154-2379-2026-11-02": "UMES 62 - WAKE 83 (Final)",
       "ncaamb-2065-231-2026-11-02": "FUR 79 - BCU 70 (Final)",
-      "ncaamb-2501-2930-2026-11-02": "WLMT 89 - PORT 133 (Final)",
+      "ncaamb-2501-2930-2026-11-02": "WLMT 87 - PORT 133 (Final)",
       "ncaamb-131784-2450-2026-11-02": "RGNT 45 - NORF 68 (Final)",
       "ncaamb-2437-3126-2026-11-02": "MAMC 65 - OMA 73 (Final)",
       "ncaamb-198-2110-2026-11-02": "ORU 55 - CARK 85 (Final)",
@@ -199,7 +201,12 @@
       "ncaamb-2235-278-2026-11-02": "FPU 79 - FRES 88 (Final)",
       "ncaamb-197-2916-2026-11-02": "UIW 60 - OKST 91 (Final)",
       "ncaamb-249-3238-2026-11-02": "SWCU 50 - UNT 122 (Final)",
-      "ncaamb-254-299-2026-11-02": "LBSU 63 - UTAH 66 (Final)"
+      "ncaamb-254-299-2026-11-02": "LBSU 63 - UTAH 66 (Final)",
+      "ncaamb-194-252-2026-11-02": "OSU 83 - BYU 94 (Final)",
+      "ncaamb-304-328-2026-11-02": "IDST 58 - USU 94 (Final)",
+      "ncaamb-2067-301-2026-11-02": "BIOL 62 - USD 79 (Final)",
+      "ncaamb-2325-248-2026-11-02": "LAS 55 - HOU 94 (Final)",
+      "ncaamb-50-52-2026-11-02": "FSU 112 - FAMU 69 (Final)"
     },
     "ncaawb": {
       "ncaawb-222-87-2026-11-01": "ND 99 - VILL 75 (Final)",
