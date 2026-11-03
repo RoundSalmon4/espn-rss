@@ -13,7 +13,8 @@
       "nba-17-18-2026-11-02": "BKN 90 - NY 103 (Final)",
       "nba-23-6-2026-11-02": "SAC 115 - DAL 100 (Final)",
       "nba-15-16-2026-11-02": "MIL 100 - MIN 112 (Final)",
-      "nba-29-3-2026-11-02": "NO 135 - MEM 134 (Final)"
+      "nba-29-3-2026-11-02": "NO 135 - MEM 134 (Final)",
+      "nba-10-2-2026-11-02": "BOS 93 - HOU 109 (Final)"
     },
     "wnba": {},
     "mlb": {},
@@ -24,7 +25,8 @@
       "nhl-13-6-2026-11-01": "EDM 4 - NYR 1 (Final)",
       "nhl-14-25-2026-11-01": "OTT 3 - ANA 6 (Final)",
       "nhl-26-5-2026-11-02": "DET 5 - FLA 3 (Final)",
-      "nhl-1-37-2026-11-02": "VGK 2 - BOS 3 (Final)"
+      "nhl-1-37-2026-11-02": "VGK 2 - BOS 3 (Final)",
+      "nhl-17-4-2026-11-02": "COL 5 - CHI 2 (Final)"
     },
     "nfl": {
       "nfl-1-27-2026-11-01": "ATL 0 - TB 16 (Final)",
@@ -180,7 +182,13 @@
       "ncaamb-198-2110-2026-11-02": "ORU 55 - CARK 85 (Final)",
       "ncaamb-201-2837-2026-11-02": "ETAM 68 - OU 64 (Final)",
       "ncaamb-548-55-2026-11-02": "LGC 59 - JXST 123 (Final)",
-      "ncaamb-2658-292-2026-11-02": "TAMK 51 - RGV 81 (Final)"
+      "ncaamb-2658-292-2026-11-02": "TAMK 51 - RGV 81 (Final)",
+      "ncaamb-145-2016-2026-11-02": "ALCN 58 - MISS 99 (Final)",
+      "ncaamb-22-2540-2026-11-02": "SFST 55 - UCSB 85 (Final)",
+      "ncaamb-2166-265-2026-11-02": "DAV 76 - WSU 61 (Final)",
+      "ncaamb-167-3101-2026-11-02": "UTU 60 - UNM 100 (Final)",
+      "ncaamb-2000-38-2026-11-02": "ACU 59 - COLO 94 (Final)",
+      "ncaamb-135-155-2026-11-02": "UND 50 - MINN 85 (Final)"
     },
     "ncaawb": {
       "ncaawb-222-87-2026-11-01": "ND 99 - VILL 75 (Final)",
@@ -338,7 +346,9 @@
       "ncaawb-233-2789-2026-11-02": "YUNE 38 - SDAK 95 (Final)",
       "ncaawb-2541-2751-2026-11-02": "SCU 84 - WYO 50 (Final)",
       "ncaawb-2005-2172-2026-11-02": "DEN 45 - AF 66 (Final)",
-      "ncaawb-21-2239-2026-11-02": "CSUF 51 - SDSU 77 (Final)"
+      "ncaawb-21-2239-2026-11-02": "CSUF 51 - SDSU 77 (Final)",
+      "ncaawb-2250-2449-2026-11-02": "NDSU 56 - GONZ 62 (Final)",
+      "ncaawb-109604-279-2026-11-02": "SUCA 42 - PAC 105 (Final)"
     },
     "mls": {
       "mls-9726-9727-2026-11-01": "SEA 1 - VAN 5 (Final)",
