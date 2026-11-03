@@ -28,7 +28,8 @@
       "nhl-14-25-2026-11-01": "OTT 3 - ANA 6 (Final)",
       "nhl-26-5-2026-11-02": "DET 5 - FLA 3 (Final)",
       "nhl-1-37-2026-11-02": "VGK 2 - BOS 3 (Final)",
-      "nhl-17-4-2026-11-02": "COL 5 - CHI 2 (Final)"
+      "nhl-17-4-2026-11-02": "COL 5 - CHI 2 (Final)",
+      "nhl-18-3-2026-11-02": "CGY 2 - SJ 1 (Final)"
     },
     "nfl": {
       "nfl-1-27-2026-11-01": "ATL 0 - TB 16 (Final)",
@@ -179,7 +180,7 @@
       "ncaamb-2046-6371-2026-11-02": "LANE 65 - APSU 109 (Final)",
       "ncaamb-154-2379-2026-11-02": "UMES 62 - WAKE 83 (Final)",
       "ncaamb-2065-231-2026-11-02": "FUR 79 - BCU 70 (Final)",
-      "ncaamb-2501-2930-2026-11-02": "WLMT 87 - PORT 133 (Final)",
+      "ncaamb-2501-2930-2026-11-02": "WLMT 89 - PORT 133 (Final)",
       "ncaamb-131784-2450-2026-11-02": "RGNT 45 - NORF 68 (Final)",
       "ncaamb-2437-3126-2026-11-02": "MAMC 65 - OMA 73 (Final)",
       "ncaamb-198-2110-2026-11-02": "ORU 55 - CARK 85 (Final)",
@@ -206,7 +207,10 @@
       "ncaamb-304-328-2026-11-02": "IDST 58 - USU 94 (Final)",
       "ncaamb-2067-301-2026-11-02": "BIOL 62 - USD 79 (Final)",
       "ncaamb-2325-248-2026-11-02": "LAS 55 - HOU 94 (Final)",
-      "ncaamb-50-52-2026-11-02": "FSU 112 - FAMU 69 (Final)"
+      "ncaamb-50-52-2026-11-02": "FSU 112 - FAMU 69 (Final)",
+      "ncaamb-2144-2458-2026-11-02": "COLC 64 - UNCO 117 (Final)",
+      "ncaamb-2253-2640-2026-11-02": "TXSO 79 - GCU 103 (Final)",
+      "ncaamb-204-2692-2026-11-02": "WEB 61 - ORST 102 (Final)"
     },
     "ncaawb": {
       "ncaawb-222-87-2026-11-01": "ND 99 - VILL 75 (Final)",
