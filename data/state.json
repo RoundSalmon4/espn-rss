@@ -14,7 +14,8 @@
       "nba-23-6-2026-11-02": "SAC 115 - DAL 100 (Final)",
       "nba-15-16-2026-11-02": "MIL 100 - MIN 112 (Final)",
       "nba-29-3-2026-11-02": "NO 135 - MEM 134 (Final)",
-      "nba-10-2-2026-11-02": "BOS 93 - HOU 109 (Final)"
+      "nba-10-2-2026-11-02": "BOS 93 - HOU 109 (Final)",
+      "nba-24-26-2026-11-02": "UTAH 97 - SA 119 (Final)"
     },
     "wnba": {},
     "mlb": {},
@@ -188,7 +189,17 @@
       "ncaamb-2166-265-2026-11-02": "DAV 76 - WSU 61 (Final)",
       "ncaamb-167-3101-2026-11-02": "UTU 60 - UNM 100 (Final)",
       "ncaamb-2000-38-2026-11-02": "ACU 59 - COLO 94 (Final)",
-      "ncaamb-135-155-2026-11-02": "UND 50 - MINN 85 (Final)"
+      "ncaamb-135-155-2026-11-02": "UND 50 - MINN 85 (Final)",
+      "ncaamb-2241-41-2026-11-02": "GWEB 46 - CONN 86 (Final)",
+      "ncaamb-2130-251-2026-11-02": "CHST 59 - TEX 109 (Final)",
+      "ncaamb-236-97-2026-11-02": "UTC 70 - LOU 84 (Final)",
+      "ncaamb-2630-2655-2026-11-02": "UTM 98 - TULN 100 (Final)",
+      "ncaamb-2010-3083-2026-11-02": "OAKW 57 - AAMU 90 (Final)",
+      "ncaamb-2320-2544-2026-11-02": "SCHR 62 - LAM 124 (Final)",
+      "ncaamb-2235-278-2026-11-02": "FPU 79 - FRES 88 (Final)",
+      "ncaamb-197-2916-2026-11-02": "UIW 60 - OKST 91 (Final)",
+      "ncaamb-249-3238-2026-11-02": "SWCU 50 - UNT 122 (Final)",
+      "ncaamb-254-299-2026-11-02": "LBSU 63 - UTAH 66 (Final)"
     },
     "ncaawb": {
       "ncaawb-222-87-2026-11-01": "ND 99 - VILL 75 (Final)",
@@ -348,7 +359,9 @@
       "ncaawb-2005-2172-2026-11-02": "DEN 45 - AF 66 (Final)",
       "ncaawb-21-2239-2026-11-02": "CSUF 51 - SDSU 77 (Final)",
       "ncaawb-2250-2449-2026-11-02": "NDSU 56 - GONZ 62 (Final)",
-      "ncaawb-109604-279-2026-11-02": "SUCA 42 - PAC 105 (Final)"
+      "ncaawb-109604-279-2026-11-02": "SUCA 42 - PAC 105 (Final)",
+      "ncaawb-2277-242-2026-11-02": "HCU 34 - RICE 72 (Final)",
+      "ncaawb-2638-2703-2026-11-02": "WNMU 64 - UTEP 100 (Final)"
     },
     "mls": {
       "mls-9726-9727-2026-11-01": "SEA 1 - VAN 5 (Final)",
