@@ -13,7 +13,8 @@
       "nhl-23-30-2026-11-01": "MIN 5 - WSH 1 (Final)",
       "nhl-129764-15-2026-11-01": "UTA 3 - PHI 6 (Final)",
       "nhl-13-6-2026-11-01": "EDM 4 - NYR 1 (Final)",
-      "nhl-14-25-2026-11-01": "OTT 3 - ANA 6 (Final)"
+      "nhl-14-25-2026-11-01": "OTT 3 - ANA 6 (Final)",
+      "nhl-26-5-2026-11-02": "DET 5 - FLA 3 (Final)"
     },
     "nfl": {
       "nfl-1-27-2026-11-01": "ATL 0 - TB 16 (Final)",
@@ -91,7 +92,7 @@
       "ncaamb-127-2514-2026-11-02": "QUIN 59 - MSU 96 (Final)",
       "ncaamb-2296-2641-2026-11-02": "JKST 42 - TTU 76 (Final)",
       "ncaamb-238-91-2026-11-02": "BELL 47 - VAN 93 (Final)",
-      "ncaamb-2129-2415-2026-11-02": "CHEY 50 - MORG 103 (Final)",
+      "ncaamb-2129-2415-2026-11-02": "CHEY 52 - MORG 103 (Final)",
       "ncaamb-43-47-2026-11-02": "HOW 62 - YALE 72 (Final)",
       "ncaamb-171-2210-2026-11-02": "ELON 84 - COLU 71 (Final)",
       "ncaamb-104-111-2026-11-02": "NE 85 - BU 93 (Final)",
@@ -105,7 +106,22 @@
       "ncaamb-2168-2885-2026-11-02": "NJIT 58 - DAY 89 (Final)",
       "ncaamb-193-256-2026-11-02": "M-OH 86 - JMU 77 (Final)",
       "ncaamb-2711-295-2026-11-02": "WMU 49 - ODU 61 (Final)",
-      "ncaamb-116-2752-2026-11-02": "MSM 52 - XAV 97 (Final)"
+      "ncaamb-116-2752-2026-11-02": "MSM 52 - XAV 97 (Final)",
+      "ncaamb-2418-350-2026-11-02": "UMO 65 - UNCW 101 (Final)",
+      "ncaamb-2116-526-2026-11-02": "FGCU 95 - UCF 96 (Final)",
+      "ncaamb-159-2368-2026-11-02": "DART 69 - MRST 62 (Final)",
+      "ncaamb-153-2717-2026-11-02": "WCU 72 - UNC 80 (Final)",
+      "ncaamb-2050-290-2026-11-02": "BALL 55 - GASO 67 (Final)",
+      "ncaamb-2199-324-2026-11-02": "EMU 71 - CCU 70 (Final)",
+      "ncaamb-232-2576-2026-11-02": "SWES 55 - COFC 111 (Final)",
+      "ncaamb-268-2739-2026-11-02": "LAW 51 - GB 94 (Final)",
+      "ncaamb-2358-2617-2026-11-02": "LYON 61 - SFA 120 (Final)",
+      "ncaamb-2413-98-2026-11-02": "MORE 58 - WKU 83 (Final)",
+      "ncaamb-2172-275-2026-11-02": "DEN 68 - WIS 75 (Final)",
+      "ncaamb-158-2330-2026-11-02": "LEM 64 - NEB 106 (Final)",
+      "ncaamb-2426-45-2026-11-02": "NAVY 39 - GW 91 (Final)",
+      "ncaamb-221-2520-2026-11-02": "RID 57 - PITT 95 (Final)",
+      "ncaamb-2385-269-2026-11-02": "MERC 43 - MARQ 78 (Final)"
     },
     "ncaawb": {
       "ncaawb-222-87-2026-11-01": "ND 99 - VILL 75 (Final)",
@@ -234,7 +250,19 @@
       "ncaawb-2065-2227-2026-11-02": "FMU 30 - BCU 102 (Final)",
       "ncaawb-116-2426-2026-11-02": "NAVY 91 - MSM 63 (Final)",
       "ncaawb-112358-164-2026-11-02": "LIU 52 - RUTG 83 (Final)",
-      "ncaawb-2466-3120-2026-11-02": "ECCL 40 - NWST 120 (Final)"
+      "ncaawb-2466-3120-2026-11-02": "ECCL 40 - NWST 120 (Final)",
+      "ncaawb-189-290-2026-11-02": "GASO 59 - BGSU 82 (Final)",
+      "ncaawb-2130-2287-2026-11-02": "CHST 69 - ILST 106 (Final)",
+      "ncaawb-108884-2634-2026-11-02": "TOCC 46 - TNST 95 (Final)",
+      "ncaawb-2309-2653-2026-11-02": "TROY 89 - KENT 78 (Final)",
+      "ncaawb-2430-2506-2026-11-02": "PRES 50 - UNCG 59 (Final)",
+      "ncaawb-2509-85-2026-11-02": "IUIN 73 - PUR 81 (Final)",
+      "ncaawb-302-3078-2026-11-02": "JSP 42 - UCD 82 (Final)",
+      "ncaawb-195-2433-2026-11-02": "ULM 46 - OHIO 57 (Final)",
+      "ncaawb-2198-2630-2026-11-02": "EKU 89 - UTM 90 (Final)",
+      "ncaawb-2546-2623-2026-11-02": "SEMO 40 - MOST 77 (Final)",
+      "ncaawb-2815-36-2026-11-02": "LIN 46 - CSU 63 (Final)",
+      "ncaawb-163-2057-2026-11-02": "BEL 52 - PRIN 63 (Final)"
     },
     "mls": {
       "mls-9726-9727-2026-11-01": "SEA 1 - VAN 5 (Final)",
