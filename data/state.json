@@ -161,7 +161,8 @@
       "ncaawb-2379-2483-2026-11-26": "ORE 74 - UMES 50 (Final)",
       "ncaawb-2640-47-2026-11-26": "TXSO 51 - HOW 64 (Final)",
       "ncaawb-277-87-2026-11-26": "WVU 64 - ND 78 (Final)",
-      "ncaawb-183-275-2026-11-26": "SYR 75 - WIS 62 (Final)"
+      "ncaawb-183-275-2026-11-26": "SYR 75 - WIS 62 (Final)",
+      "ncaawb-2031-2635-2026-11-26": "LR 53 - TNTC 50 (Final)"
     },
     "mls": {},
     "nwsl": {},
@@ -177,7 +178,15 @@
       "champions-league-436-493-2026-11-25": "FEN 1 - SHK 0 (Final)",
       "champions-league-2250-360-2026-11-25": "MAN 2 - SCP 2 (Final)"
     },
-    "europa-league": {},
+    "europa-league": {
+      "europa-league-349-85-2026-11-26": "BOU 2 - CEL 1 (Final)",
+      "europa-league-131-597-2026-11-26": "B04 2 - DZG 0 (Final)",
+      "europa-league-176-490-2026-11-26": "LEV 0 - OLM 1 (Final)",
+      "europa-league-103-435-2026-11-26": "MIL 4 - OLY 2 (Final)",
+      "europa-league-20024-2790-2026-11-26": "ARA 0 - SLZ 2 (Final)",
+      "europa-league-2990-5807-2026-11-26": "LECH 2 - USG 2 (Final)",
+      "europa-league-11706-1929-2026-11-26": "SLB 0 - PLZ 4 (Final)"
+    },
     "ncaaf": {},
     "ncaab": {},
     "ncaasoftball": {},
