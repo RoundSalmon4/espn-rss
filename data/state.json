@@ -10,12 +10,14 @@
       "nhl-19-9-2026-11-27": "DAL 3 - STL 5 (Final)",
       "nhl-14-20-2026-11-27": "OTT 6 - TB 2 (Final)",
       "nhl-15-22-2026-11-27": "VAN 2 - PHI 5 (Final)",
-      "nhl-29-5-2026-11-27": "DET 2 - CBJ 0 (Final)"
+      "nhl-29-5-2026-11-27": "DET 2 - CBJ 0 (Final)",
+      "nhl-23-26-2026-11-27": "FLA 3 - WSH 2 (Final)"
     },
     "nfl": {
       "nfl-3-8-2026-11-26": "CHI 39 - DET 35 (Final)",
       "nfl-21-6-2026-11-26": "PHI 39 - DAL 38 (Final)",
-      "nfl-12-2-2026-11-26": "KC 10 - BUF 13 (Final)"
+      "nfl-12-2-2026-11-26": "KC 10 - BUF 13 (Final)",
+      "nfl-23-7-2026-11-27": "DEN 5 - PIT 27 (Final)"
     },
     "ncaamb": {
       "ncaamb-2132-61-2026-11-26": "UGA 81 - CIN 83 (Final)",
@@ -58,7 +60,8 @@
       "ncaamb-2040-5-2026-11-27": "AUM 62 - UAB 102 (Final)",
       "ncaamb-239-2628-2026-11-27": "TCU 88 - BAY 69 (Final)",
       "ncaamb-2142-2275-2026-11-27": "COLG 75 - HOF 49 (Final)",
-      "ncaamb-2378-45-2026-11-27": "UMBC 51 - GW 91 (Final)"
+      "ncaamb-2378-45-2026-11-27": "UMBC 51 - GW 91 (Final)",
+      "ncaamb-120-2483-2026-11-27": "MD 73 - ORE 88 (Final)"
     },
     "ncaawb": {
       "ncaawb-2-2582-2026-11-26": "AUB 54 - SOU 52 (Final)",
@@ -123,7 +126,12 @@
       "ncaawb-198-2351-2026-11-27": "ORU 86 - LMU 87 (Final)",
       "ncaawb-2870-79-2026-11-27": "SIU 57 - PFW 52 (Final)",
       "ncaawb-2116-2429-2026-11-27": "UCF 82 - CLT 70 (Final)",
-      "ncaawb-2057-66-2026-11-27": "ISU 89 - BEL 54 (Final)"
+      "ncaawb-2057-66-2026-11-27": "ISU 89 - BEL 54 (Final)",
+      "ncaawb-2320-242-2026-11-27": "LAM 46 - RICE 60 (Final)",
+      "ncaawb-156-248-2026-11-27": "HOU 91 - CREI 64 (Final)",
+      "ncaawb-2458-2862-2026-11-27": "COCU 55 - UNCO 95 (Final)",
+      "ncaawb-2627-2905-2026-11-27": "UTD 51 - TAR 72 (Final)",
+      "ncaawb-2511-2717-2026-11-27": "WCU 57 - QUC 43 (Final)"
     },
     "mls": {},
     "nwsl": {},
