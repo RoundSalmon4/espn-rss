@@ -3,7 +3,10 @@
     "nba": {},
     "wnba": {},
     "mlb": {},
-    "nhl": {},
+    "nhl": {
+      "nhl-1-21-2026-11-27": "TOR 3 - BOS 1 (Final)",
+      "nhl-11-3-2026-11-27": "CGY 3 - NJ 5 (Final)"
+    },
     "nfl": {
       "nfl-3-8-2026-11-26": "CHI 39 - DET 35 (Final)",
       "nfl-21-6-2026-11-26": "PHI 39 - DAL 38 (Final)",
@@ -36,7 +39,8 @@
       "ncaamb-2261-2349-2026-11-27": "UML 72 - HAMP 55 (Final)",
       "ncaamb-261-2771-2026-11-27": "MRMK 75 - UVM 57 (Final)",
       "ncaamb-131761-2754-2026-11-27": "B&SO 66 - YSU 96 (Final)",
-      "ncaamb-2599-66-2026-11-27": "ISU 75 - SJU 80 (Final)"
+      "ncaamb-2599-66-2026-11-27": "ISU 75 - SJU 80 (Final)",
+      "ncaamb-233-2965-2026-11-27": "CKE 47 - SDAK 99 (Final)"
     },
     "ncaawb": {
       "ncaawb-2-2582-2026-11-26": "AUB 54 - SOU 52 (Final)",
@@ -79,7 +83,9 @@
       "ncaawb-2603-30-2026-11-27": "JOES 55 - USC 71 (Final)",
       "ncaawb-197-264-2026-11-27": "WASH 73 - OKST 62 (Final)",
       "ncaawb-250-2697-2026-11-27": "UTA 87 - UWF 84 (Final)",
-      "ncaawb-202-2117-2026-11-27": "TLSA 61 - CMU 68 (Final)"
+      "ncaawb-202-2117-2026-11-27": "TLSA 61 - CMU 68 (Final)",
+      "ncaawb-2628-59-2026-11-27": "TCU 75 - GT 66 (Final)",
+      "ncaawb-2379-61-2026-11-27": "UMES 49 - UGA 83 (Final)"
     },
     "mls": {},
     "nwsl": {},
@@ -109,7 +115,9 @@
       "ncaaf-2628-2641-2026-11-26": "TCU 27 - TTU 48 (Final)",
       "ncaaf-2006-2084-2026-11-27": "BUFF 17 - AKR 9 (Final)",
       "ncaaf-158-2294-2026-11-27": "NEB 7 - IOWA 31 (Final)",
-      "ncaaf-145-344-2026-11-27": "MSST 17 - MISS 41 (Final)"
+      "ncaaf-145-344-2026-11-27": "MSST 17 - MISS 41 (Final)",
+      "ncaaf-202-2636-2026-11-27": "TLSA 22 - UTSA 28 (Final)",
+      "ncaaf-195-2649-2026-11-27": "TOL 34 - OHIO 31 (Final)"
     },
     "ncaab": {},
     "ncaasoftball": {},
