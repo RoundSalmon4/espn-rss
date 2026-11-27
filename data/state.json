@@ -47,7 +47,9 @@
       "ncaamb-278-6-2026-11-27": "FRES 81 - USA 61 (Final)",
       "ncaamb-238-2582-2026-11-27": "SOU 56 - VAN 111 (Final)",
       "ncaamb-154-235-2026-11-27": "MEM 88 - WAKE 85 (Final)",
-      "ncaamb-2330-311-2026-11-27": "ME 90 - LEM 86 (Final)"
+      "ncaamb-2330-311-2026-11-27": "ME 90 - LEM 86 (Final)",
+      "ncaamb-26-46-2026-11-27": "GTWN 63 - UCLA 75 (Final)",
+      "ncaamb-2086-91-2026-11-27": "BELL 56 - BTLR 92 (Final)"
     },
     "ncaawb": {
       "ncaawb-2-2582-2026-11-26": "AUB 54 - SOU 52 (Final)",
@@ -99,11 +101,19 @@
       "ncaawb-2217-252-2026-11-27": "FAIR 62 - BYU 60 (Final)",
       "ncaawb-2182-2572-2026-11-27": "USM 74 - DREX 50 (Final)",
       "ncaawb-228-46-2026-11-27": "GTWN 52 - CLEM 54 (Final)",
-      "ncaawb-136-2546-2026-11-27": "MVC 41 - SEMO 91 (Final)"
+      "ncaawb-136-2546-2026-11-27": "MVC 41 - SEMO 91 (Final)",
+      "ncaawb-2226-98-2026-11-27": "WKU 65 - FAU 56 (Final)",
+      "ncaawb-25-48-2026-11-27": "DEL 71 - CAL 79 (Final)",
+      "ncaawb-2370-2453-2026-11-27": "UTSO 41 - UNA 73 (Final)",
+      "ncaawb-2856-70-2026-11-27": "IDHO 77 - CBU 69 (Final)",
+      "ncaawb-2031-36-2026-11-27": "LR 26 - CSU 71 (Final)",
+      "ncaawb-326-71-2026-11-27": "BRAD 49 - TXST 57 (Final)"
     },
     "mls": {},
     "nwsl": {},
-    "premier-league": {},
+    "premier-league": {
+      "premier-league-363-393-2026-11-27": "CHE 2 - NFO 3 (Final)"
+    },
     "champions-league": {},
     "europa-league": {
       "europa-league-349-85-2026-11-26": "BOU 2 - CEL 1 (Final)",
@@ -146,8 +156,12 @@
     "nascar": {},
     "pga": {},
     "lpga": {},
-    "efl-championship": {},
-    "la-liga": {},
+    "efl-championship": {
+      "efl-championship-369-376-2026-11-27": "MID 0 - SOU 2 (Final)"
+    },
+    "la-liga": {
+      "la-liga-1538-87-2026-11-27": "RAC 3 - LEV 1 (Final)"
+    },
     "bundesliga": {
       "bundesliga-137-268-2026-11-27": "BMG 3 - SVW 3 (Final)"
     },
