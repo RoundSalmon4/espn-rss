@@ -32,7 +32,8 @@
     "nfl": {
       "nfl-14-9-2026-11-25": "GB 13 - LAR 26 (Final)",
       "nfl-3-8-2026-11-26": "CHI 39 - DET 35 (Final)",
-      "nfl-21-6-2026-11-26": "PHI 39 - DAL 38 (Final)"
+      "nfl-21-6-2026-11-26": "PHI 39 - DAL 38 (Final)",
+      "nfl-12-2-2026-11-26": "KC 10 - BUF 13 (Final)"
     },
     "ncaamb": {
       "ncaamb-258-269-2026-11-25": "UVA 60 - MARQ 54 (Final)",
@@ -119,7 +120,9 @@
       "ncaamb-156-2628-2026-11-26": "TCU 87 - CREI 95 (Final)",
       "ncaamb-221-305-2026-11-26": "DEP 64 - PITT 71 (Final)",
       "ncaamb-302-55-2026-11-26": "UCD 68 - JXST 63 (Final)",
-      "ncaamb-2567-99-2026-11-26": "LSU 95 - SMU 86 (Final)"
+      "ncaamb-2567-99-2026-11-26": "LSU 95 - SMU 86 (Final)",
+      "ncaamb-2599-97-2026-11-26": "LOU 93 - SJU 90 (Final)",
+      "ncaamb-2306-333-2026-11-26": "ALA 104 - KSU 91 (Final)"
     },
     "ncaawb": {
       "ncaawb-130-2649-2026-11-25": "TOL 56 - MICH 102 (Final)",
@@ -224,7 +227,9 @@
       "europa-league-21615-256-2026-11-26": "CEL 2 - TOR 1 (Final)",
       "europa-league-3746-7911-2026-11-26": "STG 1 - TSG 3 (Final)"
     },
-    "ncaaf": {},
+    "ncaaf": {
+      "ncaaf-2628-2641-2026-11-26": "TCU 27 - TTU 48 (Final)"
+    },
     "ncaab": {},
     "ncaasoftball": {},
     "lacrosse": {},
