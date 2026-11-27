@@ -65,7 +65,8 @@
       "ncaawb-2006-97-2026-11-27": "AKR 48 - LOU 92 (Final)",
       "ncaawb-2084-2413-2026-11-27": "MORE 79 - BUF 85 (Final)",
       "ncaawb-2378-314-2026-11-27": "UMBC 61 - IONA 60 (Final)",
-      "ncaawb-305-77-2026-11-27": "DEP 80 - NU 75 (Final)"
+      "ncaawb-305-77-2026-11-27": "DEP 80 - NU 75 (Final)",
+      "ncaawb-142-2655-2026-11-27": "TULN 80 - MIZ 64 (Final)"
     },
     "mls": {},
     "nwsl": {},
@@ -115,7 +116,9 @@
     "ncaah": {
       "ncaah-134-2507-2026-11-27": "UMD 1 - PROV 4 (Final)"
     },
-    "ncaawh": {},
+    "ncaawh": {
+      "ncaawh-2771-2779-2026-11-27": "MRMK 3 - USL 6 (Final)"
+    },
     "nbl": {},
     "cfl": {},
     "eur": {}
