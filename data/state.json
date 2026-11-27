@@ -92,7 +92,11 @@
       "ncaawb-2628-59-2026-11-27": "TCU 75 - GT 66 (Final)",
       "ncaawb-2379-61-2026-11-27": "UMES 49 - UGA 83 (Final)",
       "ncaawb-233-2454-2026-11-27": "SDAK 65 - UNF 74 (Final)",
-      "ncaawb-2363-2459-2026-11-27": "NIU 77 - MAN 63 (Final)"
+      "ncaawb-2363-2459-2026-11-27": "NIU 77 - MAN 63 (Final)",
+      "ncaawb-257-2599-2026-11-27": "SJU 54 - RICH 61 (Final)",
+      "ncaawb-2217-252-2026-11-27": "FAIR 62 - BYU 60 (Final)",
+      "ncaawb-2182-2572-2026-11-27": "USM 74 - DREX 50 (Final)",
+      "ncaawb-228-46-2026-11-27": "GTWN 52 - CLEM 54 (Final)"
     },
     "mls": {},
     "nwsl": {},
@@ -141,16 +145,20 @@
     "lpga": {},
     "efl-championship": {},
     "la-liga": {},
-    "bundesliga": {},
+    "bundesliga": {
+      "bundesliga-137-268-2026-11-27": "BMG 3 - SVW 3 (Final)"
+    },
     "serie-a": {},
     "ligue-1": {},
     "ncaah": {
-      "ncaah-134-2507-2026-11-27": "UMD 1 - PROV 4 (Final)"
+      "ncaah-134-2507-2026-11-27": "UMD 1 - PROV 4 (Final)",
+      "ncaah-2142-41-2026-11-27": "CONN 3 - COLG 2 (Final)"
     },
     "ncaawh": {
       "ncaawh-2771-2779-2026-11-27": "MRMK 3 - USL 6 (Final)",
       "ncaawh-284-48-2026-11-27": "DEL 5 - STO 1 (Final)",
-      "ncaawh-135-163-2026-11-27": "MINN 0 - PRIN 2 (Final)"
+      "ncaawh-135-163-2026-11-27": "MINN 0 - PRIN 2 (Final)",
+      "ncaawh-2594-261-2026-11-27": "SCSU 3 - UVM 4 (Final)"
     },
     "nbl": {},
     "cfl": {},
