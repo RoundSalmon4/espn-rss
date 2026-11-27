@@ -52,7 +52,9 @@
       "ncaamb-2086-91-2026-11-27": "BELL 56 - BTLR 92 (Final)",
       "ncaamb-2348-326-2026-11-27": "TXST 78 - LT 70 (Final)",
       "ncaamb-163-350-2026-11-27": "PRIN 66 - UNCW 68 (Final)",
-      "ncaamb-2040-5-2026-11-27": "AUM 62 - UAB 102 (Final)"
+      "ncaamb-2040-5-2026-11-27": "AUM 62 - UAB 102 (Final)",
+      "ncaamb-239-2628-2026-11-27": "TCU 88 - BAY 69 (Final)",
+      "ncaamb-2142-2275-2026-11-27": "COLG 75 - HOF 49 (Final)"
     },
     "ncaawb": {
       "ncaawb-2-2582-2026-11-26": "AUB 54 - SOU 52 (Final)",
@@ -178,13 +180,16 @@
     "ligue-1": {},
     "ncaah": {
       "ncaah-134-2507-2026-11-27": "UMD 1 - PROV 4 (Final)",
-      "ncaah-2142-41-2026-11-27": "CONN 3 - COLG 2 (Final)"
+      "ncaah-2142-41-2026-11-27": "CONN 3 - COLG 2 (Final)",
+      "ncaah-103-87-2026-11-27": "BC 9 - ND 4 (Final)"
     },
     "ncaawh": {
       "ncaawh-2771-2779-2026-11-27": "MRMK 3 - USL 6 (Final)",
       "ncaawh-284-48-2026-11-27": "DEL 5 - STO 1 (Final)",
       "ncaawh-135-163-2026-11-27": "MINN 0 - PRIN 2 (Final)",
-      "ncaawh-2594-261-2026-11-27": "SCSU 3 - UVM 4 (Final)"
+      "ncaawh-2594-261-2026-11-27": "SCSU 3 - UVM 4 (Final)",
+      "ncaawh-108-159-2026-11-27": "DART 2 - HARV 1 (Final)",
+      "ncaawh-2514-43-2026-11-27": "YALE 3 - QUIN 4 (Final)"
     },
     "nbl": {},
     "cfl": {},
