@@ -83,7 +83,9 @@
       "ncaamb-119-219-2026-11-27": "TOW 72 - PENN 61 (Final)",
       "ncaamb-151-286-2026-11-27": "NCW 43 - ECU 92 (Final)",
       "ncaamb-2127-2193-2026-11-27": "CHSO 76 - ETSU 67 (Final)",
-      "ncaamb-2329-2540-2026-11-27": "LEH 43 - UCSB 75 (Final)"
+      "ncaamb-2329-2540-2026-11-27": "LEH 43 - UCSB 75 (Final)",
+      "ncaamb-2116-61-2026-11-27": "UCF 88 - UGA 76 (Final)",
+      "ncaamb-153-277-2026-11-27": "WVU 72 - UNC 59 (Final)"
     },
     "ncaawb": {
       "ncaawb-2-2582-2026-11-26": "AUB 54 - SOU 52 (Final)",
@@ -174,7 +176,8 @@
       "ncaawb-153-349-2026-11-27": "ARMY 65 - UNC 85 (Final)",
       "ncaawb-2633-526-2026-11-27": "TENN 88 - FGCU 80 (Final)",
       "ncaawb-164-2571-2026-11-27": "RUTG 68 - SDST 84 (Final)",
-      "ncaawb-152-2306-2026-11-27": "KSU 70 - NCSU 85 (Final)"
+      "ncaawb-152-2306-2026-11-27": "KSU 70 - NCSU 85 (Final)",
+      "ncaawb-2751-328-2026-11-27": "WYO 51 - USU 59 (Final)"
     },
     "mls": {},
     "nwsl": {},
@@ -248,7 +251,12 @@
       "ncaah-2771-2779-2026-11-27": "MRMK 5 - USL 1 (Final)",
       "ncaah-135-2364-2026-11-27": "MNST 0 - MINN 3 (Final)",
       "ncaah-163-213-2026-11-27": "PRIN 1 - PSU 1 (Final)",
-      "ncaah-104-2172-2026-11-27": "DEN 5 - BU 3 (Final)"
+      "ncaah-104-2172-2026-11-27": "DEN 5 - BU 3 (Final)",
+      "ncaah-130-2222-2026-11-27": "FRST 1 - MICH 3 (Final)",
+      "ncaah-193-284-2026-11-27": "M-OH 3 - STONEHILL 1 (Final)",
+      "ncaah-2528-349-2026-11-27": "ARMY 5 - RPI 2 (Final)",
+      "ncaah-194-2785-2026-11-27": "OSU 4 - UNNY 0 (Final)",
+      "ncaah-107-2005-2026-11-27": "AFA 1 - HC 4 (Final)"
     },
     "ncaawh": {
       "ncaawh-2771-2779-2026-11-27": "MRMK 3 - USL 6 (Final)",
@@ -259,7 +267,9 @@
       "ncaawh-2514-43-2026-11-27": "YALE 3 - QUIN 4 (Final)",
       "ncaawh-103-213-2026-11-27": "BC 2 - PSU 5 (Final)",
       "ncaawh-178-2385-2026-11-27": "RIT 0 - MERC 2 (Final)",
-      "ncaawh-2529-41-2026-11-27": "SHU 1 - CONN 6 (Final)"
+      "ncaawh-2529-41-2026-11-27": "SHU 1 - CONN 6 (Final)",
+      "ncaawh-107-2900-2026-11-27": "HC 0 - STMN 4 (Final)",
+      "ncaawh-132-2815-2026-11-27": "LIN 0 - BST 2 (Final)"
     },
     "nbl": {},
     "cfl": {},
