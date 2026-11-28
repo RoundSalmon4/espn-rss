@@ -5,7 +5,8 @@
       "nba-15-8-2026-11-27": "MIL 98 - DET 113 (Final)",
       "nba-11-20-2026-11-27": "PHI 111 - IND 87 (Final)",
       "nba-17-28-2026-11-27": "BKN 100 - TOR 124 (Final)",
-      "nba-1-2-2026-11-27": "ATL 87 - BOS 86 (Final)"
+      "nba-1-2-2026-11-27": "ATL 87 - BOS 86 (Final)",
+      "nba-16-29-2026-11-27": "MEM 114 - MIN 109 (Final)"
     },
     "wnba": {},
     "mlb": {},
@@ -22,7 +23,9 @@
       "nhl-17-30-2026-11-27": "COL 4 - MIN 3 (Final)",
       "nhl-25-8-2026-11-27": "LA 5 - ANA 3 (Final)",
       "nhl-13-4-2026-11-27": "NYR 1 - CHI 2 (Final)",
-      "nhl-12-28-2026-11-27": "WPG 3 - NYI 1 (Final)"
+      "nhl-12-28-2026-11-27": "WPG 3 - NYI 1 (Final)",
+      "nhl-16-2-2026-11-27": "PIT 6 - BUF 3 (Final)",
+      "nhl-124292-6-2026-11-27": "SEA 4 - EDM 2 (Final)"
     },
     "nfl": {
       "nfl-3-8-2026-11-26": "CHI 39 - DET 35 (Final)",
@@ -100,7 +103,8 @@
       "ncaamb-279-302-2026-11-27": "PAC 78 - UCD 61 (Final)",
       "ncaamb-265-70-2026-11-27": "IDHO 61 - WSU 69 (Final)",
       "ncaamb-111-77-2026-11-27": "NE 61 - NU 65 (Final)",
-      "ncaamb-2449-249-2026-11-27": "NDSU 73 - UNT 75 (Final)"
+      "ncaamb-2449-249-2026-11-27": "NDSU 73 - UNT 75 (Final)",
+      "ncaamb-2390-333-2026-11-27": "MIA 87 - ALA 81 (Final)"
     },
     "ncaawb": {
       "ncaawb-2-2582-2026-11-26": "AUB 54 - SOU 52 (Final)",
@@ -196,7 +200,8 @@
       "ncaawb-249-2747-2026-11-27": "WOF 67 - UNT 82 (Final)",
       "ncaawb-171-24-2026-11-27": "COLU 68 - STAN 45 (Final)",
       "ncaawb-2154-2670-2026-11-27": "COPP 59 - VCU 87 (Final)",
-      "ncaawb-2550-58-2026-11-27": "USF 54 - HALL 64 (Final)"
+      "ncaawb-2550-58-2026-11-27": "USF 54 - HALL 64 (Final)",
+      "ncaawb-166-2440-2026-11-27": "NMSU 59 - NEV 42 (Final)"
     },
     "mls": {
       "mls-183-20232-2026-11-27": "MIA 0 - CLB 1 (Final)"
@@ -237,7 +242,8 @@
       "ncaaf-218-235-2026-11-27": "TEM 35 - MEM 31 (Final)",
       "ncaaf-52-57-2026-11-27": "FLA 26 - FSU 10 (Final)",
       "ncaaf-23-2449-2026-11-27": "NDSU 38 - SJSU 31 (Final)",
-      "ncaaf-167-2005-2026-11-27": "AFA 19 - UNM 42 (Final)"
+      "ncaaf-167-2005-2026-11-27": "AFA 19 - UNM 42 (Final)",
+      "ncaaf-135-275-2026-11-27": "MINN 5 - WIS 28 (Final)"
     },
     "ncaab": {},
     "ncaasoftball": {},
