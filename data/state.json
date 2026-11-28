@@ -12,7 +12,9 @@
       "nhl-15-22-2026-11-27": "VAN 2 - PHI 5 (Final)",
       "nhl-29-5-2026-11-27": "DET 2 - CBJ 0 (Final)",
       "nhl-23-26-2026-11-27": "FLA 3 - WSH 2 (Final)",
-      "nhl-18-37-2026-11-27": "VGK 1 - SJ 4 (Final)"
+      "nhl-18-37-2026-11-27": "VGK 1 - SJ 4 (Final)",
+      "nhl-17-30-2026-11-27": "COL 4 - MIN 3 (Final)",
+      "nhl-25-8-2026-11-27": "LA 5 - ANA 3 (Final)"
     },
     "nfl": {
       "nfl-3-8-2026-11-26": "CHI 39 - DET 35 (Final)",
@@ -66,7 +68,9 @@
       "ncaamb-2083-2325-2026-11-27": "LAS 89 - BUCK 86 (Final)",
       "ncaamb-142-2029-2026-11-27": "UAPB 61 - MIZ 97 (Final)",
       "ncaamb-2515-44-2026-11-27": "RAD 62 - AMER 64 (Final)",
-      "ncaamb-103-2132-2026-11-27": "CIN 70 - BC 59 (Final)"
+      "ncaamb-103-2132-2026-11-27": "CIN 70 - BC 59 (Final)",
+      "ncaamb-315-322-2026-11-27": "NIA 54 - LAF 82 (Final)",
+      "ncaamb-259-295-2026-11-27": "ODU 61 - VT 70 (Final)"
     },
     "ncaawb": {
       "ncaawb-2-2582-2026-11-26": "AUB 54 - SOU 52 (Final)",
@@ -139,7 +143,11 @@
       "ncaawb-2511-2717-2026-11-27": "WCU 57 - QUC 43 (Final)",
       "ncaawb-2623-265-2026-11-27": "WSU 63 - MOST 67 (Final)",
       "ncaawb-222-99-2026-11-27": "LSU 84 - VILL 65 (Final)",
-      "ncaawb-311-96-2026-11-27": "ME 28 - UK 74 (Final)"
+      "ncaawb-311-96-2026-11-27": "ME 28 - UK 74 (Final)",
+      "ncaawb-219-411-2026-11-27": "PENN 95 - CHAP 49 (Final)",
+      "ncaawb-21-62-2026-11-27": "SDSU 64 - HAW 71 (Final)",
+      "ncaawb-2168-52-2026-11-27": "FSU 78 - DAY 85 (Final)",
+      "ncaawb-300-55-2026-11-27": "JXST 38 - UCI 85 (Final)"
     },
     "mls": {},
     "nwsl": {},
@@ -174,7 +182,8 @@
       "ncaaf-145-344-2026-11-27": "MSST 17 - MISS 41 (Final)",
       "ncaaf-202-2636-2026-11-27": "TLSA 22 - UTSA 28 (Final)",
       "ncaaf-195-2649-2026-11-27": "TOL 34 - OHIO 31 (Final)",
-      "ncaaf-2026-6-2026-11-27": "APP 13 - USA 20 (Final)"
+      "ncaaf-2026-6-2026-11-27": "APP 13 - USA 20 (Final)",
+      "ncaaf-218-235-2026-11-27": "TEM 35 - MEM 31 (Final)"
     },
     "ncaab": {},
     "ncaasoftball": {},
