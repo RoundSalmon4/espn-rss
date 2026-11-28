@@ -14,7 +14,8 @@
       "nhl-23-26-2026-11-27": "FLA 3 - WSH 2 (Final)",
       "nhl-18-37-2026-11-27": "VGK 1 - SJ 4 (Final)",
       "nhl-17-30-2026-11-27": "COL 4 - MIN 3 (Final)",
-      "nhl-25-8-2026-11-27": "LA 5 - ANA 3 (Final)"
+      "nhl-25-8-2026-11-27": "LA 5 - ANA 3 (Final)",
+      "nhl-13-4-2026-11-27": "NYR 1 - CHI 2 (Final)"
     },
     "nfl": {
       "nfl-3-8-2026-11-26": "CHI 39 - DET 35 (Final)",
@@ -75,7 +76,10 @@
       "ncaamb-245-269-2026-11-27": "MARQ 76 - TA&M 78 (Final)",
       "ncaamb-251-2608-2026-11-27": "TEX 76 - SMC 73 (Final)",
       "ncaamb-2181-68-2026-11-27": "DRKE 71 - BOIS 88 (Final)",
-      "ncaamb-130-2306-2026-11-27": "MICH 98 - KSU 69 (Final)"
+      "ncaamb-130-2306-2026-11-27": "MICH 98 - KSU 69 (Final)",
+      "ncaamb-356-98-2026-11-27": "WKU 76 - ILL 116 (Final)",
+      "ncaamb-189-84-2026-11-27": "BGSU 57 - IU 93 (Final)",
+      "ncaamb-2576-2908-2026-11-27": "SWES 78 - UPST 87 (Final)"
     },
     "ncaawb": {
       "ncaawb-2-2582-2026-11-26": "AUB 54 - SOU 52 (Final)",
@@ -156,8 +160,10 @@
       "ncaawb-151-2241-2026-11-27": "GWEB 70 - ECU 79 (Final)",
       "ncaawb-2086-2439-2026-11-27": "BTLR 72 - UNLV 54 (Final)",
       "ncaawb-2463-2900-2026-11-27": "STMN 60 - CSUN 54 (Final)",
-      "ncaawb-213-239-2026-11-27": "PSU 56 - BAY 84 (Final)",
-      "ncaawb-2174-2437-2026-11-27": "OMA 75 - DETM 66 (Final)"
+      "ncaawb-213-239-2026-11-27": "PSU 56 - BAY 82 (Final)",
+      "ncaawb-2174-2437-2026-11-27": "OMA 75 - DETM 66 (Final)",
+      "ncaawb-2433-278-2026-11-27": "ULM 53 - FRES 64 (Final)",
+      "ncaawb-2638-279-2026-11-27": "UTEP 55 - PAC 59 (Final)"
     },
     "mls": {},
     "nwsl": {},
@@ -230,7 +236,7 @@
       "ncaah-103-87-2026-11-27": "BC 9 - ND 4 (Final)",
       "ncaah-2771-2779-2026-11-27": "MRMK 5 - USL 1 (Final)",
       "ncaah-135-2364-2026-11-27": "MNST 0 - MINN 3 (Final)",
-      "ncaah-163-213-2026-11-27": "PRIN 1 - PSU 2 (Final)"
+      "ncaah-163-213-2026-11-27": "PRIN 1 - PSU 1 (Final)"
     },
     "ncaawh": {
       "ncaawh-2771-2779-2026-11-27": "MRMK 3 - USL 6 (Final)",
