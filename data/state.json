@@ -178,7 +178,9 @@
     },
     "nwsl": {},
     "premier-league": {
-      "premier-league-363-393-2026-11-27": "CHE 2 - NFO 3 (Final)"
+      "premier-league-363-393-2026-11-27": "CHE 2 - NFO 3 (Final)",
+      "premier-league-357-388-2026-11-28": "COV 0 - LEE 3 (Final)",
+      "premier-league-337-360-2026-11-28": "BRE 4 - MAN 0 (Final)"
     },
     "champions-league": {},
     "europa-league": {},
@@ -214,7 +216,13 @@
       "efl-championship-369-376-2026-11-27": "MID 0 - SOU 2 (Final)",
       "efl-championship-365-372-2026-11-28": "CHA 0 - BLK 1 (Final)",
       "efl-championship-314-380-2026-11-28": "WOL 0 - LCN 0 (Final)",
-      "efl-championship-381-394-2026-11-28": "NOR 1 - PNE 1 (Final)"
+      "efl-championship-381-394-2026-11-28": "NOR 1 - PNE 1 (Final)",
+      "efl-championship-358-392-2026-11-28": "BOL 4 - BIR 2 (Final)",
+      "efl-championship-374-395-2026-11-28": "WAT 0 - DER 0 (Final)",
+      "efl-championship-379-391-2026-11-28": "BUR 1 - MIL 0 (Final)",
+      "efl-championship-334-398-2026-11-28": "SHU 1 - QPR 1 (Final)",
+      "efl-championship-333-383-2026-11-28": "BRC 0 - WBA 1 (Final)",
+      "efl-championship-352-385-2026-11-28": "POR 0 - WXM 1 (Final)"
     },
     "la-liga": {
       "la-liga-1538-87-2026-11-27": "RAC 3 - LEV 1 (Final)",
